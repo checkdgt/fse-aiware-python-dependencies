@@ -1,0 +1,2892 @@
+id,name,result,duration,python_modules,total_modules,passed
+1,da6c11fad0fc1966aa057e62bacccb2d,Build failure,140.31,watson,1,False
+1,c8eb9d0938584a277f90,OtherPass,77.21,robofab;fonttools,2,True
+1,f5b0d13b0bb3e4ac0572,Build failure,48.18,s4d,1,False
+1,1554441,OtherPass,57.65,django,1,True
+1,867684,ModuleNotFound,448.15,etornado;your;numpy,3,False
+1,3094847,OtherPass,51.6,django,1,True
+1,6695625,Build failure,63.14,winregal;pypiwin32,2,False
+1,efbe081b2bde5662cc1e76db0e12289e,ModuleNotFound,154.1,v2,1,False
+1,1183842,ImportError,65.43,py-ava;python-org,2,False
+1,4599814,OtherPass,73.52,numpy;scipy,2,True
+1,893580,OtherPass,58.13,biopython,1,True
+1,9132441,NameError,39.12,scene,1,True
+1,5201689,Build failure,47.16,pygeo,1,False
+1,e3b59913d71d82a03eda,OtherPass,471.86,cassandra-driver,1,True
+1,6404683,OtherPass,49.72,sinaweibopy;requests,2,True
+1,8285428,NameError,50.72,scene,1,True
+1,a7c41b072cfa4cc2c592,ImportError,103.08,idc;paapi,2,False
+1,2838603,ImportError,78.41,shapely;geopy;sgepy,3,False
+1,4504341,ImportError,59.55,py-ava;burp,2,False
+1,2f8f55987ccc224e2342,Build failure,78.97,igoogle;flask,2,False
+1,3803893,ImportError,82.73,vrpy;numpy,2,False
+1,1fa4f3360ffdb1e69507,Build failure,67.42,pysi,1,False
+1,817a70706587da3bd862835c59ef584e,OtherPass,120.06,pillow;django-user-accounts;django;djangorestframework;urlspy,5,True
+1,5073235,ModuleNotFound,162.13,ssound,1,False
+1,756b1d8df2d1487497d29b90e81f8068,AttributeError,88.01,requests;pyopenssl;pyyaml;paver,4,False
+1,4334461,OtherPass,57.13,django,1,True
+1,51edd66425998e5fca37,Build failure,113.92,webvirtmgr;uikit;quartz;web-foundation,4,False
+1,73efaccda6025883fc66,OtherPass,38.63,pyyaml,1,True
+1,5eaed8a5c299e5282d066a1fbc03152c,OtherPass,74.15,django,1,True
+1,11078820,OtherPass,27.47,,0,True
+1,925270,OtherPass,55.91,django,1,True
+1,0cfe89a89b892e47e8418e281dfe318d,OtherPass,116.01,psycopg2;django,2,True
+1,eca49daaae6d4566383b39908bfc3fd0,OtherPass,44.58,requests,1,True
+1,9cba618eacedc68c656b,ImportError,74.17,scapy-python3;cachetools;pylibec,3,False
+1,da0ebd94c1c1fcf7ef6f3cd3f1f6fb9c,NameError,55.2,pillow,1,True
+1,8752582,ModuleNotFound,81.56,django;py3-application,2,False
+1,1308865,OtherPass,51.59,django,1,True
+1,ff2f97d91c9bed820c15,OtherPass,360.57,numpy;scipy,2,True
+1,379cc31c29cfb5bdc9a0,SyntaxError,87.23,numpy;chainer;scikit-learn,3,False
+1,5181631,Build failure,63.14,systemd-python,1,False
+1,2203822,Build failure,52.06,pysi,1,False
+1,0d5b3e7cc89cb2180c6e,OtherPass,55.43,pillow,1,True
+1,3676137,OtherPass,58.93,django;django-wysiwyg-redactor,2,True
+1,d1426ffad93b786e035e,OtherPass,47.64,django,1,True
+1,d14e424540faedb3ea88,Build failure,56.43,openerp-hr,1,False
+1,10792332,OtherPass,24.97,,0,True
+1,4713392,ImportError,62.62,python-kuro,1,False
+1,5bfad28ceb3a484dfd2a,OtherPass,69.91,scipy;scikit-learn,2,True
+1,7719991351343a92aa7b654d2b36c8db,Build failure,93.53,paho-mqtt;robotpy-hal-base;smachine;robotpy-hal-sim,4,False
+1,8838751,ImportError,69.66,myphotos,1,False
+1,4575855,OtherPass,51.91,django,1,True
+1,1435555,OtherPass,48.58,twisted,1,True
+1,8464000,ModuleNotFound,140.19,pysi;opencv-python,2,False
+1,6649639,OtherPass,76.14,werkzeug;flask,2,True
+1,c4b999517b713adb6480a349bb6d7658,OtherPass,90.72,google-cloud;oauth2client,2,True
+1,535acf4c62ee2a71da498281c2dfc4f4,AttributeError,348.28,gym;numpy;tensorflow-gpu,3,False
+1,5521734,Build failure,46.46,pillow;pathpy,2,False
+1,4034439,Build failure,153.37,scene;soundy,2,False
+1,11242170,Build failure,69.84,pillow;pyphotosim;clipboard,3,False
+1,d6cdb809115ecf46d5fea5a458c4dada,Build failure,64.72,spynl;pyquery,2,False
+1,9676416,OtherPass,49.78,pysocks;paramiko,2,True
+1,16ce4914683da30f87d0,OtherPass,73.26,numpy;scipy;scikit-learn,3,True
+1,31eee50b9aaebf387b380f70054575c5,OtherPass,304.86,tensorflow-tensorboard;tensorflow-gpu,2,True
+1,a3dd4a35ecd94660411112999923d561,OtherPass,85.3,numpy;scipy;dask;cloudpickle;cytoolz,5,True
+1,8883307,Build failure,41.55,dfwinreg,1,False
+1,5807738,ModuleNotFound,143.19,yc;vimpy,2,False
+1,b5d44b5c06172733d9edda4bcf9326b2,ModuleNotFound,141.88,v2;numpy,2,False
+1,a2b9c6ecdb24ca8fd6f4f41a9c0eb32e,ModuleNotFound,121.08,rbpy,1,False
+1,20d90e1f21792a67eb6d27c445aa7a1f,OtherPass,44.3,pyyaml,1,True
+1,738fa2eedd9666b78404ed1751336f56,Build failure,230.68,lasagne;theano;utils-s;unumpy,4,False
+1,5803923,OtherPass,56.32,django,1,True
+1,3057138,OtherPass,75.71,numpy;pyodbc;pandas,3,True
+1,11538913,ModuleNotFound,123.99,dock-python;writema;pychime,3,False
+1,805439,ModuleNotFound,153.91,sqlalchemy;fbs-tutorial;django-users2;baseline;pyramid,5,False
+1,5108298,SyntaxError,38.31,python-daemon,1,False
+1,6337361,OtherPass,47.83,django,1,True
+1,5437131,Build failure,71.66,stratega;oxapi,2,False
+1,0306734dfe17076dfd34e09660c198c0,OtherPass,91.1,numpy;pandas,2,True
+1,8497c831c0a37ec4060b,AttributeError,115.64,websocket-client,1,False
+1,2635074,ModuleNotFound,112.08,dce-plugin;sublime-cli,2,False
+1,d03a49767c7c307be5ed,OtherPass,33.81,,0,True
+1,2351057,OtherPass,87.56,numpy;matplotlib;scikit-learn,3,True
+1,1074551,ImportError,70.35,numpy;vmaccess,2,False
+1,5882365,Build failure,159.26,matplotlib;audio;numpy,3,False
+1,0b42dbd687ae3b838728,OtherPass,57.8,gitdb2;gitpython,2,True
+1,d6eb474543c32eb33504,ModuleNotFound,98.42,ivy-python,1,False
+1,1701305,Build failure,108.68,pyogg;yedb,2,False
+1,6606487,OtherPass,45.23,beautifulsoup4,1,True
+1,391fb178d7c06e8dc7e4051d9b5395af,Build failure,165.74,pytesseract;opencv-python;numpy;is-msgs;fractionlib;sensor;pillow;prospyr,8,False
+1,2d4a4a8be57a9b8e94c7a4903d8d8bf8,OtherPass,63.52,requests;signalr-client,2,True
+1,4712723,OtherPass,48.3,xlwt;pillow,2,True
+1,2288152,OtherPass,41.25,pillow,1,True
+1,cd9a1a7c969c06eaae8b,Build failure,72.13,django-haystack;django;six,3,False
+1,1650418,ImportError,79.47,psycopg2;impostor,2,False
+1,949ba045d1471c03ae7c,OtherPass,133.93,keras;theano;matplotlib;snumpy;pandas,5,True
+1,242176c5bdb282b0a327,OtherPass,85.96,numpy;livestreamer;opencv-contrib-python,3,True
+1,5df669df7b29806ca541,OtherPass,91.89,pymaps;pandas,2,True
+1,891080,OtherPass,52.18,gsconfig,1,True
+1,7653403,TypeError,41.41,pyyaml,1,True
+1,594015,OtherPass,51.73,django,1,True
+1,3714115,Build failure,43.63,django,1,False
+1,d64234a093e223e319d2d7a104d4b85e,ModuleNotFound,96.15,objs;web-py,2,False
+1,0c10e910e514832b7103,ImportError,96.36,google-py,1,False
+1,1534135a419bb0b957b9,OtherPass,318.04,numpy;tensorflow-gpu,2,True
+1,3989161,ModuleNotFound,65.9,djangomosquito,1,False
+1,9228580,Build failure,54.84,django;django-cms,2,False
+1,ef26915065225df65c1187562eca7ec4,OtherPass,194.9,numpy;torch,2,True
+1,70ed63ee8992c401a9dd,ModuleNotFound,64.57,pyfarm-core,1,False
+1,19284bd220165758a0c953ae25108b6b,Build failure,189.73,numpy;mathutils;ubpy,3,False
+1,3829302,OtherPass,90.27,django-taggit;django;factory-boy,3,True
+1,1402892,OtherPass,75.37,scipy;scikit-learn;numpy,3,True
+1,1165038,AttributeError,85.96,pyopenssl;pyyaml;paver,3,False
+1,2604241,OtherPass,53.8,django-storages;pyopenssl,2,True
+1,1795840,ImportError,56.09,pymay,1,False
+1,477969,OtherPass,58.55,biopython,1,True
+1,c2dfe5772ba3cd16c1be17ba42b7db66,SyntaxError,361.3,keras;tensorflow-gpu,2,False
+1,1e58686b6d5193cbaf30,ImportError,85.13,jinja2;apache-libcloud,2,False
+1,1192059,OtherPass,66.91,pycrypto,1,True
+1,4121343,NameError,45.97,pillow;scene,2,True
+1,eef8c9bfb4434787672c303153eee500,OtherPass,43.22,paho-mqtt,1,True
+1,d100a028027c5a6b8340,OtherPass,36.13,python-dateutil,1,True
+1,1441019,Build failure,34.16,pygtk,1,False
+1,783993,OtherPass,64.66,mongoengine;django,2,True
+1,2a5d283b0d279ea96c26,OtherPass,29.88,,0,True
+1,6e20dba959277bd9af77,ImportError,215.78,numpy;datapy;xgboost;scikit-learn;pandas;hyperopt,6,False
+1,071932322204bcad6063,Build failure,51.37,uip;scene,2,False
+1,f11258583ffcc4728eb71adc0f38e832,ImportError,214.36,graphviz;torch;torchvision,3,False
+1,27a1eea9f1d01056ebb0,ModuleNotFound,68.51,pyinotify;pynotify;cgtk,3,False
+1,64821d31816bce595a4bbd98588b37f5,OtherPass,90.67,numpy;scikit-image,2,True
+1,667919,OtherPass,142.45,twisted;mysqlclient,2,True
+1,11215761,OtherPass,51.03,django,1,True
+1,fbadce83877a36622720,ModuleNotFound,151.36,rbpy,1,False
+1,5378938,OtherPass,46.5,pillow,1,True
+1,d6cd0fb8c85e1547c3c60f95f5b2d5e1,OtherPass,64.09,django,1,True
+1,c18bfe4fd96008ffa0aef25001a2e88f,OtherPass,70.57,bleach;django,2,True
+1,6033364,OtherPass,85.02,numpy;scipy;matplotlib,3,True
+1,4132799,SyntaxError,51.86,pillow;clipboard,2,False
+1,27bbd6895c0afb314879,OtherPass,43.29,praw,1,True
+1,da582d745fa2bf0ddd8f5f7480042291,ModuleNotFound,88.56,numpy;opencv-python;pycdlib,3,False
+1,2351079,OtherPass,49.89,django,1,True
+1,1920535,OtherPass,73.61,sorl-thumbnail;pillow;django,3,True
+1,5633266,OtherPass,90.33,numpy;scikit-learn,2,True
+1,1065196,OtherPass,49.15,django,1,True
+1,1042719,Build failure,67.48,muffin;python-ldap;django,3,False
+1,4350345,OtherPass,46.54,pymongo,1,True
+1,8e4b396a1c8a1f3f80d0,ImportError,85.53,webvirtmgr;pyeditor,2,False
+1,3940455,OtherPass,28.66,,0,True
+1,c26b2dd5c2bdeaf6d7479a68bd7023bb,TypeError,220.7,numpy;tensorflow-gpu,2,True
+1,7634c596fe7669a54321,Build failure,45.86,oauth2client;google-api-python-client;httplib2,3,False
+1,6146161,ModuleNotFound,74.98,python-pyq,1,False
+1,9673839,OtherPass,149.25,numpy;scipy;deap,3,True
+1,2866461,TypeError,124.8,twisted,1,True
+1,260617,Build failure,150.04,appkit;web-foundation;pyobjc,3,False
+1,44a392a01fa3e0181972,ImportError,78.9,matplotlib;vtk;numpy,3,False
+1,3993992,OtherPass,95.85,numpy;scipy;matplotlib,3,True
+1,5455375,OtherPass,98.52,numpy;matplotlib;scipy,3,True
+1,2b2abbb88b5d2b4f4e5adde42975fd0f,OtherPass,117.94,lxml;beautifulsoup4;requests;newspaper3k,4,True
+1,1761714,OtherPass,57.48,numpy;scipy,2,True
+1,3778686,Build failure,88.47,products-openxml;transaction;kglobal,3,False
+1,f2608cbe54403edb0b13,OtherPass,73.78,,0,True
+1,b72585771a9f606ad800,ImportError,88.43,js-foundation,1,False
+1,166499794efcdfde4d00,Build failure,122.81,pillow;image;clipboard;gphotos;beautifulsoup4,5,False
+1,8d1a9b14d4e9a9080ab4752608c2de61,OtherPass,123.27,pycrypto;botocore;boto3,3,True
+1,238302,OtherPass,43.89,svn,1,True
+1,4474608,Build failure,95.52,gobject;pygtp;gst;pygtk;pygst,5,False
+1,5328738,ModuleNotFound,108.78,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,7a41da7aabb8455d0898db362335e139,OtherPass,64.12,impacket,1,True
+1,3f3b547ff68effb03e20c470af22c696,Build failure,248.81,sensorflow,1,False
+1,f435aa0ccd498b0840d2407d599bf31d,Build failure,74.46,oauth2clientziead;httplib2;google-api-python-client,3,False
+1,1639941,Build failure,95.98,deluge;delugeonal,2,False
+1,3803003,Build failure,61.12,nose;mongoenginelock,2,False
+1,5540702,OtherPass,42.57,pillow,1,True
+1,d4ffebb452fe738b8aaa8005fc08a068,OtherPass,135.25,scikit-learn;numpy;scipy;matplotlib;seaborn,5,True
+1,5862530,Build failure,58.12,pyusb;pygtt;pygtk,3,False
+1,48d92d4153754aea4504,OtherPass,51.85,django,1,True
+1,7e9499ba7e436535fd94,OtherPass,77.99,django,1,True
+1,8617378,OtherPass,57.56,django,1,True
+1,8364262,OtherPass,61.76,pycrypto,1,True
+1,6483510,ImportError,82.12,proxy;pysnap,2,False
+1,2816295,OtherPass,52.06,pillow;requests,2,True
+1,c2d24fe340a7f3cf76d2,ModuleNotFound,243.99,pyspare,1,False
+1,5237011,Build failure,50.54,numpy;audio,2,False
+1,2902213,OtherPass,41.61,mysqlclient,1,True
+1,e3433ebba20c92b63111,Build failure,82.6,uis;wc-utils,2,False
+1,4594879,OtherPass,120.27,tornado,1,True
+1,6194738,Build failure,137.54,ipython;roots,2,False
+1,3800756,OtherPass,67.15,django,1,True
+1,5455d2c57fb33c1ae04706f2dc4fee01,Build failure,171.51,pmxbot;chaco;wxmpy;baza;mypackage;attrdict,6,False
+1,f28b7a2d3356a0ed39823aaea66b50d0,ModuleNotFound,68.74,isbinary,1,False
+1,6af6a8478561aa8a0121,OtherPass,27.86,,0,True
+1,6cd16631253eed21f37f,ImportError,98.22,matplotlib;cccp;py3o-types;pyconsts,4,False
+1,4716919,OtherPass,49.2,boto;pillow,2,True
+1,1823320,OtherPass,54.75,django;django-registration,2,True
+1,1315148,ImportError,90.18,numpy;cffi;pyvx,3,False
+1,586892,Build failure,43.92,bz2file;dfwinreg,2,False
+1,6509307,OtherPass,56.68,django,1,True
+1,1140516,OtherPass,52.35,django,1,True
+1,1055992,OtherPass,52.65,django,1,True
+1,1228626,OtherPass,53.22,django,1,True
+1,6d94b7d06f7ed9d8bfc4985b094bf6d4,OtherPass,57.08,django,1,True
+1,18a73aa5dab4b574e2f5,OtherPass,65.09,django,1,True
+1,2721811,ModuleNotFound,112.64,dce-plugin;sublime-cli,2,False
+1,2590850,Build failure,180.41,rbpy;mathutils,2,False
+1,771052,OtherPass,82.3,django,1,True
+1,e1b58ad5ff33c697ae83d83fdbab76e4,OtherPass,96.65,scrapy,1,True
+1,4156864,NameError,56.38,python-editor;pillow;scene,3,True
+1,c7ec9a30052127c7a1ad169eeb83f159,AttributeError,336.86,tensorflow-gpu,1,False
+1,3097851,ModuleNotFound,114.51,v2,1,False
+1,6105220,Build failure,67.27,doppkit;pyobjc,2,False
+1,1077970,OtherPass,41.0,pyodbc,1,True
+1,1572547,ModuleNotFound,128.01,igoogle;simplejson;ndb,3,False
+1,1423373,OtherPass,66.37,numpy;scipy;scikit-learn,3,True
+1,989074,SyntaxError,56.0,simplestyle;inkex,2,False
+1,ae2a7adaab133c61a059,ModuleNotFound,246.49,lasagne;pythea,2,False
+1,7aea60f80f6aa9b79cc9509b633557c9,ImportError,63.1,py2,1,False
+1,4c10830640d325e0cab978bc18c6263a,TypeError,188.03,numpy;tensorflow-gpu,2,True
+1,436e19a22f570f1cce2f,ModuleNotFound,117.66,wxc;attrdict,2,False
+1,11367287,OtherPass,124.18,pillow;camera,2,True
+1,511440,OtherPass,50.46,django,1,True
+1,efe482bad12c2fae6afe,OtherPass,101.01,nltk;scipy;gensim,3,True
+1,10335601,ModuleNotFound,98.51,dce-plugin;sublime-cli,2,False
+1,667150e96fdc2d53fd11,OtherPass,66.04,numpy;pillow,2,True
+1,41f782ce86346d46800d,ModuleNotFound,128.67,v2;numpy,2,False
+1,f0bc519824e46815939b240c4f6a7553,OtherPass,32.02,,0,True
+1,9fbbf2f450779bde60c3,OtherPass,136.11,numpy;scikit-learn,2,True
+1,421c427db75c8c5fa1d1,OtherPass,118.3,tornado,1,True
+1,2416148,OtherPass,52.0,tornado;pymongo,2,True
+1,9316552,ImportError,69.72,html2text;ivy-python;pyepub,3,False
+1,3b258f5287fcc181aacf,Build failure,70.81,igoogle,1,False
+1,3089556,Build failure,89.33,usagestats;image;kgtk,3,False
+1,f884a43c59e26199591ec4e234d069f5,ModuleNotFound,127.29,pyuwsgi;runtime;setuptools;greenlet,4,False
+1,1358794,Build failure,50.65,gevent;yqt;flask,3,False
+1,5c973ec1b5ab2e387646,ModuleNotFound,126.95,rbpy,1,False
+1,b19bb35f5484af5d7622,Build failure,61.81,pysi;scripts,2,False
+1,4792fc97f8a4094ac90d,Build failure,56.99,python-project;pymongo,2,False
+1,5973156,OtherPass,59.72,numpy;pillow,2,True
+1,3772157,OtherPass,88.81,numpy;scipy;matplotlib,3,True
+1,137667,ModuleNotFound,140.8,cgtk;pywebkit;image,3,False
+1,4624820,ImportError,151.67,opencv-contrib-python;timage,2,False
+1,21fbffd7a7990f5e066c,Build failure,94.12,django-dbsettings;whoosh;flask-whooshalchemy;six;django-storages;pyedflib,6,False
+1,85a3eab09fefbb3bee5d,ModuleNotFound,83.19,scapy-python3;zqueue,2,False
+1,96a329f6d12f17b4760373b1cf3b92e9,OtherPass,42.74,beautifulsoup4,1,True
+1,5598271,Build failure,100.76,pysimpleguiwx,1,False
+1,2232681,ModuleNotFound,116.04,pyqtx;kdepy,2,False
+1,b76261844db0255899ba857838a7c201,ModuleNotFound,341.47,pfc-util,1,False
+1,5af7cd0e934f5465b695,OtherPass,64.33,django,1,True
+1,493065,ModuleNotFound,62.1,pymongorm,1,False
+1,01b8b8e1909ae0f601c85e142f2bd15b,Build failure,75.01,weibo;pushbullet-py;tlsh,3,False
+1,22935c16da4eda92762f,ModuleNotFound,241.83,pygist;pyqt5,2,False
+1,7282002,OtherPass,69.6,numpy;scipy,2,True
+1,6019350,Build failure,66.97,pyqtx;sipm;pandas,3,False
+1,426829,OtherPass,96.27,django,1,True
+1,b6e374d172bbe3e6130f6849e7bd6c13,OtherPass,133.84,stop-words;gensim;nltk;pandas,4,True
+1,910726,Build failure,66.13,wrestful,1,False
+1,258a248d20334e781b56,ModuleNotFound,104.64,settingspy;azure;django,3,False
+1,1766791,ImportError,48.88,snarf-libvirt,1,False
+1,badd18a84b236c9e6c34057512cb569a,SyntaxError,81.6,unicornhat,1,False
+1,fcbdd3924ee230592ab4,ModuleNotFound,115.99,foundation;vobj;web-py,3,False
+1,bbfa863f3fe4bb2163d94394d7b60899,ModuleNotFound,123.34,pyfol,1,False
+1,168c9d74b988391e702aac5f4aa69e41,OtherPass,78.23,pycrypto,1,True
+1,6334787,OtherPass,55.98,pytz;pexpect;xively-python,3,True
+1,1229685,OtherPass,50.25,django,1,True
+1,f66cb485a3f3353402a5,Build failure,55.14,pypcap3,1,False
+1,3946121,OtherPass,61.78,colorz,1,True
+1,c87011a445135417c114960bbc187618,SyntaxError,432.54,keras;pyspark;tensorflow-gpu,3,False
+1,5316196,OtherPass,66.32,path-py;pandas,2,True
+1,1628838,OtherPass,58.86,django,1,True
+1,1338222,OtherPass,58.92,numpy;scipy,2,True
+1,1459283a9c934cbc41f3,Build failure,46.69,s4d,1,False
+1,e196107b5e0afc834652bd3153030c42,TypeError,220.57,portpicker;tensorflow-gpu,2,True
+1,5463830,OtherPass,40.32,freetype-py,1,True
+1,c3124826a3c49ddda6999acb40ad2c27,OtherPass,81.77,pyserial;pillow;numpy,3,True
+1,6325830,OtherPass,87.76,numpy;matplotlib;scikit-learn,3,True
+1,d97eb37da84ce7329de6,OtherPass,117.23,matplotlib;numpy;fipy,3,True
+1,561bf3bf6c1477d99e7b,OtherPass,49.05,tornado;cassandra-driver,2,True
+1,1290744,NameError,51.81,mapnik,1,True
+1,407d78fbe0f234ea34c6,ModuleNotFound,115.32,v2,1,False
+1,4230222,OtherPass,66.64,scipy,1,True
+1,5911624,Build failure,234.21,matplotlib;scipy;unumpy;pymc,4,False
+1,1045108,OtherPass,72.57,selenium;scrapy;lxml,3,True
+1,5823716a1da5f0273504,AttributeError,88.76,pillow;numpy;pyopengl;pysdl2,4,False
+1,7f4e44a42b8e1f457f77,ModuleNotFound,119.22,matplotlib;numpy;python-pyq,3,False
+1,3971007,ImportError,125.4,matplotlib;skutil;pandas,3,False
+1,835cda68ddd9c5416defce876a4d7dd9,ImportError,121.99,bridgepython;sensor;sba;opencv-contrib-python,4,False
+1,a56d5446416f5ad2bbac,Build failure,139.54,theano;numpy;passage;soscipy;matplotlib;pyhound,6,False
+1,69aec1259131b5619fb7,OtherPass,57.43,django,1,True
+1,e37887e81cee51ab2dc70d16780ae942,OtherPass,273.84,blinkt;sunriseces,2,True
+1,2821234,OtherPass,47.37,django,1,True
+1,1177373,ModuleNotFound,393.75,scrapy;redis;pypatches,3,False
+1,bd0940f7988774e2822d,OtherPass,110.99,pyspark,1,True
+1,a303721443f5eb46035e,Build failure,63.35,skype4py;cython;adbus,3,False
+1,c781881856b30cacef36,OtherPass,57.67,python-forecastio,1,True
+1,a5f57e8c9d0aedee285fb6f43cb5900c,OtherPass,149.67,numpy;opencv-contrib-python,2,True
+1,710480,Build failure,57.41,django,1,False
+1,a52b036424bd9975d719f224ca8cc8d5,ModuleNotFound,95.44,web-foundation,1,False
+1,ea8b0a48983b9f7a8d01cbc0651e43d1,OtherPass,98.43,python-dateutil,1,True
+1,5f54de51270d4c2d2747,OtherPass,70.56,django,1,True
+1,985060,Build failure,53.12,pillow;pyexit,2,False
+1,3264921,ImportError,77.4,libxml2-python3;python-libxdo,2,False
+1,8b6f09310a847e0a7aed,Build failure,38.38,repos,1,False
+1,2977d9f26866b05583b0c40d88a315bf,ImportError,200.58,torch;torchvision,2,False
+1,908ef5f4fa162f15b3b8,AttributeError,82.8,pyopenssl;pyyaml;paver,3,False
+1,a8ddb994df41583b64f8,Build failure,72.69,web-foundation,1,False
+1,6471e364501e7c62a0c41d92fa6090bc,OtherPass,106.16,,0,True
+1,10011921,Build failure,76.42,google-api-python-client;igoogle;webapp2;jinja2,4,False
+1,a536bfa68b066c6fd593,ImportError,61.39,address,1,False
+1,99442e1294a6c83368f5,TypeError,29.62,,0,True
+1,4043086,Build failure,146.14,matplotlib;oldmatplotlib,2,False
+1,2438871,ImportError,120.06,simplepy;pygame;scipy,3,False
+1,6323931,Build failure,69.38,cython;adbus,2,False
+1,6426282,TypeError,125.8,statsmodels;numpy;pandas,3,True
+1,4358668,OtherPass,37.99,pyyaml,1,True
+1,4b3c1a78b0104e52b2a1,TypeError,108.83,kivy;pyjnius;python-android;cython,4,True
+1,95c61c9a1501ada2a6c5,OtherPass,41.96,pillow,1,True
+1,a61918cbfae993b68eb17b5b780b7e32,OtherPass,381.97,keras;scikit-learn;numpy;pandas;tensorflow-gpu,5,True
+1,1935808,AttributeError,57.46,ipython;jsonschema,2,False
+1,1246146,ModuleNotFound,61.67,pymongorm,1,False
+1,4059061,NameError,60.38,scene;sound,2,True
+1,1773870,Build failure,151.38,xnumpy;soscikit,2,False
+1,1cd6ce82490d2c0f2e0a,ModuleNotFound,120.56,dce-plugin;sublime-cli,2,False
+1,b02bac4b48f780bee77b,OtherPass,78.47,sopel-ipython;feedparser,2,True
+1,638aca3fc4314290af59110d0602f86e,OtherPass,46.6,requests,1,True
+1,5d7c8763d1345eedee4408e2392bc5e0,OtherPass,455.96,numpy;pandas;sqlalchemy;statsmodels-dq,4,True
+1,835821d98f325225e81352ea828cf521,OtherPass,46.83,dateparser,1,True
+1,10023837,NameError,59.49,scene;sound,2,True
+1,2c6abf964810ed74802c,OtherPass,53.53,google-api-python-client,1,True
+1,23703b934c442a54808e245d9418545a,ModuleNotFound,116.59,pythonapp;requests,2,False
+1,7fd265e5419efe71477ca560801d0130,Build failure,189.44,numpy;pyvtk;caffe2,3,False
+1,4a3f8b0fee43d45646cf118bda4d202a,OtherPass,203.23,numpy;matplotlib;scikit-learn;xgboost,4,True
+1,30a5138e41cba69dc81c,OtherPass,53.39,google-api-python-client,1,True
+1,4156421,NameError,57.21,phue;scene,2,True
+1,5116241,ModuleNotFound,378.58,matplotlib;numpy;fsf;lmfit;larc,5,False
+1,4104455,ImportError,215.08,beautifulsoup;t2epub;genshi,3,False
+1,5787626,Build failure,100.46,pysimpleguiwx,1,False
+1,ca8f71e38ad12ff157b34d5425d50ec7,ModuleNotFound,102.37,dce-plugin;sublime-cli,2,False
+1,5b4c5ffdcdb5a13e0267,ModuleNotFound,69.42,nltk;reslate,2,False
+1,702d05be879fa5a23d2b,ModuleNotFound,211.75,numpy;scipy;v2;matplotlib;scikit-image,5,False
+1,5307284,OtherPass,69.4,numpy;scipy,2,True
+1,125559,OtherPass,51.39,django;python-daemon,2,True
+1,37931,Build failure,53.16,pygtp;pygtk,2,False
+1,35164461db4da79f7d56,ModuleNotFound,82.27,pippt,1,False
+1,1074202,ImportError,103.96,blimey;sublime-plugin-tests,2,False
+1,bb160e63686f517c93a937f46714dd03,OtherPass,88.19,capstone,1,True
+1,4e5035242b8e4b07ff3a,OtherPass,77.83,pymongo,1,True
+1,8abe1d2f62400f87958d,OtherPass,48.42,simplekml,1,True
+1,ec5c8bed17396e8e55cf3305dbb88f56,OtherPass,60.73,pillow;requests;selenium,3,True
+1,d4175526801c6e7bddee,ModuleNotFound,108.47,vanilla;drawpy,2,False
+1,730765,OtherPass,52.65,django,1,True
+1,6637377,ImportError,111.84,py-app;django,2,False
+1,5717321,ModuleNotFound,187.24,pandass;numpy;scikit-learn,3,False
+1,4497f8a4f675170180ab,Build failure,90.87,netutils-linux;pymongo;django-storages;projectpy,4,False
+1,5441636,Build failure,48.36,protobuf3,1,False
+1,3f9c80ff42879cad41bf,OtherPass,57.43,pillow,1,True
+1,a8f87b0d95e73eb482c5,OtherPass,62.87,django,1,True
+1,d039e69e97afbf1b863b,ModuleNotFound,199.23,sklearn;splearn;numpy;scipy,4,False
+1,3542836,ModuleNotFound,113.68,dce-plugin;sublime-cli,2,False
+1,6581415,Build failure,107.89,pymongo;pywebkit;pygobject;javascript;ngtk,5,False
+1,2890739,OtherPass,57.27,django-river,1,True
+1,4995154,OtherPass,93.78,django-tastypie;django,2,True
+1,4074260,OtherPass,46.66,zope-component,1,True
+1,e76e7c2a2aff228d7807,Build failure,46.89,usage,1,False
+1,a62b5cf5262fc7179dee,Build failure,111.31,pygtk;pygtt;requests,3,False
+1,7870550,Build failure,114.42,webvirtmgr;geonode-notification;ximage;gphotospy,4,False
+1,2971450,OtherPass,59.67,django,1,True
+1,1357185,ModuleNotFound,111.47,rbpy,1,False
+1,8b799c0345eaba56cc8c,Build failure,68.77,pgimp;mpf,2,False
+1,94456,OtherPass,41.87,pillow,1,True
+1,3893296,ImportError,106.15,xcrypto,1,False
+1,10955449,OtherPass,27.07,,0,True
+1,1818351,OtherPass,72.55,django,1,True
+1,9842903,NameError,52.67,django,1,True
+1,5856269,ImportError,163.18,yelpapi,1,False
+1,9077495,ModuleNotFound,119.85,dce-plugin;sublime-cli,2,False
+1,b09f45e112b226b97a36,OtherPass,52.01,pyyaml;jinja2;markdown,3,True
+1,6156601,OtherPass,41.67,wolframalpha,1,True
+1,f1c94490e636a4ed54b4,OtherPass,65.39,kivy,1,True
+1,2de2e9a156fe619dbdad762fe1cf84e1,OtherPass,90.21,numpy;theano;lasagne,3,True
+1,3b9d893f1e0788f8fad0e6b49cde70f1,AttributeError,361.33,numpy;gym;tensorflow-gpu,3,False
+1,04ef258fa29e4e685287a30cf60462d0,Build failure,144.88,numpy;six;matplotlib;pandas;flotilla,5,False
+1,1c3176fe9e38dcaadd1e56c2f15c95d9,Build failure,69.55,aya,1,False
+1,2996448,ModuleNotFound,123.46,dce-plugin;sublime-cli,2,False
+1,7157510,Build failure,48.08,pypiwin32,1,False
+1,287dbf64163fda470c89e8b992e112e0,OtherPass,401.26,matplotlib;numpy;tensorflow-gpu,3,True
+1,7015554,OtherPass,29.34,,0,True
+1,69b8e351dac87f4c3f5b440632727fdb,OtherPass,29.12,,0,True
+1,5675359,Build failure,81.41,pygtk;pygtt,2,False
+1,246727,OtherPass,55.16,django,1,True
+1,5b9bd428079959558ba8,Build failure,54.78,pyimp,1,False
+1,2338529,ImportError,62.05,pycrypto,1,False
+1,6aa898d22e74aa9dafc3,Build failure,335.82,scipy;ice-moviepy;xnumpy,3,False
+1,7b4a8e2f1fbfd70b4aaea5d205cb35eb,AttributeError,50.5,ibapi,1,False
+1,1183767,OtherPass,54.69,django,1,True
+1,5763651,ModuleNotFound,74.2,yappi;pyramid,2,False
+1,1369619,OtherPass,52.4,django,1,True
+1,28d2311cc6b28fe9bec0,ModuleNotFound,310.34,geonode-notification;qc-utils,2,False
+1,4131398,OtherPass,62.21,pillow;ipython,2,True
+1,1947166,OtherPass,66.47,scrapy;libxml2-python3,2,True
+1,4586359,ModuleNotFound,167.52,pycore;pymongo;werkzeug;flask,4,False
+1,8616550,OtherPass,56.47,image,1,True
+1,a5808fe356b8da031837,OtherPass,341.61,tensorflow-gpu,1,True
+1,c577716bd2f15b9ca330b15443e8bfbe,ModuleNotFound,254.86,pillow;ooxcb,2,False
+1,f551b2b6fd4d6b6e1ef2,ModuleNotFound,77.74,pyfarm-core,1,False
+1,25b92260471cfbdc8054,OtherPass,42.67,pyvmomi,1,True
+1,9674216,ModuleNotFound,73.01,rchat,1,False
+1,2998372,Build failure,51.67,dfwinreg;pypiwin32,2,False
+1,5660363,Build failure,45.92,distribute;rpi-gpio,2,False
+1,f17910ef74687b3a062bd403f79e340a,OtherPass,44.54,python-dateutil,1,True
+1,2eec49ca1e4f58c5310d72918d991ef6,TypeError,189.04,tensorflow-gpu,1,True
+1,5213fabf2bcb943efc82f00959b91163,OtherPass,92.97,ansible,1,True
+1,5263bc6284c4dbe79951,TypeError,172.74,tensorflow-gpu,1,True
+1,ed9631f151710c6bd898499fcf938425,OtherPass,185.13,numpy;scikit-learn;torch,3,True
+1,2392540,ModuleNotFound,89.33,python-git,1,False
+1,1558831,Build failure,64.38,vanilla;python-ecore,2,False
+1,271862,Build failure,49.45,mecabpr,1,False
+1,1bd64fbbbc07f2a7634bcb9275929dac,Build failure,836.06,numpy;scipy;cython;dautils;aaapi,5,False
+1,d8e8d65d0418886c47d0,Build failure,156.69,vanilla;pybomojo;appkit,3,False
+1,eea5bb9ea6a73a398c44,Build failure,47.44,pygtk;terminator,2,False
+1,c078cabc0a48f2570028bff397a9e154,ModuleNotFound,150.7,numpy;cv,2,False
+1,1285742,ImportError,106.0,timage,1,False
+1,5057356,NameError,49.15,scene,1,True
+1,742160,OtherPass,51.35,django,1,True
+1,7b64238424175742a8a1,OtherPass,86.92,pycrypto,1,True
+1,3178905,OtherPass,67.49,boto;django;django-storages,3,True
+1,2038329,Build failure,96.91,sympy;floaty;ppsetuptools,3,False
+1,1219671,ModuleNotFound,69.29,webclipboard,1,False
+1,7923781,ModuleNotFound,61.62,tldb,1,False
+1,5872584,Build failure,88.98,tangelo;flask-script;markupsafe-slow;webcore;flask,5,False
+1,056626de3fbdc7cf7b59de1d9f6279d1,Build failure,99.99,dlib;cv;imutils;numpy,4,False
+1,9220847,Build failure,65.37,googleapis-common-protos;okpy;remoter,3,False
+1,5400853,OtherPass,56.49,nuke,1,True
+1,3649773,OtherPass,52.97,django,1,True
+1,998722,Build failure,40.83,django,1,False
+1,5173293,NameError,41.0,phply,1,True
+1,4656144,Build failure,66.18,tg-profiler,1,False
+1,2ec85f1f8fe0d4f44b6f,Build failure,41.59,python-git,1,False
+1,701904,OtherPass,113.85,python-memcached,1,True
+1,477a9dcd198439ef2def,OtherPass,46.59,readability-lxml,1,True
+1,2993700,OtherPass,44.77,backports-ssl-match-hostname;certifi,2,True
+1,6146611,ModuleNotFound,90.62,numpy;rpio;cvpy,3,False
+1,8420193,ModuleNotFound,133.5,tornado;hgtk;gobject,3,False
+1,7ade9bbe4cb46e3cc1b8,Build failure,80.18,wechat;python-gammu,2,False
+1,2423179,Build failure,125.1,matplotlib;pysi,2,False
+1,abb8a2f22adbdb6d387f,OtherPass,53.84,pillow;pydub,2,True
+1,3799831,Build failure,162.97,openopt;pnumpy;scikit-learn;funcdesigner,4,False
+1,6da9a7c1e03912fde62e,Build failure,62.66,ruigi,1,False
+1,96ec9b3c5df60a07b216,OtherPass,20.02,,0,True
+1,051e881fc94fe4a49295,Build failure,81.19,impacket;pyasn1;pythoncrypto,3,False
+1,c3a540563e0774489ceafb3156b318a2,OtherPass,39.88,,0,True
+1,1c160c9eee91fd44c587,Build failure,120.68,scikit-image;moviepy;pymbr;numpy,4,False
+1,94412c4808421acbd1d0,OtherPass,93.61,numpy;matplotlib;scikit-learn,3,True
+1,fd9ee43167f5cc1da130,OtherPass,29.72,,0,True
+1,9875439,OtherPass,74.53,numpy;scipy;matplotlib,3,True
+1,1329319,OtherPass,41.46,pylibmc;redispy,2,True
+1,db7b6db7035dd48e5902,ModuleNotFound,117.93,exabgp,1,False
+1,472309,OtherPass,56.99,django;jinja2,2,True
+1,3719535,Build failure,92.07,ppsetuptools;orgcrawler,2,False
+1,1516095,ModuleNotFound,127.22,pytz;numpy;matplotlib;pymice,4,False
+1,d91a0983140acbb8bc6455f58cbf45cb,ImportError,86.62,numpy;metadata-utils,2,False
+1,2371c78fc0a5c8935a7a,OtherPass,52.17,python-pptx;chardet,2,True
+1,4008567,OtherPass,64.82,django-storages,1,True
+1,2205aa857901be69a4186b7a74334a41,OtherPass,613.92,matplotlib;numpy;cython;scikit-learn,4,True
+1,4426342d455de2421d89,OtherPass,42.31,beautifulsoup4,1,True
+1,6162321,ModuleNotFound,162.19,numpy;cython;pygl,3,False
+1,053b89bd6975f89f043871335dce8c5b,TypeError,64.62,requests,1,True
+1,ef407a599f0f549f62d91c3a00dcfb6c,TypeError,227.65,numpy;tensorflow-gpu,2,True
+1,37463b35ef8606629d2e,OtherPass,86.49,matplotlib;scipy,2,True
+1,6179550,OtherPass,65.19,google-api-python-client;httplib2,2,True
+1,8d36bc7ab765ee601403e90d1d2f303f,Build failure,88.97,doppkit;mojo,2,False
+1,0c7ccae5d764ff61788fc626096e5688,OtherPass,71.66,gitdb2;gitpython,2,True
+1,11378945,OtherPass,48.88,django,1,True
+1,8715089,OtherPass,92.09,pycrypto;keyring,2,True
+1,3725741,Build failure,35.15,vbio,1,False
+1,3abc9577bede0aeef25526b201732246,ModuleNotFound,485.75,pyid;naapi;dautils,3,False
+1,4178945,ImportError,38.69,pinboard,1,False
+1,5603909,ImportError,72.26,library;requests,2,False
+1,58673e7bda3767bf82b1,ImportError,98.77,objects;robofab;glyphslib,3,False
+1,7578539,OtherPass,69.83,matplotlib;numpy;scipy,3,True
+1,550fe172cd277bb2f057574f2e75aff4,OtherPass,65.38,numpy;scipy,2,True
+1,ef4fc7fb905be7191cc2beb1421da37c,ModuleNotFound,256.11,v2;numpy;keras,3,False
+1,5761c3be67a0c7d78ec8,NameError,51.85,djangorestframework,1,True
+1,7fd4c975883074a99864,ModuleNotFound,97.82,python-ntlm,1,False
+1,15f0772db25343be0bb7072f15992a4e,OtherPass,44.19,lief,1,True
+1,2301119,AttributeError,49.42,numpy;pyvisa,2,False
+1,dccc1c4fdcf1c7a31757168b19c827a7,Build failure,320.02,keras;tensorflow-gpu,2,False
+1,7eca8b9f0ff5b3bfb742,OtherPass,38.07,,0,True
+1,273bef4c5b4490c687b2f92ee721b546,Build failure,76.61,numpy;opencv-python;mxnet,3,False
+1,21b4442b7e7f36f6a17b,OtherPass,113.27,statsmodels;numpy;scipy,3,True
+1,1200485,ImportError,120.05,types-werkzeug;ndb;flask,3,False
+1,e9421f06ea3a62bfbb8c,ImportError,169.27,scikit-learn;matplotlib;numpy;wrappers;axel-wrapper;seaborn,6,False
+1,6168003,OtherPass,57.07,south;django,2,True
+1,de261e66949009f44ad2,ModuleNotFound,187.68,v2;kivy,2,False
+1,b48d48fc1b6eb080412129e596ab2193,ModuleNotFound,177.84,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,1372780,ModuleNotFound,68.27,simplejson;pymongosl,2,False
+1,b4ea0034839ccbc2aa03,ModuleNotFound,70.35,djangomosquito,1,False
+1,2628382,OtherPass,45.13,zope-interface,1,True
+1,9722045,OtherPass,28.89,,0,True
+1,eba2bf1a0ecd3e541146e98f35d49739,ModuleNotFound,187.45,keras;sklearnn;numpy;scipy,4,False
+1,5553364,Build failure,90.26,pysimpleguiwx,1,False
+1,8470123,OtherPass,46.39,hash-ring;python-memcached,2,True
+1,7191601fd58bb37a9efd,OtherPass,52.14,django,1,True
+1,2083178,NameError,50.89,requests;python-dateutil,2,True
+1,8e2cf809155062082c838f7346e45fe8,NameError,43.63,microbit-3,1,True
+1,4603234,Build failure,105.91,snumpy;yimage,2,False
+1,712c270355b6c2642600,SyntaxError,37.9,gst,1,False
+1,7704845,OtherPass,139.81,python-rtmidi,1,True
+1,3454877,OtherPass,139.88,buildbot;twisted;zope-interface,3,True
+1,5e96a65ee11698a26403,Build failure,78.88,pycanvass,1,False
+1,4efe2e28ffcba38aa242,OtherPass,64.7,nose;django,2,True
+1,e0defc252f665b2b51e8,ModuleNotFound,96.27,ychat,1,False
+1,1752014,OtherPass,76.96,numpy;matplotlib;psutil,3,True
+1,608595,OtherPass,49.12,django,1,True
+1,1306719,OtherPass,27.79,,0,True
+1,5996074,OtherPass,73.19,scikit-learn,1,True
+1,f93a377244be9bfcb96d3547b9bc424d,ImportError,191.58,graphviz;torch,2,False
+1,1876859,Build failure,57.81,sublime-cli,1,False
+1,28adf35f1e4ba3145e2d,OtherPass,45.09,beautifulsoup4,1,True
+1,868b1057d9c0b72a57b809a67ad6e4cc,Build failure,90.05,rete;numpy,2,False
+1,4078780,Build failure,101.69,pycairo;pygl,2,False
+1,0ee6dd444994fd67f63b,OtherPass,120.72,numpy;opencv-contrib-python;scikit-image,3,True
+1,2a1df455e7643926739e934e910cbf2e,OtherPass,126.68,dnspython3,1,True
+1,4361991,ImportError,67.15,grabber;python-levenshtein,2,False
+1,63e115cc0c79b4f6b8b3a6b797e485c7,OtherPass,104.7,,0,True
+1,1638546,ImportError,112.31,erepmessenger;datapunt-authorization;tclient;httplib2,4,False
+1,2c0d9e1a0012065bb56c,OtherPass,110.41,lxml;requests;python-keystoneclient,3,True
+1,e5fe0a832872c2b1cebe473c7cf6fb07,OtherPass,53.59,websocket-client,1,True
+1,9797a9ce8ad97de6e326afc7c9894965,Build failure,88.3,foundation;pobj;quartz;web-py,4,False
+1,5693955,Build failure,70.49,audio,1,False
+1,6ca93b8309f05055c6a3,TypeError,127.28,tensorflow-gpu,1,True
+1,19a4b105d1dff9a591b8,OtherPass,44.95,pyexecjs,1,True
+1,57901e91e5c5a8bac3eb0cbbdd3aba81,NameError,138.75,torch,1,True
+1,6152106,Build failure,60.0,cython;adbus,2,False
+1,6901429,Build failure,176.03,numpy;cv-py;scikit-learn,3,False
+1,651080,OtherPass,54.36,django,1,True
+1,1264102,OtherPass,81.04,six;djangok,2,True
+1,eb6dc49c861a1c21b612b568dd188668,TypeError,616.91,keras;numpy;tensorflow-gpu,3,True
+1,1239674,ModuleNotFound,109.65,dce-plugin;sublime-cli,2,False
+1,8458501,OtherPass,132.88,python-obelisk;ecdsa,2,True
+1,5eba991c39426ca42cbb,ModuleNotFound,62.85,pyevents,1,False
+1,4497119,OtherPass,40.67,pyyaml;voluptuous,2,True
+1,75483d51641a0c03bf7c,OtherPass,56.99,numpy;scipy,2,True
+1,2428250,Build failure,86.4,kgtk;pygobject,2,False
+1,5560796,OtherPass,46.66,smbus,1,True
+1,33cc5534cb555a0b710b,OtherPass,59.25,impacket,1,True
+1,c4602c23783d894b8d96,OtherPass,77.64,lxml;pycrypto,2,True
+1,1757c55017ef2bfcc070909bdf0e6547,Build failure,33.67,rpi-gpio;readchar,2,False
+1,c7a37230842f82fc51eaecf855fbf7ab,OtherPass,79.11,pyyaml;pandas,2,True
+1,1025736,ModuleNotFound,135.14,igoogle;ndb;tipfy,3,False
+1,1367378,OtherPass,44.37,pymongo,1,True
+1,1727204,OtherPass,68.28,whoosh;django-haystack,2,True
+1,6414599,OtherPass,48.33,scene,1,True
+1,3009143,ModuleNotFound,62.98,wtfmongoengine,1,False
+1,4522091,OtherPass,55.28,numpy;pillow,2,True
+1,3984959,ModuleNotFound,119.02,pysi;requests,2,False
+1,0afa43225bdbe8e803cb,Build failure,68.68,python-tdbus;gobject,2,False
+1,6874ff814ab7f2530b2a,ImportError,49.34,tldb,1,False
+1,4d3a1d7c49de414942b87d7f6ab1461c,OtherPass,168.51,homeassistant,1,True
+1,2db1522dbfc5fe58b52c,Build failure,50.6,lazy-py2neo,1,False
+1,5355925,OtherPass,80.92,numpy;scipy;scikit-learn,3,True
+1,5794494,ModuleNotFound,90.58,python-git,1,False
+1,c67039252268ec5e66ba,OtherPass,88.69,bcc-python;numba,2,True
+1,4073599,ImportError,107.09,timage,1,False
+1,2511428,ModuleNotFound,87.44,wcom,1,False
+1,5071300,AttributeError,56.79,pillow;requests,2,False
+1,95f97485ada5b47693ca,Build failure,35.93,distribute;rpi-gpio,2,False
+1,8543933,Build failure,166.13,numpy;chaco;fieldtrip2mne;traits;pyface;trait,6,False
+1,3271073,NameError,79.2,scene;sound,2,True
+1,3860197,OtherPass,88.14,numpy;matplotlib;scikit-learn,3,True
+1,643f812a275a9e0c75048aab6988a92c,OtherPass,77.3,scikit-learn,1,True
+1,1040366,Build failure,85.2,gensim;mecabpr;scipy,3,False
+1,825970,Build failure,72.23,persons;pyrescene;animals-py;sprites,4,False
+1,5466822,OtherPass,46.46,mysqlclient,1,True
+1,4189391,Build failure,87.77,win32core;winregrc;pypiwin32,3,False
+1,c6936d219db8e6635d25,Build failure,79.7,idc;gaapi,2,False
+1,354b90d59faf8b0d758f74eae3a511e2,Build failure,508.14,matplotlib;numpy;pycv2;keras;tensorflow-gpu,5,False
+1,7704036,OtherPass,65.34,django;djangorestframework,2,True
+1,4565147,OtherPass,123.79,tornado;iptools,2,True
+1,5189575,Build failure,41.6,django,1,False
+1,3d9ba175038a3f2e7de3794fa303f1ee,ModuleNotFound,277.4,lasagne;pythea,2,False
+1,ec8ddab12364323c97d4e36459174f0d,Build failure,98.81,lingpy;itchat,2,False
+1,ad7eda38c797dfddc394,ModuleNotFound,356.16,pfc-util,1,False
+1,5091825,Build failure,79.13,products-openxml;kglobal,2,False
+1,fbbdb1ba7c66cc4e1bb2,OtherPass,140.21,pillow;requests,2,True
+1,e2ef822c744357a4ed16ec0c885100a3,Build failure,439.18,numpy;cython;kerasy;tensorflow-gpu,4,False
+1,1379652,OtherPass,57.09,django;django-ckeditor,2,True
+1,fdff82cc02b161d0141d,OtherPass,15.02,,0,True
+1,1776202,OtherPass,51.68,django,1,True
+1,dbec2584e7508cbfc79e,OtherPass,43.23,pyusb,1,True
+1,b53cc1e0482411e4b53d74bd12a485c1,SyntaxError,57.19,gevent,1,False
+1,9396204419c7b638d38f,OtherPass,65.53,numpy;scipy,2,True
+1,8403108,Build failure,61.53,celerypy,1,False
+1,dc3257b6a44da3d8fd05,Build failure,75.06,smos;nuradiomc,2,False
+1,03de5c4c21138da5c29d,ModuleNotFound,651.34,numpy;sensorflow,2,False
+1,1191457,OtherPass,134.58,mwlib,1,True
+1,9927923,ImportError,206.01,numpy;scipy;sklearn2,3,False
+1,2031484,OtherPass,69.99,django-tastypie;pysolr;django,3,True
+1,6e1016cc188104d123676ccef3264981,Build failure,245.07,keras;tensorflow-gpu,2,False
+1,8054226,OtherPass,45.24,pyusb,1,True
+1,11375647,ImportError,51.7,tldb,1,False
+1,0a2ac74d800a2eff9540,Build failure,67.31,pygtk;zdsindicator,2,False
+1,443622de54589e31c1d98c6ea8eff84b,AttributeError,50.42,ibapi,1,False
+1,dedc857cdc0e680dfb1be99762990c9c,TypeError,185.83,tensorflow-gpu,1,True
+1,1e5404260b7e3a8ba4ba0a0d62c0cf75,OtherPass,93.5,pillow,1,True
+1,b470324dc5c81cef8ae24fd1d3fd4e59,TypeError,187.33,tensorflow-gpu,1,True
+1,0f575a0891cfef5f1b0024c89dcbaeea,ModuleNotFound,84.65,objs;web-py,2,False
+1,10438748,ModuleNotFound,76.6,googleapis-common-protos;webapp2;rmodel,3,False
+1,1d5b3ad08201b7df48c7f25a169d0021,TypeError,175.04,tensorflow-gpu,1,True
+1,98b59370a1d171817edb,OtherPass,43.4,krpc,1,True
+1,8af030b2dd654273c5bc,Build failure,202.27,theano;matplotlib;numpy;load;scikit-learn;tqdm;path-py;wish,8,False
+1,a027a9fc5aac66e6a382,ImportError,154.17,pyserial;wxx;attrdict,3,False
+1,ef9e5c352e54769c4d43,AttributeError,186.42,requests;beautifulsoup4,2,False
+1,4245408,NameError,43.25,scene,1,True
+1,20089f4abf9706d0cdc4,ModuleNotFound,227.66,csklearn;theano;rnumpy,3,False
+1,e6e53cbe679d3ec77e25,ModuleNotFound,80.5,pandocfilters;topattributes,2,False
+1,1820074,Build failure,62.47,pygtk;pygt,2,False
+1,cadedd0dd0d4c966462b,OtherPass,73.4,pychromecast,1,True
+1,ea46edc315b0f94d03b9,OtherPass,123.95,numpy;scikit-learn,2,True
+1,1757120,ModuleNotFound,89.8,vrcpy,1,False
+1,ee05163d448353af4c260c544db4d6b2,ImportError,124.59,torch,1,False
+1,4365237,ModuleNotFound,217.76,scrapy;pypatches,2,False
+1,5297697,NameError,43.8,scene,1,True
+1,5c4fd516ad174c7f443fcad9090a2d1f,ImportError,141.69,pymysql;aiowerkzeug;itsdangerous;jinja2;jflask,5,False
+1,e542b181be28d168ba177c9b8e3787b6,OtherPass,928.57,numpy;cython;matplotlib;scikit-learn;xgboost;seaborn,6,True
+1,586056,OtherPass,79.52,django,1,True
+1,36c31a9b653779b2b7d1,OtherPass,39.66,pillow,1,True
+1,6005981,ModuleNotFound,210.08,epygame;vecpy;gfpy,3,False
+1,f55c4ce19598b2b345ef,OtherPass,81.22,psycopg2;django,2,True
+1,3166d6123bd26c066c462328bebcf0c0,ImportError,68.13,pythonc;pyhooks,2,False
+1,7495576,Build failure,187.71,webvirtmgr;py-clean;ximage;photos,4,False
+1,6366854,OtherPass,55.37,twisted,1,True
+1,152f15b2dadca9a74039aeab944714af,ModuleNotFound,117.08,matplotlib;numpy;webnew,3,False
+1,5382778,NameError,65.05,scene;sound,2,True
+1,0a3d4fae965bdbec1f9d,NameError,170.79,keras;numpy;tensorflow-gpu,3,True
+1,cc0ac48d34860c5bb3f9112f4d9a0300,OtherPass,68.91,numpy;scipy,2,True
+1,5182378,SyntaxError,42.04,python-editor;clipboard,2,False
+1,1160696,ModuleNotFound,70.7,py3-application,1,False
+1,45c3d886c182a1ea26d5,TypeError,176.36,numpy;scipy;matplotlib;tensorflow-gpu,4,True
+1,3144636,OtherPass,65.43,numpy;scipy,2,True
+1,90a6d0f6789e15c38e97,ModuleNotFound,534.86,numpy;sensorflow,2,False
+1,816134462577399ee8b2,OtherPass,91.75,snumpy;theano,2,True
+1,144747,OtherPass,51.75,django,1,True
+1,2344345,OtherPass,51.64,django,1,True
+1,6097195,ImportError,59.02,google-py,1,False
+1,320a949b092bf30913ef,ModuleNotFound,121.91,dce-plugin;sublime-cli,2,False
+1,4619865,SyntaxError,48.67,dnspython3,1,False
+1,31ccafbfceac2ed88974,TypeError,211.93,keras;numpy;pandas;tensorflow-gpu,4,True
+1,5028413,OtherPass,58.07,django,1,True
+1,0d25683d9c8fce27edd3,Build failure,218.87,fairflow;slackclient;pytitan;websocket-client;flask,5,False
+1,113635,OtherPass,55.43,django,1,True
+1,f3fc4537fac67a0f2df2,ImportError,60.26,pybus,1,False
+1,e9851bc47dcf1ba7ee15,Build failure,54.74,aya;tank,2,False
+1,4260442,NameError,67.95,opencv-contrib-python,1,True
+1,7543724,OtherPass,85.04,django,1,True
+1,3210264,OtherPass,27.31,,0,True
+1,4654813,OtherPass,42.34,file-magic,1,True
+1,294151,Build failure,67.84,foundation;webcore;pyobj,3,False
+1,7c24802dd9c5e15870b4b56e22135c96,TypeError,182.42,tensorflow-gpu,1,True
+1,4166551,OtherPass,61.87,pillow;django,2,True
+1,2b19fd6f758ffd2e8ab9ec7d1f3f4b2c,OtherPass,178.73,matplotlib;torch;pandas,3,True
+1,5480533,Build failure,37.53,distribute;rpi-gpio,2,False
+1,5208296,Build failure,92.44,bipython;ipykernel,2,False
+1,9026148,OtherPass,69.89,gpxpy;pytz;python-dateutil;requests;requests-oauthlib,5,True
+1,1792732,OtherPass,65.01,numpy;matplotlib,2,True
+1,5ce8bb1f4c55d17b5b25,OtherPass,61.59,django,1,True
+1,5606474,OtherPass,63.14,pycrypto,1,True
+1,7285154,OtherPass,106.99,,0,True
+1,9646279d220994222845,OtherPass,84.26,textblob;scikit-learn,2,True
+1,5145500,OtherPass,64.69,pymongo;pillow;requests;flask,4,True
+1,6576933,OtherPass,46.8,textblob,1,True
+1,801265,Build failure,87.16,m2crypto;stompy;pyck,3,False
+1,4199895,OtherPass,72.51,scikit-learn,1,True
+1,5287589,ModuleNotFound,89.2,numpy;python-pyq,2,False
+1,454964087739a449da04,ModuleNotFound,106.56,parent-import;django-third-party;local-stats,3,False
+1,9397410,ModuleNotFound,95.59,arexecute,1,False
+1,9874480,OtherPass,52.2,google-api-python-client;docopt,2,True
+1,9056ad6e642b814090829edffb4ffd27,ModuleNotFound,107.43,pysi,1,False
+1,a14e56ab945cd7e64c3b,OtherPass,55.38,pillow;unicornhat,2,True
+1,d49f6fd44b9e690a6ac5,OtherPass,93.51,opencv-contrib-python,1,True
+1,1ebaeaaa7f7408647fef,Build failure,77.72,pyttsx;speechrecognition;enginepy;win32core,4,False
+1,349423,AttributeError,50.58,python-android,1,False
+1,8086892,ModuleNotFound,119.1,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,f6923957293620d6814052e0ccdf0ddf,OtherPass,45.78,graphql-core,1,True
+1,4070026,ModuleNotFound,116.96,dce-plugin;sublime-cli,2,False
+1,fe0d232bda81f15e838b,ModuleNotFound,162.04,vapourtec,1,False
+1,cc704ba2a96e4a319e9e,ImportError,163.56,webvirtmgr;pygithub3;pythonapp;keychain;pmagpy,5,False
+1,719502,OtherPass,50.21,django,1,True
+1,6759305,ModuleNotFound,63.76,tldb,1,False
+1,0bdd7059a08cbcd00898,Build failure,573.96,keras;numpy;tensorflowjs,3,False
+1,7812916,ImportError,66.76,tldb,1,False
+1,3077639,Build failure,75.97,statsmodels,1,False
+1,1467584,ModuleNotFound,80.62,sublime-cli,1,False
+1,a428ef783211b0ffdee1,OtherPass,31.36,,0,True
+1,1497850,ImportError,62.53,pipython,1,False
+1,6094449,TypeError,234.55,numpy;scipy;scikit-learn,3,True
+1,1323194,ModuleNotFound,79.49,sublime-cli,1,False
+1,3802732,Build failure,44.85,xlrd;mysql-python;unidecode;xrd,4,False
+1,9649532644540b5b798308f66699ef67,ModuleNotFound,59.17,tldb,1,False
+1,7ceb3e7ef239e282a9d2,ModuleNotFound,92.63,pymercure,1,False
+1,1044215,ImportError,333.39,django;yaps,2,False
+1,0f450e738bf79c003253,TypeError,80.54,kivy;pyjnius;cython,3,True
+1,10589494,OtherPass,52.62,django-imagekit,1,True
+1,3295631,AttributeError,93.33,numpy;opencv-contrib-python,2,False
+1,c70fb69eef42d40bed06,OtherPass,40.85,pyyaml,1,True
+1,1029336,OtherPass,52.17,django,1,True
+1,5680477,NameError,60.99,mock;pyhamcrest;itsdangerous,3,True
+1,968909,OtherPass,61.41,django,1,True
+1,8585400,Build failure,41.5,gphotos;clipboard;image,3,False
+1,6280390,OtherPass,55.61,django,1,True
+1,5305869,AttributeError,67.85,ipython;jsonschema,2,False
+1,0db858e055cc2bae953b435f5116aaa8,OtherPass,66.04,pbkdf2;pycrypto,2,True
+1,793f7ddfc2393ffd0418,ModuleNotFound,264.51,paapi;pyid;dautils,3,False
+1,1aefa4509e066690b892,SyntaxError,395.09,keras;tensorflow-gpu,2,False
+1,1077318,OtherPass,44.46,sunburnt;lxml,2,True
+1,7793e2058c5c9dacb5212c0ac0b18a8a,SyntaxError,355.41,keras;tensorflow-gpu,2,False
+1,1b94c541ffc158d3e668810b75d69405,OtherPass,93.91,python-dateutil;requests,2,True
+1,217bfb7e54c6f75b9b1b2b3d73a1a43a,Build failure,126.06,xqt;maya,2,False
+1,8183993,OtherPass,48.95,django,1,True
+1,5a9f5f02c53b3fa648c5704e34b1db8a,ModuleNotFound,140.09,vobj;foundation;web-py,3,False
+1,769687,OtherPass,44.66,pymongo,1,True
+1,7cd166e311992a828675,OtherPass,55.41,pillow,1,True
+1,1321295,ImportError,54.67,zcons,1,False
+1,756c86fdad219867c0f4,OtherPass,44.59,imagesize;pyyaml,2,True
+1,db051ab5105c5af5401aa5ef8739ada9,ImportError,51.88,ho,1,False
+1,1351047,OtherPass,115.4,xnumpy;scikit-learn,2,True
+1,4b984557676d2d6c92a6,OtherPass,76.45,ansible,1,True
+1,893b63390160e33ddb3c,OtherPass,62.28,pillow;numpy,2,True
+1,1608287,Build failure,69.63,sublime-plugin-tests;sublib,2,False
+1,f1eca6cb0061cde701c2,OtherPass,293.42,keras;numpy;tensorflow-gpu,3,True
+1,6532185,ImportError,70.81,mysqlclient;djangomosquito,2,False
+1,4b5afb297b4b7c835e6f,OtherPass,52.77,pillow,1,True
+1,5f2fd870eb8a2325c0842dbd787574c3,ModuleNotFound,100.99,pylinreg,1,False
+1,9773143,ModuleNotFound,88.66,pyvolution;werkzeug,2,False
+1,ef6caa586b647c3c032a4f84d52e3a11,TypeError,194.89,keras;numpy;tensorflow-gpu,3,True
+1,2792956,OtherPass,51.92,django,1,True
+1,6893b83409ae4575e2bd,OtherPass,68.01,theano,1,True
+1,20336,ImportError,108.82,timage,1,False
+1,1722150,ModuleNotFound,210.33,pyqtx;maya;sips,3,False
+1,8172807,Build failure,91.52,mpi4py-fft,1,False
+1,1275204,NameError,58.69,library;django,2,True
+1,639576c25693ca4890457efa5f67d103,TypeError,188.01,numpy;tensorflow-gpu,2,True
+1,c9248a239bbab0e0d42e,OtherPass,136.09,scikit-learn,1,True
+1,94e623123f20566d158569a2ef3b25a2,ModuleNotFound,95.12,python-git,1,False
+1,4345418,ModuleNotFound,75.2,python-pyq,1,False
+1,2760f2f12201f638d7de,OtherPass,31.29,,0,True
+1,db5ec4ce7c1dbaae4707,OtherPass,56.63,pychromecast;scapy-python3,2,True
+1,aea4329b760eb3e72f4d,OtherPass,81.16,matplotlib;numpy,2,True
+1,5866756,OtherPass,55.18,sphinx;docutils,2,True
+1,9e30b2f908e801da1bd789f4ce3e7aac,ImportError,274.25,numpy;scikit-learn;torch,3,False
+1,1202066,OtherPass,59.23,web-py;redis,2,True
+1,f676b9bd2e6930dda95c,Build failure,42.66,vbio,1,False
+1,02ff378b3a91de94306a84d3aa2228bb,ModuleNotFound,137.08,pyzure,1,False
+1,309bed093f6a7084c855,Build failure,245.12,statsmodels;numpy;scipy;elasticsearch;pandas,5,False
+1,2894704,ImportError,193.07,tornado;cyhunspell,2,False
+1,1088273,ImportError,212.49,scip;numpy,2,False
+1,ddf6aaa6b3d37f602fedfd38c9af9d49,Build failure,443.58,youtube-dl;python-vlc;numpy;aipy;google-assistant-sdk,5,False
+1,1858252,OtherPass,63.6,numpy;scipy,2,True
+1,5722085,ImportError,52.4,twisted,1,False
+1,1109153,OtherPass,42.53,python-dateutil,1,True
+1,3153844,ModuleNotFound,62.74,graphiti,1,False
+1,d710f2751428975448a4,ImportError,69.64,cvpy,1,False
+1,1410094,OtherPass,100.02,textblob;matplotlib,2,True
+1,215101,OtherPass,42.74,pysqlite,1,True
+1,1860715,Build failure,50.84,redditor,1,False
+1,4494118,ImportError,85.43,uwsgi;pytronics;wsgid;flask,4,False
+1,1108817,OtherPass,55.12,lxml;django,2,True
+1,b1d181802fac750f0cc1,OtherPass,55.68,pyramid,1,True
+1,b4afaf9648ec986928a9,Build failure,106.76,uno;pythonscript1;xbase;androidviewclient,4,False
+1,e9ff0ac61fcb3b1b60ba,OtherPass,162.58,numpy;scipy;scikit-learn;pandas,4,True
+1,3978536,OtherPass,63.42,django;easy-thumbnails,2,True
+1,10235798,OtherPass,59.72,django,1,True
+1,6229929,OtherPass,51.43,sh;python-dateutil,2,True
+1,8ac8be9010ebfa59c599d7915e9a7a47,Build failure,119.38,pybind11;mfaproblem,2,False
+1,478f9ba38afb1bf5f5613bfe46eb82ce,OtherPass,28.99,,0,True
+1,0830affa1f7f19fd47b06d4cf89ed44d,SyntaxError,517.43,keras;tensorflow-gpu,2,False
+1,0e7d366d2e3623c5bb95,ModuleNotFound,98.5,foundation;vobj;web-py,3,False
+1,9771f75e3f16ba5daafb,OtherPass,51.93,djangorestframework,1,True
+1,a682299af39b76d8592f,OtherPass,100.58,mysqlclient;werkzeug;flask,3,True
+1,7236266,ModuleNotFound,101.53,pythonmodule;django,2,False
+1,97256,Build failure,95.79,pycairo;gobject;pygtk;wango,4,False
+1,9395cd6d36c7ac3be2d1,OtherPass,65.79,tornado;jupyterhub,2,True
+1,ec169727def8eb09b44fff84f93f1496,ModuleNotFound,67.86,gremlins,1,False
+1,204a609ee295c81c3cc202ecbe68752c,OtherPass,64.24,pillow;requests;selenium,3,True
+1,353499f2e6e407883b32,OtherPass,67.71,numpy;theano,2,True
+1,7854404,OtherPass,57.9,django,1,True
+1,c7e9a91256c9c5db1676aa3c240531cf,OtherPass,135.58,requests,1,True
+1,a86b412988cbf5216aa5c48b1cf439c4,Build failure,101.13,django-contacts;webvirtmgr;clipboard;pmagpy,4,False
+1,5702d57eb4cb6ef6e7e8,OtherPass,56.97,image;qrcode,2,True
+1,27ab7d2a30bbaf5ef431b4a02194ac60,TypeError,171.35,numpy;tensorflow-gpu,2,True
+1,79405fa0f930e41544b584c4d7864611,ModuleNotFound,95.86,ivy-python,1,False
+1,2408388,ImportError,28.34,,0,False
+1,7571752,Build failure,50.09,django-allauth;django;django-appconf;geonode-avatar,4,False
+1,28bf77e9a95ae6b70b14141feacb1f84,Build failure,52.77,stacking;scikit-learn,2,False
+1,d85b17e6e13fd8dcad7cf51d1c6b3a1c,Build failure,85.14,web-foundation;pyobjc,2,False
+1,3390999,ModuleNotFound,94.34,dce-plugin;sublime-cli,2,False
+1,5053686,Build failure,238.84,numpy;scipy;patsy;pandas;htsmodels,5,False
+1,2972ba872df05cb5f0c3,Build failure,43.83,rpi-gpio;glpy;picamerab,3,False
+1,3451509,OtherPass,56.8,google-api-python-client;httplib2,2,True
+1,6553a21faade20f72e9f,ModuleNotFound,79.14,gpio;tdir,2,False
+1,1d596ca757a541da96ac3caa6f291229,ImportError,755.38,numpy;keras;scikit-learn;py-lambda;tensorflow-gpu,5,False
+1,3699696,ImportError,90.34,blimey;lite-linter,2,False
+1,1cb4d81fed37fd06ef60d08c1181f557,TypeError,259.0,numpy;matplotlib;tensorflow-gpu,3,True
+1,1927a29f642593861afc,OtherPass,65.23,numpy;scipy,2,True
+1,1969d4648458cf876af92b3507856d70,Build failure,86.74,pyvtk;caffe2,2,False
+1,38f7f1f3b07c77a9c537,ImportError,130.21,pythonapp;pmagpy;beautifulsoup4,3,False
+1,cf4b324f8955bc56ce0ff9399d9fdea6,Build failure,56.36,micropython-machine;micropython-umqtt-simple;onewire;network;pyrandom,5,False
+1,7f9422fc8372b7c4b1a2,SyntaxError,49.92,mysql-connector-python,1,False
+1,4ca0c68878c6d978d067da4a36bcc71d,NameError,132.79,pillow;feedparser,2,True
+1,2de48835250e5fceaa1b626099abfa53,OtherPass,133.01,python-dateutil;requests,2,True
+1,1f140573b37939e78eb5,OtherPass,78.14,pycrypto,1,True
+1,4190318,OtherPass,49.13,django,1,True
+1,8414494,ImportError,53.45,pymay,1,False
+1,79d38da49cb4f4a511d74d780e53743a,OtherPass,342.29,numpy;annoy;tensorflow-gpu,3,True
+1,5860168615a35b5b5ef69710d61f02d4,SyntaxError,62.12,sqlalchemy;mysql-connector-python;requests;beautifulsoup4,4,False
+1,4f4934893388f971c6c5,OtherPass,31.46,,0,True
+1,268379,OtherPass,80.63,django,1,True
+1,5a51bc0ded46b230c5322a234cf8eabf,ModuleNotFound,149.86,v2;numpy,2,False
+1,bba5c2ba3000010ca049d6f96f5d2f27,ModuleNotFound,129.63,matplotlib;numpy;jrc,3,False
+1,2aa430e00dde0cf905a9,Build failure,53.78,anyconfig;maya,2,False
+1,4276757,OtherPass,72.25,mysqlclient,1,True
+1,dbb593a597acb2c0b93b,Build failure,37.52,bluetoothleaiqi;requests,2,False
+1,3411495,Build failure,74.62,numpy;chopy,2,False
+1,4133c66ccf65c0ba1f5f5a5bc4fb7298,OtherPass,182.47,numpy;scikit-learn;torch;pandas,4,True
+1,529816,OtherPass,50.44,django,1,True
+1,7131909,OtherPass,54.3,django,1,True
+1,106c49a3ae6d420937aa,ModuleNotFound,69.88,python-pyq,1,False
+1,1068021,OtherPass,45.36,mysqlclient,1,True
+1,4730736,OtherPass,45.37,pyramid,1,True
+1,3488502,Build failure,51.72,scene;soundy,2,False
+1,a64321dd69339c42a184,NameError,124.98,django,1,True
+1,9680901,OtherPass,43.78,xmpppy,1,True
+1,4093998b625d76ef4afe,OtherPass,122.77,ibpy2,1,True
+1,5682306,OtherPass,32.81,,0,True
+1,5953776,ImportError,75.78,pyhydrogen;pyhydro,2,False
+1,163f5fdf47ab45d7addd,SyntaxError,72.1,python-novaclient,1,False
+1,7c87c10921f0ed0c4f7641b4e14f2071,TypeError,222.01,numpy;bonobo;tensorflow-gpu,3,True
+1,cd72af254e50e01ae763,SyntaxError,82.07,webvirtmgr;python-editor;clipboard;keychain;requests,5,False
+1,7808564,ModuleNotFound,143.59,numpy;pandas;xrpy,3,False
+1,e972345a37686b9b1362,OtherPass,32.73,,0,True
+1,b27cdbff68870418bdb8cefa86a2d558,ImportError,169.13,torch;torchvision,2,False
+1,9705471,Build failure,43.63,bottle;distribute;rpi-gpio,3,False
+1,5536498,ImportError,55.0,shotgun,1,False
+1,4149031,Build failure,102.83,pyglet;pygobject;ngtk,3,False
+1,276a2b26cab5bc22d882,Build failure,96.46,aya;pymel,2,False
+1,25d98841e6a82f30ae5cac24e9039856,OtherPass,71.37,pefile2;pycrypto,2,True
+1,7f1737a750d8246d325e,OtherPass,148.83,lxml;nltk;scipy;elasticsearch;gensim,5,True
+1,4543974,ModuleNotFound,118.93,twisted;rigger;setuptools,3,False
+1,8957990,ImportError,51.43,tldb,1,False
+1,5088386,SyntaxError,60.63,django;django-filter,2,False
+1,795180,ImportError,116.05,scrapyc,1,False
+1,6472432,OtherPass,82.48,pycrypto,1,True
+1,c9f42c81c53b276b6560,ModuleNotFound,379.45,pfc-util,1,False
+1,2719812,Build failure,108.87,django-celery;celery;simplejson;johnny;vine;kombu;django,7,False
+1,7dc87b8d1dc16b025e7019113cc2de93,OtherPass,63.23,oauthlib;requests;requests-oauthlib,3,True
+1,019fd5c706e0bc94879f,ImportError,117.15,twisted;urx,2,False
+1,9378601,ModuleNotFound,91.56,pyvolution;werkzeug,2,False
+1,7804540,OtherPass,128.01,psycopg2;twisted,2,True
+1,7535869,OtherPass,37.9,python-dateutil,1,True
+1,2790749,OtherPass,61.61,psycopg2;django,2,True
+1,6843565,ModuleNotFound,136.11,timage,1,False
+1,4707012,OtherPass,116.86,numpy;pyspark;scikit-learn,3,True
+1,4407510,OtherPass,59.76,tornado;twisted,2,True
+1,1023456,ImportError,79.06,rhino;pysystem;contextpy3,3,False
+1,6504557,ImportError,144.47,zbar-py;qrcode;timage,3,False
+1,9951701907ed328218dd,Build failure,76.0,pillow;webvirtmgr;pyphotosim,3,False
+1,8fdb62f7094e6a9829f2,Build failure,40.37,pillow;autopy,2,False
+1,de22705b5f7ef778806b,ImportError,27.64,,0,False
+1,455694506ee6595c92e4,SyntaxError,79.46,numpy;chainer;brica1;scikit-learn,4,False
+1,e93532d5e7ddf0ec56c336499165c4dc,OtherPass,30.94,,0,True
+1,326462,OtherPass,47.01,pillow,1,True
+1,1042778,OtherPass,71.84,simplejson;python-cjson;ujson,3,True
+1,4c5dc5b2b267b43bb4c399ca9115c3f8,OtherPass,29.5,,0,True
+1,9716578,ModuleNotFound,113.72,v2,1,False
+1,e28813c1e8721830ff9c,OtherPass,318.54,numpy;scipy,2,True
+1,918d4ad7c931bc14b475008c00aa09f1,ImportError,134.7,torch,1,False
+1,0aaa9e4659977a98fc9f36d6887fef37,ImportError,50.01,plists,1,False
+1,4004895,ImportError,173.05,scippy;xnumpy,2,False
+1,b26bc0333cc18660d07baeb923ce9021,OtherPass,85.13,svgwrite;numpy;rdkit,3,True
+1,6027504,ImportError,59.18,twisted,1,False
+1,8be20f6256f9fd474c05,Build failure,83.02,yrequests;kolo,2,False
+1,fc3589eeabaee9ac5c05,ModuleNotFound,137.01,ivy-python,1,False
+1,7955963,ModuleNotFound,142.68,timage,1,False
+1,9985307,ImportError,65.77,pyroots,1,False
+1,8664457,SyntaxError,72.69,phue;lockfile;libxml2-python3;python-daemon;requests,5,False
+1,3151375,Build failure,37.69,distribute;rpi-gpio,2,False
+1,3805436,OtherPass,119.36,pytz;citelementtree,2,True
+1,3167821,OtherPass,44.07,pymongo,1,True
+1,9a632bbb0acb445f4f3a,ModuleNotFound,160.57,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,3978039,ImportError,67.89,logbook;credentials;imap-utils,3,False
+1,5079405,OtherPass,43.0,sha1,1,True
+1,09f5ab44486b1fc6df7bf20ce57159f1,OtherPass,51.02,pillow,1,True
+1,2cb9c79df7a58db9e5ec,ModuleNotFound,91.63,py-extract,1,False
+1,7719245,ImportError,310.57,numpy;tensorpy,2,False
+1,5225027,OtherPass,74.58,django-reversion;django;mezzanine,3,True
+1,9060558,Build failure,57.17,fonttools;robofab;pybomojo,3,False
+1,8662660,ModuleNotFound,161.99,logilab-astng,1,False
+1,1417f55cb896a44e68a6,ImportError,60.9,pyserial;ivypy,2,False
+1,9683c333e73a82379b8e377eb2e6fc41,ModuleNotFound,126.94,pobj;foundation;pycocoa;web-py,4,False
+1,a430d460966d64edc6cad71c502d7005,ImportError,59.42,networkx;graph-tool-nn,2,False
+1,2788978,ModuleNotFound,108.5,dce-plugin;sublime-cli,2,False
+1,1265346,OtherPass,55.36,simplejson;django,2,True
+1,3c2e5bf1e77986dfd51f,TypeError,182.46,keras;numpy;tensorflow-gpu,3,True
+1,b82da1cb8f3afe5ccb643f87e2f853b0,AttributeError,87.9,scrapy,1,False
+1,2475758,OtherPass,42.62,pillow,1,True
+1,50ffa966dbb6a1296320705890fcb5cf,ModuleNotFound,52.65,ou,1,False
+1,944439a04546f4c02cb9,ModuleNotFound,454.48,kerascv;numpy;tensorflow-gpu;cython,4,False
+1,2913338,OtherPass,58.08,django,1,True
+1,1788517,OtherPass,40.85,pillow,1,True
+1,dfd7eb0ce2915d004367,Build failure,188.49,shiboken;pysi;pymel;maya,4,False
+1,7428185,OtherPass,44.1,python-wordpress-xmlrpc,1,True
+1,2798682,Build failure,86.71,weblib;py2factor,2,False
+1,2704426,Build failure,52.74,pypiwin32,1,False
+1,1253332,OtherPass,36.49,python-dateutil,1,True
+1,4171521,ImportError,102.21,ledge,1,False
+1,4555097,Build failure,50.73,mecabpr,1,False
+1,1327072,OtherPass,46.68,django,1,True
+1,3037448,ModuleNotFound,202.79,pyffi;blender;pymessages;zbpy,4,False
+1,2942127,Build failure,66.25,gaapi,1,False
+1,1590178,Build failure,78.65,pyforms,1,False
+1,b46119196c75d6ef20ff,ModuleNotFound,133.48,rbpy,1,False
+1,1310549,OtherPass,52.06,django,1,True
+1,2968620,Build failure,180.47,idc;aaapi,2,False
+1,780263,OtherPass,162.12,myapp;django,2,True
+1,31122eb9e4c0af8adeca,OtherPass,85.47,nltk;scikit-learn,2,True
+1,3ff4278c609ce223ebb4fc300c5edd0f,ModuleNotFound,130.03,foundation;vobj;web-py,3,False
+1,bb61c15139bff338cb17,ModuleNotFound,130.09,rbpy,1,False
+1,8f07d0bfadffd40fcf40cd49cb77382d,ModuleNotFound,96.63,roapi;requests;cfscrape,3,False
+1,99e1ad329383de04be4834a8c3e28c0d,Build failure,518.38,numpy;opencv-contrib-python;tensorflow-gpu;tf-object-detection,4,False
+1,046e434c51057dc9588762edd40199b1,Build failure,141.73,web-foundation;python-configuration;pyobjc,3,False
+1,3760670,ImportError,53.29,py-ava,1,False
+1,2620876,ImportError,58.75,pipython,1,False
+1,2e3b989e0343f0884388ed7ed82eb3b0,OtherPass,200.84,numpy;scipy;pillow;torchvision4ad,4,True
+1,4266068bb3a5e36c2bff,ImportError,166.7,epguides-api;djangok;django-rest-framework-mongoengine;djangorestframework,4,False
+1,a8121604385ce6da251d20d018f9a6d6,TypeError,138.6,tensorflow-gpu,1,True
+1,8112114,ModuleNotFound,234.38,pymesh;ubpy,2,False
+1,1363730,OtherPass,47.54,django,1,True
+1,4aed548e606f11971f5a,OtherPass,81.48,epguides-api;python-social-auth;djangorestframework,3,True
+1,1189327,Build failure,90.38,indicator;pynotify;vobject;pygtk,4,False
+1,6118172,TypeError,69.52,python-android;pyjnius;cython,3,True
+1,659867,OtherPass,67.33,django-haystack;pycab;django,3,True
+1,3624478,Build failure,71.67,audio,1,False
+1,0efb90d998c59d5926ca7f4e79054361,Build failure,60.61,bluezero;python-tdbus,2,False
+1,3015625,Build failure,39.48,vbio,1,False
+1,833151,OtherPass,53.57,django;geopy,2,True
+1,0a509faf231cff3cdec7,ModuleNotFound,111.08,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,4640256,Build failure,39.21,dfwinreg,1,False
+1,600fa8852b4741fb2bb1,ImportError,62.42,google-py,1,False
+1,3494203,ImportError,121.92,numpy;twpy;pyopengl,3,False
+1,4180945,NameError,44.94,pillow;scene,2,True
+1,4f3a3b3c1828e6d781b624f378890cb0,OtherPass,159.65,numpy;torch,2,True
+1,8171599,Build failure,90.57,qtdjango;django-facebook,2,False
+1,c8a451502958fa367d84bf038081ee4b,TypeError,319.7,matplotlib;numpy;scikit-learn;tensorflow-gpu,4,True
+1,ac8f22326f095ed2690e,ModuleNotFound,92.51,web-foundation,1,False
+1,922973,AttributeError,53.0,riak,1,False
+1,fda9fd2a7a1e0bc458650ec4c3a0bf93,OtherPass,126.27,pycrypto;botocore;boto3,3,True
+1,1231964e784ab9acb65d,OtherPass,82.17,plac;ujson;spacy,3,True
+1,8249238,ModuleNotFound,72.95,stranger,1,False
+1,3917103,Build failure,49.24,musicapy,1,False
+1,81299cd171a60a071343,OtherPass,41.86,python-dateutil,1,True
+1,6562886,Build failure,46.43,s4d,1,False
+1,7f46e790c9e342d75dcbd9b1deb9d940,SyntaxError,385.36,keras;numpy;tensorflow-gpu,3,False
+1,2011426,NameError,95.33,numpy;matplotlib;scipy,3,True
+1,d3bf8d7a1867aed16d30,OtherPass,51.54,fusepy,1,True
+1,3359203,Build failure,228.19,enable;mayavi;pyface;pyexe;vtk,5,False
+1,7398239,OtherPass,99.24,numpy;mecab-python;scikit-learn,3,True
+1,1104553,ModuleNotFound,276.53,network;numpy,2,False
+1,2142891,OtherPass,53.61,simplejson;django,2,True
+1,4e958d673c51f1fe6f8f,OtherPass,47.16,pillow,1,True
+1,304a77371c9e207a5fa42a6b874017d5,OtherPass,60.1,django;requests,2,True
+1,3305365,NameError,65.06,django,1,True
+1,10554232,ModuleNotFound,128.83,servicemanager;pyevent;python-service;infi-win32service,4,False
+1,1705235,Build failure,139.83,ipython;pyzmq;pnumpy;scikit-learn,4,False
+1,2172888,OtherPass,47.77,django,1,True
+1,8069261,ImportError,193.75,tornado;cyhunspell,2,False
+1,a4cfdc19144e7bd634a8,OtherPass,45.47,pyopenssl,1,True
+1,6453947,ModuleNotFound,169.8,pyperclip;rbpy;mypy-extras;mathutils,4,False
+1,3699110,ImportError,79.83,gallerize;django,2,False
+1,8c6446457bcabf6e8e868e8717426ff4,NameError,41.92,microbit-3,1,True
+1,6202539,ImportError,75.32,wcom,1,False
+1,3838828,OtherPass,50.43,python-dateutil;pytz,2,True
+1,831611,Build failure,135.64,coverage-filter;rospy2;enoslib;pyxtools,4,False
+1,c97fe158082000ae06ad624527433de6,OtherPass,42.15,,0,True
+1,b45d21224c4ea16bf4a72e2a03f741af,Build failure,71.06,pypiwin32,1,False
+1,4047394,ImportError,60.61,vping,1,False
+1,fb9d710bd20579771b40,ModuleNotFound,136.27,rbpy,1,False
+1,0efb4d07f28af1c8fc1b,ImportError,93.23,python-editor;webvirtmgr;markdown,3,False
+1,1928063,OtherPass,60.48,django,1,True
+1,735556,OtherPass,52.51,twisted,1,True
+1,1792428,ModuleNotFound,89.62,wcom,1,False
+1,7752095,Build failure,55.06,webvirtmgr;gphotos;image;clipboard,4,False
+1,2ff89e40721d1f1a007449f02aee3990,Build failure,240.13,pycuda;numpy;numba;pyopengl,4,False
+1,5358040,OtherPass,53.79,django,1,True
+1,6078248,OtherPass,55.81,okpy;django,2,True
+1,35fb758c18036d7f8640,Build failure,69.73,doppkit;pypinyin,2,False
+1,3816122,Build failure,76.04,envoy;web-foundation,2,False
+1,8555125,Build failure,58.92,musicapy,1,False
+1,1716699,Build failure,134.4,pygi;ximage,2,False
+1,c1adfdb0f526465c99409cc143dea97b,TypeError,196.5,matplotlib;tensorflow-gpu,2,True
+1,39c2f27b581720482bc0,OtherPass,41.35,pillow,1,True
+1,4582282,ModuleNotFound,146.24,tornado;txtulip;setuptools,3,False
+1,7b75093ec0d5ecc8d95e,Build failure,42.51,pyside;shiboken;maya,3,False
+1,1234843,Build failure,66.55,django;redispy,2,False
+1,6099960,ImportError,67.82,proxy,1,False
+1,8bfa8e25f36e6f619247203d1bc0291b,ModuleNotFound,254.04,pyid;paapi;dautils,3,False
+1,872145,OtherPass,60.09,django,1,True
+1,7689218,TypeError,52.81,launchpadlib,1,True
+1,5649074,Build failure,47.6,kgtk,1,False
+1,dc176cdb29efd826e8c748e7f96933f0,TypeError,57.79,pyowm;wit;python-telegram-bot,3,True
+1,1509946,ModuleNotFound,114.08,dce-plugin;sublime-cli,2,False
+1,8973947,ImportError,84.94,couchbasekit;werkzeug;flask,3,False
+1,1277655,ImportError,96.17,couchdb;flask-login;simplejson;flask,4,False
+1,7e173302952b210aeaf3,OtherPass,62.09,cython;cffi,2,True
+1,813813,Build failure,35.04,unin,1,False
+1,ce5ebb37390ab0ae56c9e6e80128fdc2,OtherPass,104.65,,0,True
+1,6572592,Build failure,55.29,musicapy,1,False
+1,4745061,OtherPass,29.02,,0,True
+1,2cf4998949f49b58ff284239784e1561,Build failure,336.04,matplotlib;zipnish;numpy;wc-utils,4,False
+1,5719341,Build failure,147.4,fab-addon-audit;openlabs-shipping;kombu,3,False
+1,5269514,OtherPass,80.54,numpy;scikit-learn,2,True
+1,472922,OtherPass,50.35,django,1,True
+1,4365631,OtherPass,86.13,matplotlib;numpy;scikit-learn;pandas,4,True
+1,097f97f4cb67c554f04dba6b5a09a506,ModuleNotFound,131.19,vobj;foundation;web-py,3,False
+1,f15921b2257af1db953f,OtherPass,30.55,,0,True
+1,4ee0a712454480df5ee3,ImportError,136.47,theano;numpy;matplotlib;irrhound;scipy,5,False
+1,d1af2b73d38fbceee5c848fc9cf641ce,Build failure,369.22,idc;scipy;dautils;aaapi,4,False
+1,290224,NameError,54.64,django,1,True
+1,d11c77c5565482e965d1919291044470,Build failure,261.88,sensorflow,1,False
+1,bb85da3aa563b747151e,OtherPass,147.87,smbus;requests,2,True
+1,398429347c96e98aba88,OtherPass,66.72,pafy;youtube-dl;requests,3,True
+1,3427750,ImportError,47.04,yqt,1,False
+1,937534,Build failure,110.23,soscipy;nibabel;matplotlib;xnumpy,4,False
+1,0b7e91487dcf10c0b8e8711eb6d73bc5,TypeError,293.45,numpy;matplotlib;tensorflow-gpu,3,True
+1,27f33798d12317575c6c,Build failure,37.5,distribute;rpi-gpio,2,False
+1,4470212,OtherPass,74.68,ipython;ipykernel;ipyparallel,3,True
+1,2821544,OtherPass,76.61,muffin;fabric,2,True
+1,ce648166902041fbc613,ImportError,107.3,twitter-ads;py-env;werkzeug;flask,4,False
+1,3696512,ImportError,118.3,chardet;yapdfminer,2,False
+1,1326477,Build failure,76.32,flask-celery;yapps;celery,3,False
+1,1912053,Build failure,97.41,pango;ngtk,2,False
+1,5819145,ImportError,96.61,django;trappy,2,False
+1,bbfc1f0b9d003bf08b26,Build failure,81.75,lxml;unumpy;scikit-learn;pandas,4,False
+1,7948151,Build failure,142.29,numpy;sklearnsk;matplotlib,3,False
+1,7622246,Build failure,76.31,webvirtmgr;bencode;requests;ez-dropbox,4,False
+1,5177683,OtherPass,51.97,django,1,True
+1,4ba8ae5459ca4a287d42af549a611792,OtherPass,82.4,numpy;scipy;noise,3,True
+1,1815146,ModuleNotFound,99.7,ngtk,1,False
+1,3669688,ModuleNotFound,117.71,wxc;attrdict,2,False
+1,8814190,OtherPass,87.19,matplotlib;pyvisa;numpy;pyserial,4,True
+1,3409403,ImportError,62.76,google-py,1,False
+1,7025496,OtherPass,51.05,django,1,True
+1,5748e199a3bec164a867c9b654e5ffe5,SyntaxError,70.44,keras;gym;numpy,3,False
+1,5690132,Build failure,94.41,pysimpleguiwx,1,False
+1,3a6e4d618afc344aab81,OtherPass,167.9,ggplot;scikit-learn;pandas,3,True
+1,4546068,OtherPass,64.82,pycrypto,1,True
+1,f1a6bd3c8585c400c190,ModuleNotFound,331.34,xnumpy;lasagne;pythea,3,False
+1,2061456,OtherPass,71.74,numpy;scikit-learn,2,True
+1,3750993,ImportError,90.85,py-lib;requests,2,False
+1,668791,ModuleNotFound,144.62,simplejson;django;django-es,3,False
+1,7282822,OtherPass,53.89,kivy,1,True
+1,8444323,OtherPass,52.98,scipy,1,True
+1,b3f329868934710fbc81218ce1d6d722,Build failure,78.2,gaapi,1,False
+1,1254809,NameError,39.1,python-levenshtein,1,True
+1,1879626,Build failure,184.26,bson;setuptools-ci;django;cubicweb,4,False
+1,8ad859f30438f3be149fe9751391d037,ModuleNotFound,94.13,foundation;vobj;web-py,3,False
+1,5658529,ImportError,73.36,pils,1,False
+1,4684752,OtherPass,28.62,,0,True
+1,5488053,OtherPass,41.61,freetype-py,1,True
+1,0f87efc363309e99d600e3a6300fbcff,Build failure,65.08,mpf,1,False
+1,2760477,ModuleNotFound,143.56,pysettings;django-seo-js;fabric,3,False
+1,71b14c4beab12998b6d1,OtherPass,80.46,markdown2;reportlab;xhtml2pdf,3,True
+1,5380169,ModuleNotFound,61.46,gdscene,1,False
+1,3fdd80a08808bd275142d46863e92d68,SyntaxError,251.88,numpy;keras;tensorflow-gpu,3,False
+1,78e41a5065136e41bccbffdaab108492,Build failure,43.54,usage,1,False
+1,c9792757a9fc02d01408bf30855d412f,OtherPass,102.73,python-docx,1,True
+1,f85e89bef4b6e9b83f2a,Build failure,90.43,doppkit;foundation;pyobjc,3,False
+1,4cfe3995013225d1d119,ModuleNotFound,105.0,control,1,False
+1,9f782f83e25d3c9eb202,Build failure,55.69,s4d,1,False
+1,5515619,OtherPass,55.4,pyzmq;eventlet,2,True
+1,296207,ImportError,104.32,timage,1,False
+1,6869344,OtherPass,118.95,tornado,1,True
+1,95a2a749ceb47ad4eb1ff6d1f8d73c5c,NameError,48.78,pillow;requests,2,True
+1,5519057,Build failure,33.81,canvas,1,False
+1,4219140,Build failure,48.44,pythonc;win32compat,2,False
+1,e7b0bc65927b7987b7d4,OtherPass,66.4,pyopenssl,1,True
+1,7b96bba85ed81aba864a,ModuleNotFound,119.74,rbpy,1,False
+1,4413028,Build failure,89.67,filechunkio;boto;django;fiware-cloto,4,False
+1,3197a2bae38f77799ea8,Build failure,219.94,rnumpy;numba;scipy;scikit-learn,4,False
+1,e223622e255bd5b8c9130407397a0494,OtherPass,302.85,numpy;scipy;matplotlib;librosa;scikit-learn,5,True
+1,173778fd95b9e21afd1aa4ed16bb0694,OtherPass,46.24,pysecuritycenter,1,True
+1,5415869,ModuleNotFound,124.81,pysi,1,False
+1,4571292,ModuleNotFound,136.5,timage,1,False
+1,ed991fb8cdcac3dfadf7,ModuleNotFound,67.96,pyargparse,1,False
+1,964622,OtherPass,90.5,django-userprofiles;django,2,True
+1,4221932,Build failure,61.81,sublime;sublime-cli,2,False
+1,4700064,ImportError,46.1,pymongo,1,False
+1,2661065,ImportError,28.92,,0,False
+1,841006,OtherPass,50.31,soaplib;flask,2,True
+1,cc8647960afeb2c15a6061d7ab7e594e,OtherPass,64.63,lxml;python-dateutil;requests,3,True
+1,ef7ed11b0abab37c94ad,OtherPass,123.84,click;numpy;scikit-learn,3,True
+1,33e2172bafbb5dd794ab,OtherPass,126.11,pillow;numpy;retrying;matplotlib;cocotools,5,True
+1,8684968ebacb5522c86a,OtherPass,49.09,paho-mqtt,1,True
+1,b7beba6f962110596660,ModuleNotFound,95.99,sublime-cli,1,False
+1,3081369,Build failure,102.13,pygtp;pygobject;pycairo;pygtk,4,False
+1,2f8370ee83ab074f5b5e,ModuleNotFound,183.53,autobahn;ivy-python;twisted,3,False
+1,e9625de0711f29cd0a4b57502648dd86,ImportError,495.42,input;tensorflow-gpu,2,False
+1,7551089,Build failure,50.29,webpagetest,1,False
+1,b493a228c4081ff0260b,OtherPass,77.54,django;requests,2,True
+1,6ffa8fb7756c16798b2a,Build failure,101.0,mecabpr;gensim,2,False
+1,5875346,ImportError,82.33,pyfbp,1,False
+1,211868b4f589428d2626,OtherPass,42.6,python-dateutil,1,True
+1,122f258ba6eaa23dd9c5,Build failure,178.51,mathutils;rbpy,2,False
+1,3012318,OtherPass,51.21,django,1,True
+1,d37ab1524a7d5e373ee5a2a0176ebd22,OtherPass,205.5,matplotlib;numpy;h5py;tensorflow-gpu,4,True
+1,709384,OtherPass,127.06,twisted,1,True
+1,9b2b3e8a6c67697279d3724dce5dab3c,Build failure,275.43,dash;dash-html-components;dash-core-components;werkzeug;plotly;pandas,6,False
+1,a16749ee76941e8d86c8,Build failure,495.94,scipy;dautils;aaapi,3,False
+1,2fe1c16a7cc27ef01c1f,AttributeError,59.38,six;python-dateutil;django;requests,4,False
+1,c2b2943ead94c200574a,Build failure,240.96,numpy;pyvtk;caffe2,3,False
+1,6d459a8c2ae945808d69,Build failure,116.06,humanfriendly;pysnid;dpkt;pandas,4,False
+1,5780127,OtherPass,39.08,pillow,1,True
+1,2838927,ModuleNotFound,120.6,awesome-aws;w2j,2,False
+1,465de1f5f66334c91a4c,ImportError,146.69,cubicweb-vcreview;itsdangerous;jinja2;werkzeug;jflask,5,False
+1,a56421d26afb1f728a2b5959ce1c4486,ModuleNotFound,649.67,hyperopt;pyscnn,2,False
+1,2005165,OtherPass,46.36,django,1,True
+1,9b7787a607a5a676c6d8,OtherPass,61.59,django,1,True
+1,a0a5dd7bfcaac3d3e9c18e5ea1080b95,OtherPass,136.41,numpy;matplotlib;pandas;seaborn;pandas-datareader,5,True
+1,4023068,ImportError,73.82,zkcelery,1,False
+1,1722465,AttributeError,65.43,polib;django,2,False
+1,1096373,ImportError,122.98,simplejson;simplepy;pygame;scipy,4,False
+1,a08221826c6f20ac47fe688e575e51ca,Build failure,210.9,oldmatplotlib;matplotlib;requests,3,False
+1,2b8e2e05cf05a630b132,OtherPass,329.17,tensorflow-gpu,1,True
+1,075c35b536cc08b832e353f2f43c0bdc,OtherPass,28.22,,0,True
+1,eb302ad37fe170386893,Build failure,117.14,mojo;doppkit,2,False
+1,6102062,Build failure,82.94,numpy;scipy;sparsesvd;requests,4,False
+1,939252,OtherPass,39.46,pillow,1,True
+1,1288025,ModuleNotFound,366.63,django-haystack;django;python-dalle,3,False
+1,28f95f95731a5a24e553,NameError,41.87,pillow,1,True
+1,b9309cdd7d5adc3b4b70,Build failure,257.87,rc4-python3;eulerangles;numpy,3,False
+1,de1726bfc7330b2c9b2a,OtherPass,75.94,scipy;scikit-learn,2,True
+1,88d0ebab5ace81201f04,OtherPass,58.51,requests;facebook-sdk,2,True
+1,8e7ab6fe8ad6d903aa0c,OtherPass,56.54,synapseclient,1,True
+1,3019988,Build failure,84.8,foundation;ctools;docopt;coco,4,False
+1,95c66d564c58361ecf9f,OtherPass,40.55,smbus,1,True
+1,6532334,OtherPass,64.15,numpy;scipy;v4l2,3,True
+1,0ca2272c015266e667924836364349c3,OtherPass,87.1,simplejson;requests;python-jose,3,True
+1,5b581d774fc8500325f7,Build failure,111.46,opencv-python;zbar;image;picamerab,4,False
+1,b18ce332bde37e156034e5d3f60f8a23,AttributeError,324.96,numpy;tensorflow-gpu,2,False
+1,1f8dfb1b5c82627ae3efcfbbadb9f514,OtherPass,325.14,numpy;matplotlib;tensorflow-gpu,3,True
+1,8035611,OtherPass,43.74,pyramid,1,True
+1,6679768,ModuleNotFound,73.62,wechat,1,False
+1,1693769,OtherPass,71.62,numpy;matplotlib;scipy,3,True
+1,6507189,OtherPass,65.9,django,1,True
+1,5420020,OtherPass,56.2,pillow,1,True
+1,1233846,OtherPass,46.46,pyoai,1,True
+1,283860,ImportError,83.17,geopy;shapely;sgepy,3,False
+1,5029885,ModuleNotFound,155.61,fab-addon-audit;jinja2,2,False
+1,053db410f7fdd4e1d6034a0a7fd45d9b,OtherPass,100.22,pycrypto;requests,2,True
+1,9160719,OtherPass,42.09,pyyaml,1,True
+1,1052286,OtherPass,43.61,python-wordpress-xmlrpc;requests,2,True
+1,5284646,Build failure,66.24,xnumpy;audio,2,False
+1,915335,Build failure,52.51,winregrc;pypiwin32,2,False
+1,1068868,ImportError,173.49,xdjango;django-taggit;fast-autocomplete;django-blog-zinnia,4,False
+1,6627336,OtherPass,79.17,scipy,1,True
+1,005bbad123ef309a5bef,OtherPass,79.58,sqlalchemy;redispy;mysqlclient;python-memcached;requests,5,True
+1,994260,OtherPass,52.52,django,1,True
+1,c91859ed22e4dda11d36,ModuleNotFound,324.22,adafruit-led-backpack;imagefy;imagedt;timage,4,False
+1,2581132,ModuleNotFound,58.42,requestsh,1,False
+1,2951556,OtherPass,40.0,pyyaml,1,True
+1,1600408,OtherPass,45.53,zope-testbrowser,1,True
+1,632e39a9b4dda391fe54,Build failure,50.5,s4d,1,False
+1,2942374,OtherPass,49.07,webapp2,1,True
+1,d5da6f4b29a844a5865a,Build failure,82.63,webvirtmgr;python-editor;uip,3,False
+1,a05a9ed37a3096cffef80bdc7fee31bc,OtherPass,89.11,requests;pycrayon,2,True
+1,486793ad61db4c1dec9d,Build failure,56.82,pyqt5;python-gist,2,False
+1,1210791,ModuleNotFound,72.39,python-pyq,1,False
+1,7ef2ef722e4520fba09c9f4d83ecc453,OtherPass,48.71,,0,True
+1,3453185b41d8d985356cbe5e57d67342,TypeError,129.65,numpy;tensorflow-gpu,2,True
+1,1507152,OtherPass,57.74,gitdb2;gitpython,2,True
+1,2909661,OtherPass,46.27,webapp2,1,True
+1,e61631ea83c958befa5db92f8bde527d,ModuleNotFound,108.36,foundation;vobj;web-py,3,False
+1,6021768,ModuleNotFound,108.96,dce-plugin;sublime-cli,2,False
+1,7814472,OtherPass,91.66,marisa-trie;scikit-learn,2,True
+1,d45259ce3f8e4c226846d2f31bf719f5,AttributeError,249.2,numpy;tensorflow-gpu,2,False
+1,5002929,OtherPass,61.93,django,1,True
+1,a9f0b1ca7e98391a5067,Build failure,51.96,aya,1,False
+1,8683457,Build failure,219.6,scene;imagedt;ximage,3,False
+1,4034427,Build failure,135.74,clipboard;imagefilters;imagefy;imagepy;timage;pyimagedl,6,False
+1,9be3d2aa4930ecd8e536,OtherPass,56.59,lxml,1,True
+1,5716253,OtherPass,75.68,matplotlib;numpy,2,True
+1,504768e05fda49a6e3338e798ae1cddd,OtherPass,333.19,numpy;tensorflow-gpu,2,True
+1,1fe7b9ef3e6108216759,NameError,28.05,,0,True
+1,5719077,ModuleNotFound,63.26,pymongorm,1,False
+1,3a094e0218bc91f0e2d4,OtherPass,58.42,python-keyczar,1,True
+1,7639387,ModuleNotFound,146.91,python-constraint;networkx;swiglpk;sympy,4,False
+1,667e61d2f101f2f04542,OtherPass,31.18,,0,True
+1,6194556,OtherPass,30.82,,0,True
+1,6551668,Build failure,34.1,pyasn1;ndg-httpsclient;pytz;pyopenssl,4,False
+1,304963,ModuleNotFound,110.4,ngtk,1,False
+1,5805662,Build failure,63.45,pillow-simd;python-opencl;setuptools,3,False
+1,e2af6270cc9563cca197,ModuleNotFound,244.9,slave;twisted;buildbot,3,False
+1,3d5aa90144a4696be61b3991aa339cc5,Build failure,72.31,winregal;pypiwin32,2,False
+1,1878983,OtherPass,130.45,twisted,1,True
+1,c47824c116e6a61a56d9,OtherPass,374.87,matplotlib;snumpy;scikit-learn;scipy,4,True
+1,4eb4497f57e9f6fb78d14aef27fcc750,ImportError,62.25,pogoiv,1,False
+1,c2cf8d8aee3eb70668bd,Build failure,422.21,theano;numpy;scipy;lxml,4,False
+1,4495f2c97ae6605c32c8b8c61bd34a74,SyntaxError,65.97,keras;numpy;scikit-learn,3,False
+1,4574656,OtherPass,60.59,django-facebook;django-tastypie;django,3,True
+1,1355170,ModuleNotFound,269.71,py3helpers;jinja2;werkzeug;flask,4,False
+1,5562029,OtherPass,68.49,numpy;opencv-contrib-python,2,True
+1,b85fcfd4a0479810e6aa,Build failure,89.38,web-foundation,1,False
+1,4667205,OtherPass,28.68,,0,True
+1,2192812,OtherPass,43.79,httpie;pygments,2,True
+1,0efcacfb43827ba3a6bac3356315c419,ModuleNotFound,129.81,v2;numpy,2,False
+1,7698491,SyntaxError,83.68,webvirtmgr;python-editor;clipboard,3,False
+1,174056,OtherPass,61.36,twisted;mysqlclient,2,True
+1,076bbc6a0d5056d20ad45095b434b02d,OtherPass,42.2,python-nomad,1,True
+1,5520379,ModuleNotFound,105.32,ghost-py;dtpyside,2,False
+1,3563671,OtherPass,53.18,django-storages,1,True
+1,d4d90bc5b8fb9a56fa2d4f2383a2eda7,Build failure,141.64,capstone;unicorn;pystone,3,False
+1,d52d9ba44541fabaf4b012f4e62d675b,OtherPass,67.1,django,1,True
+1,5406587,Build failure,81.13,simplech;pygame;scipy,3,False
+1,1b49c03968b2c83897a4a15c78980b18,OtherPass,164.57,numpy;progressbar;torch,3,True
+1,3168336,Build failure,167.68,yahi;dbus-python,2,False
+1,1283684,Build failure,57.2,simplejson;networkx;yd3,3,False
+1,9cfd4d8400961a3b67a1351a1851c869,OtherPass,31.4,,0,True
+1,5091345,OtherPass,68.57,django,1,True
+1,3668591,OtherPass,44.25,pillow,1,True
+1,5108504,OtherPass,104.01,,0,True
+1,1702293,OtherPass,63.96,django-tastypie;django,2,True
+1,2025129,OtherPass,52.33,django,1,True
+1,5984815,Build failure,47.87,sipm;pyqtx,2,False
+1,4a4e7e700c34c04160b93aa03a14861c,Build failure,177.8,matplotlib;numpy;arsenalgear;scipy;pandas;seaborn,6,False
+1,ec3adc02d927375f13d0,ImportError,132.95,tdjango;django-dbsettings;six,3,False
+1,7301722,OtherPass,57.37,pillow;twisted,2,True
+1,4225456,ImportError,55.89,pillow;pra,2,False
+1,925008,Build failure,72.05,sublime-plugin-tests;sublib,2,False
+1,2358089,ModuleNotFound,88.43,python-git,1,False
+1,7466823,ModuleNotFound,74.35,pygdb2,1,False
+1,b59679e31dbdb01064d6bceb827ed88b,Build failure,173.41,idc;aaapi,2,False
+1,946c4d9aa7a74828bc12,OtherPass,56.48,boto;requests,2,True
+1,4260425,NameError,71.98,opencv-contrib-python,1,True
+1,7692685,OtherPass,82.3,gensim,1,True
+1,3129692,Build failure,220.52,matplotlib;numpy;scip,3,False
+1,11192605,OtherPass,53.84,numpy;scipy,2,True
+1,f53bb3e40edbceb38904,Build failure,102.71,numpy;matplotlib;tcrnumba,3,False
+1,2379572,Build failure,94.58,numpy;mpi4py-fft,2,False
+1,6947661,OtherPass,38.12,facebook-sdk,1,True
+1,ebb282c3b73c41c1404123de6cea4771,ModuleNotFound,96.56,pyyaml;sensor;tospy,3,False
+1,7079332cab038da1394d,OtherPass,63.29,pycrypto,1,True
+1,d3d4123985ffea996781,ModuleNotFound,113.03,vrcpy,1,False
+1,1707483,OtherPass,64.81,boto;django,2,True
+1,8577232,OtherPass,47.09,facebook-sdk,1,True
+1,6454814,OtherPass,392.94,numpy;scipy;scikit-learn;pyspark,4,True
+1,e530dc9767d8f83c08f3582c71a5cbc8,OtherPass,100.44,numpy;tqdm;scikit-learn,3,True
+1,ca6ed07e5c8017272701,OtherPass,67.99,django,1,True
+1,076424abd8b012371b516da32807ca14,ModuleNotFound,130.15,wix-airflow,1,False
+1,11292725,Build failure,64.65,rpi-gpio;plotly;adafruit-tmp;requests,4,False
+1,1d7cb531bb8fff8c228b7710126bcc33,TypeError,68.04,pyyaml,1,True
+1,6987693,OtherPass,52.81,django,1,True
+1,4232775,Build failure,79.61,oauth2client;secrets,2,False
+1,b5b2c4be45437992df58a7dd13dbafa7,OtherPass,304.62,tensorflow-gpu,1,True
+1,6113246,NameError,78.01,webvirtmgr;scene;sound,3,True
+1,4742296,ImportError,111.56,simplejson;matplotlib;matplotlibqml,3,False
+1,3128835,OtherPass,73.89,django;dropbox,2,True
+1,83f3cd8f44208a1856ce,OtherPass,82.97,matplotlib;numpy,2,True
+1,1685139,Build failure,38.86,splinter;django,2,False
+1,1217855,Build failure,170.61,event,1,False
+1,6719172,ImportError,513.77,wille,1,False
+1,39656378b59fe2eeb0f4,ModuleNotFound,394.92,s4d,1,False
+1,9335869,OtherPass,50.99,django,1,True
+1,1710122,ImportError,83.02,werkzeug;types-markupsafe;python-memcached;flask,4,False
+1,1242589,Build failure,71.16,web-foundation,1,False
+1,8036995,OtherPass,75.33,matplotlib;numpy;scipy,3,True
+1,2660685,Build failure,39.4,vbio,1,False
+1,5808d73731b50f8abbdcb3c3c5c1e6fa,OtherPass,42.59,pillow,1,True
+1,1760854,OtherPass,45.39,gitpython,1,True
+1,1e7e3c1da32d00f8ce0dff6b86fd45fe,OtherPass,79.9,netifaces,1,True
+1,05bec6966701f720c3aa,OtherPass,45.42,google-api-python-client,1,True
+1,8983536,TypeError,60.38,numpy;rasterio,2,True
+1,5090763,Build failure,83.66,webvirtmgr;pyphotosim;image,3,False
+1,3cefcc92891c4f1571f8,ModuleNotFound,129.42,pythongraph,1,False
+1,5521548,ModuleNotFound,109.37,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,4c59bb823a2c4cc886ae51deae9b23d5,TypeError,137.6,tensorflow-gpu,1,True
+1,3918279,ModuleNotFound,135.2,timage,1,False
+1,3844261,ModuleNotFound,110.69,pygame;vcv,2,False
+1,8428798,OtherPass,61.76,django;djangorestframework,2,True
+1,6993747,ImportError,48.73,ebaysdk,1,False
+1,1ddc318b4124ed152f6d,OtherPass,100.09,django,1,True
+1,4230847,ModuleNotFound,228.05,pytz;oauth2client;httplib2;tdapiclient,4,False
+1,4cd70e9515ab722b2bce,Build failure,49.53,pillow;ffprobe;pytuber,3,False
+1,8a8095721ee81d49f16c,OtherPass,58.96,numpy;scipy,2,True
+1,6065887,OtherPass,269.35,matplotlib;pandas;scikit-learn,3,True
+1,715284,ImportError,68.87,googleapis-common-protos;py2api,2,False
+1,7b2161871953f0c12615,OtherPass,63.47,django,1,True
+1,6d6bb834d48b9664b38d,OtherPass,90.04,scipy;sympy,2,True
+1,4349257,ImportError,97.26,cherrypy;webapi;django,3,False
+1,969ea467e870b68963f3,ImportError,121.61,portia,1,False
+1,3693550,OtherPass,69.0,matplotlib;numpy;scipy,3,True
+1,5065738,OtherPass,65.26,pyyaml;fabric,2,True
+1,9655195,ImportError,57.03,ivy-python,1,False
+1,9089444,OtherPass,56.64,djangorestframework,1,True
+1,2757171,OtherPass,87.64,pycrypto,1,True
+1,2030390,OtherPass,49.04,mysqlclient,1,True
+1,f35fbc80e066a49d65f1688a7e99f069,OtherPass,193.11,numpy;keras;tensorflow-gpu,3,True
+1,4972374,OtherPass,38.2,pyyaml,1,True
+1,7652081,Build failure,71.16,pyfoot;fedora,2,False
+1,baf42b089d71b94fd229,OtherPass,105.56,django;wagtail,2,True
+1,1133602,ModuleNotFound,118.8,dce-plugin;sublime-cli,2,False
+1,4022537,ImportError,82.56,eulxml;iso8601;requests,3,False
+1,3823483,AttributeError,81.38,webvirtmgr;python-editor,2,False
+1,1059647,Build failure,52.57,webapp2;pynndb,2,False
+1,71152286b0a8826249fe,ImportError,99.87,ledge,1,False
+1,871567,OtherPass,67.74,django,1,True
+1,426eb575fc70e5ee87ef,ModuleNotFound,270.78,scrapy;pythontutorial;pypatches,3,False
+1,f4b6f5c8f6c2a51c3f60,NameError,74.35,influxdb,1,True
+1,317164,OtherPass,38.21,pyyaml,1,True
+1,a003ace716c278ab87669f2fbd37727b,ModuleNotFound,283.23,lasagne;thea,2,False
+1,67effa81dd1cd5a488b4,Build failure,135.47,numpy;theano;sklearnsk,3,False
+1,5377033,NameError,63.42,scene;sound,2,True
+1,2962884,OtherPass,45.99,smbus,1,True
+1,11284662,Build failure,48.97,pyobjc;webcore;pyobj,3,False
+1,7447067,OtherPass,86.19,matplotlib;scipy,2,True
+1,4115763,NameError,60.26,scene;sound,2,True
+1,5c422d709c93615341a21009f800222e,ModuleNotFound,97.22,web-foundation,1,False
+1,2571471,Build failure,43.97,webkin;pyqtx,2,False
+1,1918389,ImportError,63.56,wcom,1,False
+1,b205bdf830c9f81e5fb6,ModuleNotFound,114.34,numpy;cv,2,False
+1,996771,OtherPass,92.56,numpy;matplotlib;scipy,3,True
+1,5330566,ModuleNotFound,80.1,quartet,1,False
+1,1268033,OtherPass,52.63,django,1,True
+1,f6df442d0250f265409c,OtherPass,39.78,pillow,1,True
+1,1844928,Build failure,80.74,fab-addon-audit;requests;python-twitter,3,False
+1,4413863,Build failure,63.48,pycanvass,1,False
+1,73a523f0cdbc978c148d1cd9e9d5f0be,Build failure,113.74,numpy;dr-utils;inception;opencv-python;pandas;keras;tensorflow-gpu,7,False
+1,6d7c78ea329d4e9e1217,ImportError,214.11,numpy;matplotlib;mnes,3,False
+1,2840020,ImportError,84.32,numpy;dendropy;pymcs,3,False
+1,2da57d5b039aab4da7ce,Build failure,58.83,pypcap;dpkt;bencode;pyyaml,4,False
+1,0ec0c3f5ca69bac2b625,OtherPass,357.04,gevent;requests;scrapy,3,True
+1,5823693,OtherPass,127.0,twisted,1,True
+1,2975718,OtherPass,54.23,django,1,True
+1,445785,Build failure,62.73,py-event;pastedeploy,2,False
+1,492858,SyntaxError,207.74,thrift;flume;tap-py;constants,4,False
+1,967274,OtherPass,74.79,django,1,True
+1,1424374,Build failure,62.26,ipaddr;dpkt;pypcap3,3,False
+1,6463966,ImportError,70.93,akilib;pymunk;pymunktmx,3,False
+1,8588668,OtherPass,57.25,twisted,1,True
+1,5305895,ModuleNotFound,175.08,ssound;scene,2,False
+1,7228939,ImportError,54.93,werkzeug;boto;rflask,3,False
+1,9ad6a265aac887fa26c1,Build failure,76.18,websocket-client;plectrum;su-password,3,False
+1,5f1baad30024a898e9f2115ac9b0c631,ModuleNotFound,143.29,vobj;foundation;web-py,3,False
+1,caaf6087162f1c6361571ee489da260f,OtherPass,139.59,graphviz;torch,2,True
+1,de1383080e9f8fb7d208,OtherPass,65.86,django,1,True
+1,7e3d537b94c30c782d1b50b712ea79a6,Build failure,124.01,numpy;pyinstruments;pandas,3,False
+1,61f9226f7ea498abce36187ddaf51ed5,AttributeError,326.17,tensorflow-gpu,1,False
+1,485977,OtherPass,43.87,lxml;python-dateutil,2,True
+1,7c3070bc1c2766633b8ff1d4d51089cf,Build failure,40.59,micropython-machine,1,False
+1,8abd37bf2d60cce6e01d,ModuleNotFound,84.03,pyqt5-qt,1,False
+1,feb86d4bdd9a658c122a706f26ba7e1e,NameError,103.53,pyspark,1,True
+1,3e8b195ff63929db69ccc4e5287d8ae5,AttributeError,343.77,paleomix;xnumpy;theano;lasagne;train;network;dataset;scipy;bonobo,9,False
+1,6258303,OtherPass,45.61,pillow,1,True
+1,4420532,ImportError,63.13,burp;py-ava,2,False
+1,bca0daa0c3ca0ddb2c70,OtherPass,124.23,lx;pyifc;modo,3,True
+1,9ea0e4feb62a45acffee,OtherPass,57.36,django-filter,1,True
+1,828099,OtherPass,66.47,scipy,1,True
+1,4c47dc94cc6054fe1398,OtherPass,92.56,numpy;scipy;gensim,3,True
+1,2220293,ImportError,119.81,simplepy;pygame;scipy,3,False
+1,5001170,ModuleNotFound,100.82,web-foundation,1,False
+1,4684561,OtherPass,52.24,django,1,True
+1,30d2e626772e84edd688ba717a766c89,ModuleNotFound,95.83,yappi;django,2,False
+1,1165344,OtherPass,53.27,django,1,True
+1,1440754,ImportError,48.5,githubpy,1,False
+1,d592394c0cedd32513f8fbb87ca05938,TypeError,139.97,tensorflow-gpu,1,True
+1,6a9e5ef2921c0214eeeb,OtherPass,69.52,numpy;theano,2,True
+1,1342497,Build failure,153.25,statsmodels;xnumpy,2,False
+1,8074321,OtherPass,75.04,scikit-learn,1,True
+1,403306854d457c284d02,SyntaxError,41.89,gst,1,False
+1,5463a2fbac8facf55d74,OtherPass,73.56,pyyaml;psycopg2;beautifulsoup4;requests,4,True
+1,6799568,OtherPass,89.25,matplotlib;numpy;scipy,3,True
+1,d0bb1f94cda69a5e7c96d1742cc5adca,AttributeError,67.06,scrapy,1,False
+1,1940208,ImportError,110.63,python-levenshtein;timage,2,False
+1,1160201,Build failure,56.99,django,1,False
+1,b0e95087771dbefa386f,OtherPass,45.24,python-gitlab,1,True
+1,44822f94af25f11a2fda5beba2593229,OtherPass,51.19,django,1,True
+1,ead9898bd3c973c40429,OtherPass,119.33,numpy;scipy;scikit-learn,3,True
+1,fa287fc6448f84004284f5c086f59661,SyntaxError,353.16,keras;tensorflow-gpu,2,False
+1,c233b0d25c5fbe008d9477bc1b2d234c,TypeError,181.31,numpy;tensorflow-gpu,2,True
+1,2337dd6cf56f2845bfa901a6b9c430ae,ModuleNotFound,88.05,tornado;sdoc,2,False
+1,8513270,OtherPass,84.52,muffin,1,True
+1,3148833,OtherPass,51.99,django,1,True
+1,46c9d4ed1ea43c3d916b,Build failure,75.69,pillow;beautifulsoup4;path-py;danki,4,False
+1,9cdead881799a47742ff3cd296d06cc1,OtherPass,76.72,paho-mqtt,1,True
+1,fbb19b73fa25423f02e8,OtherPass,169.2,numpy;scipy;statsmodels,3,True
+1,6446136,OtherPass,52.26,django,1,True
+1,5860853,OtherPass,87.07,matplotlib;numpy;mysqlclient;scipy,4,True
+1,9098744,NameError,38.51,scene,1,True
+1,cb5a28fa8d4db3fc1ba51894663c1aed,Build failure,55.48,ws4py;is-msgs;prospyr,3,False
+1,f51df716906be1d8f7337ffa183d32f4,ModuleNotFound,108.31,nuke;descript;click,3,False
+1,f234879ceb3a31e8ec54c601844ed706,Build failure,49.01,distribute;requests;rpi-gpio,3,False
+1,1771937,OtherPass,68.17,django-tastypie;django,2,True
+1,b0eae211db963fe56c0c55773e6a16c0,OtherPass,81.02,represent;django;django-push-notifications;djangorestframework,4,True
+1,9fffe8ba08e378e3d027610921c51a78,TypeError,239.36,numpy;scikit-learn;tensorflow-gpu,3,True
+1,4632416,Build failure,45.46,honest-ml,1,False
+1,b9df49cfc1540bc8b896,OtherPass,122.1,crypto;py-pgp,2,True
+1,9345872,Build failure,126.16,numpy;opencv-python;pillow;xsmc,4,False
+1,130cd92dc47c56c47030,OtherPass,76.74,numpy;matplotlib;pillow;pydub,4,True
+1,d887f01c563a60554360bb5ae07cd1b0,OtherPass,67.44,requests,1,True
+1,070c805d947bd17c7a19,OtherPass,42.93,xmpppy,1,True
+1,d6428881f451097f329e,OtherPass,95.05,pycrypto,1,True
+1,8f3b0a678011ac74c61b,OtherPass,30.51,,0,True
+1,566ebde618ec18f2bea6,OtherPass,76.39,scikit-learn,1,True
+1,01bf3900d3a02c4e3927b2a2bcf39100,ImportError,83.92,director;pyconfiguration,2,False
+1,28802627584b21ba1f6a,Build failure,91.29,uno;xbase;androidviewclient,3,False
+1,2623926,SyntaxError,37.94,dnspython3,1,False
+1,4110897,ImportError,56.31,pgm,1,False
+1,d049a307a271052dc740,OtherPass,72.84,pefile2;pycrypto,2,True
+1,689f4a38bc6cb9a7adc0,Build failure,51.66,wish;paver,2,False
+1,6408165,Build failure,144.03,numpy;pyzmq;cython;pycudwt,4,False
+1,7680498,OtherPass,202.19,persistent;zope-annotation;products-ploneformgen,3,True
+1,9c4d012d6fff059ccea7,OtherPass,65.01,pillow;pygame,2,True
+1,c8b3fb31c1552ecbaafb,OtherPass,110.15,scipy,1,True
+1,8481824,ImportError,72.6,vrpy;numpy,2,False
+1,58e015dd9ff33049da5a,Build failure,75.69,numpy;opencv-python;chainer,3,False
+1,701416,Build failure,215.63,ximage;imagedb,2,False
+1,5735359,OtherPass,93.06,scikit-image;pillow;numpy;scipy,4,True
+1,5104071,OtherPass,56.73,zope-interface;twisted,2,True
+1,4b79e30fad4ae8a50e2630fcfc4c8cfd,OtherPass,51.07,python-dateutil,1,True
+1,1107375,OtherPass,42.2,selenium,1,True
+1,2915436,OtherPass,67.65,numpy;scipy,2,True
+1,35723b58d238a67234d8,Build failure,46.64,robotspy,1,False
+1,11405336,ModuleNotFound,88.25,python-git,1,False
+1,5215968,Build failure,127.77,qstk;numpy;matplotlib;scipy;pandas,5,False
+1,5326379,SyntaxError,49.28,pypng,1,False
+1,e9fb36ca2220a167b7ed,OtherPass,70.12,pillow;numpy,2,True
+1,2229985,ModuleNotFound,98.28,asyncmongo;tornado;bson;py-error,4,False
+1,425ca642955f73452ebc097b3b46c493,OtherPass,174.55,numpy;scipy;torch,3,True
+1,16c0eb09d232461a773c22803a3df35e,ModuleNotFound,154.52,pydbus;xgi,2,False
+1,9258971,NameError,51.06,django,1,True
+1,2957026,ModuleNotFound,136.41,timage,1,False
+1,503106,OtherPass,66.17,django,1,True
+1,abca49bf36433fd1f9d1,OtherPass,50.67,pychef,1,True
+1,72b2f24b6d2ff6ffde1597f1ca2dea3f,Build failure,120.17,pydal;numpy;requests;fiona;geopandas,5,False
+1,5441be08c6d80ca55040678bcd79c3c5,OtherPass,52.58,django,1,True
+1,fbecc71022b62515a484a4a33d13014d,OtherPass,99.65,django,1,True
+1,2054744,OtherPass,56.31,django,1,True
+1,a42aecb379742d3cd150,ImportError,94.73,wxmpy;attrdict,2,False
+1,1df6d34cd1b2861eb6b7432ee7245ccd,Build failure,69.19,pyjava;pyborg,2,False
+1,7669374,ImportError,50.58,tldb,1,False
+1,45c1c820a8fa67d8e17e3079d6aa2a65,OtherPass,146.69,click;torch,2,True
+1,771dabe22b34d59728bddcf87b26cf54,OtherPass,32.39,,0,True
+1,2773137,Build failure,127.87,mpi4py;roots,2,False
+1,90fe4a3bc0caa582fc563ec503e5444c,OtherPass,40.51,webapp2,1,True
+1,ee8c85ff0462ec6105b2,OtherPass,94.04,gitdb2;gitpython,2,True
+1,afb129122a64bde3bd0c,TypeError,58.39,numpy;pillow,2,True
+1,1352028,Build failure,67.3,sublime-plugin-tests;sublib,2,False
+1,9481236,ModuleNotFound,95.99,pyvolution;werkzeug,2,False
+1,2021781,OtherPass,48.81,pillow,1,True
+1,c211c1af232974f00564,OtherPass,81.79,twisted;twython,2,True
+1,4471462,OtherPass,86.54,py3dns;pytype,2,True
+1,9040475,ModuleNotFound,576.31,v2;numpy,2,False
+1,1196291,ModuleNotFound,142.38,tweetypy,1,False
+1,3750225,TypeError,42.3,pygit2,1,True
+1,3682135,Build failure,236.23,numpy;scipy;blit;ximage,4,False
+1,702a848ba0a7a64b139985f5cad885f0,ImportError,50.71,tldb,1,False
+1,428e5b737306937628f2944fbfdc4ffc,Build failure,62.1,win32core,1,False
+1,2321077,OtherPass,56.53,numpy;scipy,2,True
+1,1521059,OtherPass,57.82,pygame;python-vlc,2,True
+1,4761479,ImportError,98.23,xdjango,1,False
+1,7785749,Build failure,80.63,web-foundation,1,False
+1,5051911,OtherPass,71.36,django;requests,2,True
+1,8096192,OtherPass,49.77,path-py,1,True
+1,18235723e926be0afbdd,ImportError,111.19,py-crypto;gmpy;crypto;pycurve25519,4,False
+1,db972e738cfacdf8055f,ModuleNotFound,90.27,python-git,1,False
+1,4996449,OtherPass,42.39,supervisor,1,True
+1,1054969,ModuleNotFound,78.52,chino,1,False
+1,191d15e28c39246a2525,OtherPass,60.2,requests;django,2,True
+1,446bcbe699d4fb54972f,Build failure,83.29,pyoscar;simplewebsocketserver;matplotlib,3,False
+1,5a4c39e4c02502a8451d,TypeError,83.23,biopython,1,True
+1,ede1aec7b3801eb08bc0,OtherPass,133.08,twisted,1,True
+1,3130141,Build failure,69.13,sublime-plugin-tests;sublib,2,False
+1,587011a65d05f067a29ce9c22894d1d2,OtherPass,66.96,numpy;matplotlib,2,True
+1,c362f0ad488e3b289394,TypeError,203.97,keras;numpy;pandas;tensorflow-gpu,4,True
+1,6a01cbe55657121a1f3d,OtherPass,120.32,pillow,1,True
+1,5487749,ModuleNotFound,70.97,wechat,1,False
+1,f07d827a4818fda0db81,OtherPass,71.41,django,1,True
+1,48c5c0124ba4e162b2e3,OtherPass,61.62,scikit-learn,1,True
+1,19154831c2049a69e8d53dea8cf3e744,ImportError,189.96,torch,1,False
+1,1997771,OtherPass,42.97,,0,True
+1,a400d6c20a52f0b3cd5415e833263b1f,OtherPass,47.87,pyyaml;vcrpy,2,True
+1,2986210,Build failure,43.9,kgtk,1,False
+1,9270848,ModuleNotFound,56.66,py-sh,1,False
+1,23585f7f50005408fc72,ModuleNotFound,191.6,matplotlib;setuptools;pyexe,3,False
+1,8907544,OtherPass,75.29,bcrypt;pycrypto,2,True
+1,c344f114e1579a29e163,OtherPass,36.94,,0,True
+1,7ccd43b1f2f79f1bb23c70920f75cec4,ModuleNotFound,101.42,sqlalchemy;afasi,2,False
+1,9574251b3c7eefccd84fc38905110ce4,OtherPass,109.25,channels;djangorestframework,2,True
+1,5a073b72c94de357d453,Build failure,185.57,webvirtmgr;zipnish;clipboard;ximage;photos,5,False
+1,48d35095a414580c055b,Build failure,207.31,urllib3;pnumpy;scikit-image;pandas,4,False
+1,540687,OtherPass,62.77,jsonpickle;domain,2,True
+1,3012089,ModuleNotFound,351.27,django-classy-tags;deepcola,2,False
+1,32561f20db62886bcf6af5ce98087ab9,OtherPass,40.1,pyyaml,1,True
+1,1694496,ModuleNotFound,233.33,django;muffin;urapy,3,False
+1,6b93a8028f4dc40cab49,ImportError,81.2,pygraph,1,False
+1,809867d7110acbde87af,Build failure,61.44,cython;adbus,2,False
+1,5106221,OtherPass,68.2,numpy;opencv-contrib-python,2,True
+1,7ec5bf797308279dc587,TypeError,207.91,numpy;tensorflow-gpu,2,True
+1,8f6667310a94f0c18bda10a1d5ff578c,TypeError,125.94,tensorflow-gpu,1,True
+1,4a07818b8a21dd5c49013b9ed496cb70,ModuleNotFound,119.67,rbpy,1,False
+1,4d7afed1dadb457bba977bd3757c1e29,OtherPass,148.6,telepot;pillow;requests,3,True
+1,5472885,ImportError,87.59,pyfbp,1,False
+1,ba235b7e90aafb9986158697a457a0d0,ModuleNotFound,123.3,web-foundation,1,False
+1,6b9bae1310f2ee6b47ba3663bdcb1ded,Build failure,75.02,pygtt;pygi,2,False
+1,eeff174666cce8ca67ae73d44d93054a,TypeError,268.73,numpy;pandas;nltk;tensorflow-gpu,4,True
+1,4e97eb41e2b9a80cd5de,ModuleNotFound,60.29,yappt,1,False
+1,1810707,NameError,40.47,python-dateutil,1,True
+1,8b1502a49d8b20a6ae70,Build failure,140.19,pt-py;lpdistutils;python-apt,3,False
+1,3219308,OtherPass,59.92,kivy,1,True
+1,a5af977340c1c452d2d0,ModuleNotFound,145.04,sensor;tospy,2,False
+1,98b4d7288a2ee7b1319a8ff71d3e2c7b,OtherPass,65.21,pillow;google-cloud-vision,2,True
+1,1ed9763ab4aa98516a7d,OtherPass,47.26,django,1,True
+1,1835224,SyntaxError,38.72,dnspython3,1,False
+1,5237529,ModuleNotFound,115.23,v2,1,False
+1,8248457,OtherPass,134.69,numpy;scikit-learn;gensim,3,True
+1,4dc4e988baae35aa2ae810281b5297fa,OtherPass,59.29,picamerab,1,True
+1,60bacd65c89e5290f452,ImportError,55.11,qc-utils,1,False
+1,6e41e8512c17eae5da50aebef3378a4c,OtherPass,154.07,torch;torchvision,2,True
+1,6673250,OtherPass,78.5,django;pytest;django-webtest,3,True
+1,4130c73434db79119f27,OtherPass,59.0,oauth2client;google-api-python-client,2,True
+1,7c18bf7ac5fd4d26cbce,OtherPass,103.73,ansible,1,True
+1,3719849,AttributeError,56.15,ipython;jsonschema,2,False
+1,48136d7a17387e7cf6c3,ModuleNotFound,114.23,rbpy,1,False
+1,8678538,Build failure,62.91,numpy;audio,2,False
+1,1720032,OtherPass,47.85,boto;python-cloudfiles,2,True
+1,9000222,ModuleNotFound,78.65,python-pyq,1,False
+1,fa5755c7f7fa49b47961,NameError,261.89,tensorflow-gpu,1,True
+1,286805,ImportError,58.42,google-py,1,False
+1,8974ac739d1ac9f60423,Build failure,62.89,winregal;win32gui,2,False
+1,5889795,OtherPass,77.86,scipy;numpy;matplotlib,3,True
+1,5580829,OtherPass,51.91,django,1,True
+1,603819,Build failure,109.53,python-opencl,1,False
+1,905137,Build failure,43.72,kgtk,1,False
+1,19d2397ff8da1952556cf2417d965f6c,NameError,68.43,scikit-learn,1,True
+1,59f9d4f5fd8196c849a892a56ba90baf,ImportError,284.21,voluptuous;uniohomeassistant,2,False
+1,2280363,OtherPass,39.02,pdfminer,1,True
+1,265e68a5e879b5540ebc,OtherPass,233.0,numpy;tensorflow-gpu,2,True
+1,daef0b34ec5af6f026af52d593131c64,TypeError,53.38,graphql-core;tornado;promise,3,True
+1,4c528bb794449160e9f9a303b7b2dc23,ModuleNotFound,175.09,opencv-python;timage;pytesseract,3,False
+1,1cec2b3d8aeaaa102e3b,ModuleNotFound,113.05,gobject;ngtk,2,False
+1,d4fc31bc09e8b0756569a416aede330b,OtherPass,74.07,django,1,True
+1,c3c474a04d7c0cd8ddeb,OtherPass,95.0,matplotlib;pillow;numpy;scipy,4,True
+1,5924965,NameError,44.76,scene,1,True
+1,3931936,ImportError,64.27,brod;pykeeper,2,False
+1,a90c6f22372de8859f14,ImportError,68.54,pipython,1,False
+1,5303446,OtherPass,27.42,,0,True
+1,48b54ea4cbc7eb014308,OtherPass,53.1,django,1,True
+1,e522b44a1dc7d3a388d4386d416747f5,SyntaxError,72.77,h5py;numpy;keras,3,False
+1,5017218,OtherPass,64.53,pycrypto,1,True
+1,74e556cd8a7814a5270079f94950957f,Build failure,54.82,libnum;python-socks,2,False
+1,8846206,OtherPass,101.2,networkx;numpy;scipy,3,True
+1,1646117,ImportError,70.78,pygrapht;textblob,2,False
+1,3158388,ImportError,110.05,djangok;south,2,False
+1,1035890,ImportError,105.0,edb-deployment;simplejson;fabric,3,False
+1,908a8f99ea5c98cedb4aaf71c7a3324f,NameError,42.16,microbit-3,1,True
+1,3918044,ModuleNotFound,128.21,v2;numpy,2,False
+1,2856099,OtherPass,27.9,,0,True
+1,39c53f824daef7d363db,OtherPass,56.41,pillow;requests;python-dateutil,3,True
+1,2708979,ImportError,46.47,yqt,1,False
+1,1320970,Build failure,94.84,pygobject;python-tdbus;cython,3,False
+1,2545a281e3f17ba6ef82,ModuleNotFound,161.74,vapourtec,1,False
+1,5344084,OtherPass,54.74,django,1,True
+1,4534a3e2a1584afc314e7e040c79d60c,ModuleNotFound,118.68,vobj;foundation;web-py,3,False
+1,3972601,OtherPass,92.04,django;facepy,2,True
+1,8184301,Build failure,59.15,redispy;walpy,2,False
+1,13623f68e36fdad4cb67,OtherPass,95.23,pycrypto;requests;keyring,3,True
+1,a8c96f1aeb41393dadf6,OtherPass,65.32,google-api-python-client;httplib2,2,True
+1,36c1db6ba57fc1fe72ae,OtherPass,107.35,numpy;scikit-learn;pandas,3,True
+1,b9768b4eefe679c988ce,OtherPass,71.94,python-ntfs,1,True
+1,9709984,OtherPass,52.5,django,1,True
+1,520a2c13f358b3689d00a3c88b34e0c6,OtherPass,52.36,django,1,True
+1,5022297,Build failure,42.59,distribute;robot-brains;rpi-gpio,3,False
+1,631953,OtherPass,71.33,lockfile;django,2,True
+1,507bcbf3e8cfdc5d3549,Build failure,55.58,wcom;pyjava,2,False
+1,9358479,Build failure,202.03,adrest;sqlalchemy;flasky;aiowerkzeug;itsdangerous;jinja2;pytest;pygot,8,False
+1,35536ca8f1769dc6c74f,OtherPass,43.01,pillow,1,True
+1,5055971,OtherPass,131.83,web-py,1,True
+1,1971061,ModuleNotFound,161.72,putio-py;pyflex,2,False
+1,1574231,ModuleNotFound,115.36,twisted;python-parrot;scrapy,3,False
+1,4116156,NameError,58.5,scene;sound,2,True
+1,137653,ImportError,46.14,pyhtml,1,False
+1,127368f7dc810dd37fe18aee87dd2ee2,ModuleNotFound,117.99,greenpy;psycopg2,2,False
+1,7131838,OtherPass,52.16,django,1,True
+1,18a8e06c2b179bb78353fbacfeee82da,OtherPass,55.94,python-telegram-bot,1,True
+1,19317d3e4b9a58f2355e7643040d483a,ModuleNotFound,86.55,apt-py;dist-pkg;distutils2-py3,3,False
+1,3341591,ImportError,125.55,epygame;player;pyramid,3,False
+1,5443399,ImportError,52.76,tldb,1,False
+1,7270594,OtherPass,84.71,pycrypto;paramiko,2,True
+1,79f9bfb5a7e767b4b756ff1c7dc04eaa,OtherPass,50.77,pillow,1,True
+1,2bcca0a7654168ef454f,OtherPass,253.33,cryptography;ipalib,2,True
+1,df9ad5ef01d16c02d68d9a8c17c75b73,OtherPass,73.89,twitter-text-python;python-dateutil,2,True
+1,7720207,NameError,51.87,pygithub,1,True
+1,f18b7b54830270b01b99ba5e78024a39,ImportError,170.88,numpy;pygraph;pandas,3,False
+1,284507,ImportError,27.49,,0,False
+1,9d39e1868e220e02cb58,ModuleNotFound,95.74,pyqt5-qt,1,False
+1,5036f784eec2036252e1990da21eda18,ModuleNotFound,357.16,gym;numpy;tensorflow-gpu,3,False
+1,9ed6ee8a55ff1587c08c793d5f23dfda,AttributeError,680.17,numpy;pandas;scikit-learn;tffm;tensorflowjs,5,False
+1,5170087,ModuleNotFound,197.49,sklearnn;rnumpy;scipy,3,False
+1,3287286,ImportError,126.35,vrpy;numpy;pandas,3,False
+1,83e4136803ca67b4955a,Build failure,86.25,web-foundation;pyconfiguration,2,False
+1,492713,Build failure,66.81,pymongo;types-werkzeug;flask,3,False
+1,06649145d7e6c4c147c02459fd2bc5af,Build failure,117.0,numpy;pybossa-pbs;topics;mobject;pyscenes;animation,6,False
+1,f8c9df05a65d311aa6ec,ModuleNotFound,126.22,pyglet;wxmpy;attrdict,3,False
+1,5608566,ModuleNotFound,107.17,pyjsonrpc;django,2,False
+1,77a1a4d5506258f3dc1f,Build failure,116.95,opencv-python;bridgepython;sensor;prospyr,4,False
+1,139f710ca91ed5fabaf9e6616d2c762b,TypeError,107.17,numpy;scipy;scikit-learn;gensim,4,True
+1,704add465613d5ca0d53,Build failure,69.85,fiware-cloto,1,False
+1,4b2897a857a5ec91d9ea965d87b795c8,Build failure,44.33,usage,1,False
+1,d1351610477840bbbb72,ModuleNotFound,73.3,wechat,1,False
+1,00056d4304c58a035c87cdf5ff1e5e3e,OtherPass,66.19,scrapy,1,True
+1,371698,OtherPass,54.27,django;mongoengine,2,True
+1,8020379,OtherPass,34.82,,0,True
+1,1382972,OtherPass,52.55,numpy;pillow,2,True
+1,b87ffb502890909aea2eb449643d5bc7,OtherPass,100.47,pytrends;pandas,2,True
+1,757191,OtherPass,56.25,cython;numpy,2,True
+1,ffd436e0a7897c9e872d,OtherPass,56.32,twisted;txamqp,2,True
+1,fa43af59f3ecf9b10c88,Build failure,205.86,matplotlib;moviepy;oldmatplotlib,3,False
+1,1825401,ModuleNotFound,112.19,dce-plugin;sublime-cli,2,False
+1,5596077,Build failure,85.02,pillow;numpy;python-gflags;mincepy-gui;pyleargist,5,False
+1,3473799,Build failure,56.74,kgtk;pywebkit;mechanize,3,False
+1,16e35ed936bab863a29b,ModuleNotFound,71.95,pymay;validation,2,False
+1,6040840,ModuleNotFound,83.21,sublime-cli,1,False
+1,4ed43412878723491240814a0d5a6ed6,OtherPass,71.69,khmer;numpy;scipy,3,True
+1,265a43f255716c11cc62,Build failure,105.28,pygobject;cython;adbus,3,False
+1,4201551d7f8608f0b82b,AttributeError,95.98,numpy;gensim,2,False
+1,61dc4abed6186117f2a70b058a2b8d14,OtherPass,65.09,django,1,True
+1,5650237,Build failure,83.91,pygtk;pygtt,2,False
+1,aa46105d34349543582b177ae79f32f0,OtherPass,88.62,pillow;numpy;h5py,3,True
+1,2406a3034b4afb800290,Build failure,54.11,python-vlc;musicapy,2,False
+1,3047772,AttributeError,64.41,pybel,1,False
+1,2872d7f994d192188970408980267e6e,OtherPass,43.43,colorama;beautifulsoup4,2,True
+1,3791168,ImportError,109.9,jinja2;jflask,2,False
+1,1435045,OtherPass,126.79,twisted,1,True
+1,8ce64008710128f3a076,Build failure,63.66,numpy;pygl,2,False
+1,324968,ImportError,110.61,timage,1,False
+1,4724761,ImportError,62.36,google-py,1,False
+1,9cc23ce7c1e5c9e4379e,Build failure,55.54,mpf,1,False
+1,642535b8baeaedb02a56,Build failure,117.89,aya;pymel,2,False
+1,6754465,OtherPass,50.59,pillow,1,True
+1,3141128,Build failure,61.97,numpy;pycairo;python-git,3,False
+1,7977513,ModuleNotFound,126.64,python-editor;webvirtmgr;keychain;private-attrs;requests,5,False
+1,2915875,ModuleNotFound,60.14,py-event,1,False
+1,3493579,Build failure,74.8,matplotlib;pysi,2,False
+1,ee837b44613ce93064aa,OtherPass,112.39,six;django;djangorestframework,3,True
+1,49aca627205aebaa2be1811511dbc422,Build failure,56.64,path-py;wish,2,False
+1,3728656,Build failure,100.68,pygtk;cgtk,2,False
+1,3893624,ImportError,96.41,pygoogle;webapp2;pygo-main;jinja2,4,False
+1,4630017,Build failure,56.35,phue;distribute;rpi-gpio,3,False
+1,660303,OtherPass,49.96,django,1,True
+1,716261,Build failure,61.96,mpf,1,False
+1,4083574,Build failure,144.43,matplotlib;oldmatplotlib,2,False
+1,4f0c1d94f5f164d67f40a4f1c8b0dc15,Build failure,73.64,message;doppkit;fonts,3,False
+1,6718314,ImportError,88.57,boto;flasky;closeio,3,False
+1,7002279,ImportError,94.71,mysqlclient;sfapi;gitpython,3,False
+1,0b9d8a742fe0efe0fe82,OtherPass,94.62,numpy;scipy,2,True
+1,0c01b7a27e512db480847fac2cc54103,ModuleNotFound,349.47,pfc-util,1,False
+1,2032428,ModuleNotFound,113.12,dce-plugin;sublime-cli,2,False
+1,8209b67ff556cb18651d,Build failure,45.84,distribute;pybluez;rpi-gpio,3,False
+1,1219955,Build failure,51.75,simplejson;igoogle,2,False
+1,1112928,OtherPass,115.04,tweepy,1,True
+1,a6a32bd87fdfe5529f0e908ed743f779,Build failure,183.96,numpy;pyvtk;caffe2,3,False
+1,10281460,OtherPass,103.32,,0,True
+1,4125009,ModuleNotFound,64.75,script-py,1,False
+1,1388243,OtherPass,53.36,django,1,True
+1,2245426,Build failure,73.07,pymongo;itsdangerous;jinja2;werkzeug;jflask,5,False
+1,889692,OtherPass,59.63,django,1,True
+1,9c1614281797ce620c6069476d39c7b8,OtherPass,67.76,pillow;numpy,2,True
+1,134acb5f7423312effcc98ec56679136,ModuleNotFound,91.25,foundation;vobj;web-py,3,False
+1,3692387,OtherPass,49.71,pymongo;tornado,2,True
+1,1321575,OtherPass,58.3,numpy;matplotlib,2,True
+1,1610922,OtherPass,68.95,numpy;scikit-learn,2,True
+1,d9ef555fb7ef5498c709,Build failure,66.47,twill;py-xml;requests,3,False
+1,1545255,Build failure,40.34,djangorestframework;django,2,False
+1,3695458,ImportError,54.82,eulxml,1,False
+1,6175388,TypeError,105.35,kivy;pyjnius;python-android;cython,4,True
+1,9956ec93a07ca4e9ba5bc415b014bcca,TypeError,234.0,tensorflow-gpu,1,True
+1,754329,ModuleNotFound,88.14,django-tastypie;djangox,2,False
+1,7716005,OtherPass,53.93,pillow;requests,2,True
+1,7030355,OtherPass,40.25,python-mpd2,1,True
+1,cb5d8157a8fa5a4a046e,OtherPass,54.64,django,1,True
+1,6691093,ModuleNotFound,73.68,webclipboard,1,False
+1,1248728,OtherPass,82.06,django-social-auth;django,2,True
+1,738156,OtherPass,183.12,zope-interface;z3c-form;plone-app-event,3,True
+1,816927d8d8d2d7d8afb0,OtherPass,45.75,requests,1,True
+1,ea6a808c1e1c382ec567,ModuleNotFound,141.68,python-git,1,False
+1,8668000,ModuleNotFound,117.58,numpy;cv,2,False
+1,5099161,TypeError,81.51,pycrypto,1,True
+1,1907f96e6e680bbeb15393d4f441b55e,Build failure,63.0,foundation;webcore;pyobj,3,False
+1,5267494,OtherPass,62.34,webapp2;twilio,2,True
+1,11526013,OtherPass,58.34,south;django,2,True
+1,a8332d2b6dc517accedbff8fd8e63b08,OtherPass,56.21,pyyaml,1,True
+1,a54e7e182ddf564f6a5c1fe50db556a2,Build failure,286.92,sklearn;numpy;scipy,3,False
+1,00e9638c0efad1adac878522cf172484,Build failure,353.98,numpy;gym;keras;tensorflow-gpu,4,False
+1,4e24eb196dc377278fc51e517d81df63,ModuleNotFound,71.54,isbinary,1,False
+1,6536381,OtherPass,59.5,django-tastypie;django,2,True
+1,aa8713d4334036bcb0060ff73dba54c4,Build failure,76.17,foundation;webcore;pyobj,3,False
+1,5232301,ImportError,61.49,pycrypto,1,False
+1,1267632,OtherPass,63.11,numpy;scipy,2,True
+1,5326230,ModuleNotFound,66.14,vpyk,1,False
+1,4727865,SyntaxError,52.19,django;django-filter,2,False
+1,9110299,ModuleNotFound,97.17,dtpyside,1,False
+1,7540117,ImportError,142.74,cryptacular;pyramid;zope-sqlalchemy;rqlalchemy,4,False
+1,187895beb89f0a1b3a54,TypeError,166.51,keras;numpy;tensorflow-gpu,3,True
+1,2636213,ModuleNotFound,127.97,pymongo;mongokit;ftscursor,3,False
+1,5544335,OtherPass,51.25,django,1,True
+1,f3f67424adda343fef40,OtherPass,155.16,matplotlib;theano;numpy;scipy;scikit-learn;scikit-image,6,True
+1,944049,Build failure,100.19,vtk;numpy;setuptools-hg;netcdf4,4,False
+1,246474141cbe588eb9fb,OtherPass,104.6,,0,True
+1,964472,OtherPass,47.92,django,1,True
+1,8792346,OtherPass,81.27,djangorestframework;django,2,True
+1,7880c101557297beeccda05978aeb278,ModuleNotFound,148.17,yaf,1,False
+1,8722026,OtherPass,32.99,,0,True
+1,dc36e180d1888629cf33,OtherPass,42.67,graphql-core,1,True
+1,4952342,OtherPass,51.1,django,1,True
+1,10005117,OtherPass,62.8,cython;word2vec,2,True
+1,3834979,OtherPass,48.42,django,1,True
+1,2764305,OtherPass,62.52,django,1,True
+1,0d9745f39a034758e51e,OtherPass,189.29,statsmodels;matplotlib;numpy;quandl;scipy;scikit-learn;requests;pandas,8,True
+1,5437436,OtherPass,60.47,pygame;pyserial;pillow,3,True
+1,3947bdc0f7b0dbcd51fa1ee53974fe66,Build failure,69.2,bs4;requests;pymodels;pyyaml,4,False
+1,c12be33cdcd9a86f20a2,ModuleNotFound,159.87,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,6165747,Build failure,142.41,snumpy;cython;mmmath;scipy;numba;scikit-learn,6,False
+1,215274,OtherPass,79.82,django,1,True
+1,6201049,ModuleNotFound,210.68,gobject;indicator;pynotify;tgtk,4,False
+1,1125832,ModuleNotFound,68.89,jipython,1,False
+1,2830057,OtherPass,48.42,django,1,True
+1,8378209d6cf5f073087b3c2b9814acec,TypeError,173.86,numpy;tensorflow-gpu,2,True
+1,5149802,OtherPass,116.09,bottle,1,True
+1,571027,OtherPass,50.57,django,1,True
+1,434e185ce543ca1c8a99,Build failure,74.33,sublime;sublime-cli,2,False
+1,4654376,ModuleNotFound,58.02,javar,1,False
+1,1780878,ImportError,57.96,djangomosquito,1,False
+1,855680,ImportError,76.18,yampy,1,False
+1,6856389,ImportError,86.17,pyqt5-qt,1,False
+1,356294,SyntaxError,42.53,nuke,1,False
+1,5665472,Build failure,84.73,pycopy-posixpath;pythoncgi,2,False
+1,4016539,OtherPass,53.98,pillow,1,True
+1,4547295,ImportError,64.75,mlib,1,False
+1,10354951,Build failure,35.38,pyjava,1,False
+1,f788cfd227cb94d0843235a2542026fd,OtherPass,418.65,spacy;allennlp,2,True
+1,5a5c3a6ad327f303cb915198aec8a90d,Build failure,215.25,numpy;matplotlib;opencv-python;pens;scipy,5,False
+1,3e5107b11d19ac62a2ed,NameError,62.17,django,1,True
+1,3886519,OtherPass,54.22,numpy;pypng,2,True
+1,6145546,TypeError,48.72,begins,1,True
+1,1269098,ImportError,56.36,vcv,1,False
+1,3446681,SyntaxError,47.71,ldif,1,False
+1,5b62847bf934785119ffb16be636e073,ImportError,80.66,html2text;webvirtmgr;pythonapp,3,False
+1,f7d8b6cb045cbb65ab80,ImportError,56.65,fulllist,1,False
+1,4a89bf7c52500a1d7e7b,AttributeError,140.47,twisted;pyopenssl;pyyaml;paver,4,False
+1,3181989,Build failure,84.13,pytesser3;grid-control;pillow-simd;numpy,4,False
+1,313753,Build failure,45.38,igoogle;feedparser,2,False
+1,2f904cb32be20d808481e04f5dd7fe0c,NameError,41.92,microbit-3,1,True
+1,2032745,ModuleNotFound,106.78,pyiku;cython,2,False
+1,7020937,Build failure,105.85,scikit-learn;v2;numpy;pyfeatures,4,False
+1,1009475,ModuleNotFound,83.34,pylinreg,1,False
+1,b1ef03dd21e7a3016161,OtherPass,67.61,synapseclient;requests,2,True
+1,822643,OtherPass,42.21,scons,1,True
+1,2c7b95beed642248487a,Build failure,91.03,mpi4py-fft,1,False
+1,e1e011652b297d13b3ac3f99fd11b2bc,ModuleNotFound,497.74,kerascv;numpy;tensorflow-gpu;cython,4,False
+1,efce2e1a817a01441f08,OtherPass,69.01,tornado,1,True
+1,5778557,ModuleNotFound,114.45,python-pyq;sip;maya,3,False
+1,d6aa922505c4e5f21f2f,ModuleNotFound,82.25,script-py,1,False
+1,b6460d1e3da5044ffff235403d16fed2,ImportError,149.03,netutils-linux;numpy;pydataset;scipy,4,False
+1,1142740,OtherPass,48.52,pyyaml;fabric,2,True
+1,9901745,Build failure,71.78,cython;pygeo,2,False
+1,2949632,OtherPass,54.35,django,1,True
+1,6462976,ModuleNotFound,107.21,scenery;sound,2,False
+1,1074124,ImportError,70.18,txredisapi;twisted,2,False
+1,629508,OtherPass,72.41,django,1,True
+1,4142563,OtherPass,48.89,boto;dnspython,2,True
+1,4043334,OtherPass,64.81,webvirtmgr;python-editor;keychain,3,True
+1,1805981,ImportError,111.95,blimey;sublime-plugin-tests,2,False
+1,11181988,Build failure,74.96,luigi;path-py;wish,3,False
+1,b3143dde185cecda7c1dee7ffbce5d2c,ModuleNotFound,339.46,caapi;numpy;scipy,3,False
+1,5043521,TypeError,47.58,torndb;mysqlclient,2,True
+1,6499135,OtherPass,71.1,django;djangorestframework,2,True
+1,01c99322cf985e771827,ModuleNotFound,116.01,foundation;js-foundation,2,False
+1,1d08fa7af5ab846211ace2447e1e3e8a,ModuleNotFound,75.04,wechat,1,False
+1,eeb156dc7b4caca69f5b31037da54708,ModuleNotFound,108.63,numpy;sensor;tospy,3,False
+1,10016605,ImportError,117.98,lx;cvpy,2,False
+1,e68c2bcb3d0893eafc0025d1104a8c4a,OtherPass,112.54,matplotlib;numpy;scipy,3,True
+1,3938253,OtherPass,61.63,django,1,True
+1,4349575,ModuleNotFound,76.09,python-pyq,1,False
+1,9822570,Build failure,194.43,cscipy;numpy;scikit-learn;ipython,4,False
+1,6230787,OtherPass,73.99,numpy;scikit-learn,2,True
+1,dc673da0c531c7a6059b,ModuleNotFound,96.98,dce-plugin;sublime-cli,2,False
+1,2d6bbffce9dda5f3057b4879c3bd4422,OtherPass,73.11,numpy;opencv-contrib-python,2,True
+1,4d0f862d981d9bfc6b4f,SyntaxError,46.67,mysql-connector-python,1,False
+1,9090456,OtherPass,72.27,numpy;scipy;matplotlib,3,True
+1,3042651,OtherPass,55.96,django,1,True
+1,6095815,OtherPass,54.53,django,1,True
+1,ea3bb160dbc2e650b4474a84248d0d1a,OtherPass,190.41,keras;tensorflow-gpu,2,True
+1,5f59050155c3159c2185,ModuleNotFound,70.12,pymay,1,False
+1,011004bcac763eaf6f28,Build failure,55.1,xmppy,1,False
+1,8cebde204781b7d27c90,OtherPass,46.19,mysqlclient,1,True
+1,5623772,NameError,47.87,django,1,True
+1,881cd3e0f8836121226a04efb9e2ae18,OtherPass,140.25,torch,1,True
+1,09cae53bf67ea8a39700,OtherPass,57.78,beautifulsoup4,1,True
+1,8289612,ModuleNotFound,109.48,pexpect;dce-plugin;sublime-cli,3,False
+1,1483322,OtherPass,80.42,mysqlclient;psycopg2,2,True
+1,778260a1f0553575be99,ModuleNotFound,448.26,numpy;matplotlib;deepl-toolkit,3,False
+1,29c51b6997c3e3bff568,OtherPass,99.45,numpy;scipy;matplotlib,3,True
+1,85ab1cfc3f733165e4b9,OtherPass,120.27,numpy;scipy;scikit-learn;gensim;lda,5,True
+1,c943835a9742f5021eeb,ModuleNotFound,141.28,python-git,1,False
+1,5f256b69a07a43f978b4,OtherPass,33.53,,0,True
+1,5bcffaac23236a78ea14,Build failure,487.54,scipy;dautils;aaapi,3,False
+1,69f4acd1fc094c66ba73,ModuleNotFound,63.11,ucron,1,False
+1,1035190,Build failure,41.44,django,1,False
+1,b9bc61a74e7cadeb1fec,Build failure,615.13,keras;numpy;tensorflowjs,3,False
+1,691e97ce22f7cd43d6a9d54305344587,OtherPass,57.74,numpy;pillow;wand,3,True
+1,5803651,OtherPass,51.88,networkx;pillow,2,True
+1,4451253,Build failure,103.63,scrapy;myproject;decimal-monkeypatch,3,False
+1,2779820,OtherPass,51.12,bottle;pymongo;simplejson,3,True
+1,67c7a6d77a6da0a56329,OtherPass,107.43,,0,True
+1,be7e84c9d61c4869e981,ModuleNotFound,229.18,numpy;scipy;matplotlib;cv-py,4,False
+1,044682e76def583a12e6c09209c664a1,ModuleNotFound,232.34,sklearn;nltk;numpy;scipy,4,False
+1,411123,OtherPass,46.4,django,1,True
+1,5078476,OtherPass,61.57,mysqlclient;unicodecsv;jinja2,3,True
+1,4668212,ImportError,44.63,flasky,1,False
+1,7adc87d2c4fde941cea6,Build failure,175.5,numpy;pyvtk;caffe2,3,False
+1,1072977,Build failure,85.91,pyfoo;ldap;django-auth-ldap,3,False
+1,62d629216e19906c53d3,OtherPass,86.96,click;rasterio;fiona,3,True
+1,2859545,ImportError,49.96,vcv,1,False
+1,5875326,OtherPass,363.01,gevent;pycurl,2,True
+1,1b42a20c8f3eb9bb7cb8,ModuleNotFound,105.18,pysi,1,False
+1,bc901de8b7e59cbeb190,OtherPass,54.94,webapp2,1,True
+1,ee9151b0ad985ca348cd,Build failure,82.77,pytemplates;inkex;superpathlib;simplepath;simpletransfers;subdivide,6,False
+1,5310037,ModuleNotFound,94.42,sqlalchemy;peepal,2,False
+1,723736,ImportError,124.95,matplotlib;numpy;d-save-last;scipy,4,False
+1,1410088,Build failure,142.17,pygame-cffi;python-opencl,2,False
+1,f3538c32965575e59bcd,OtherPass,43.77,pychef,1,True
+1,d76eb4f4eea0320bb35dcd1b2a4575ee,ModuleNotFound,166.94,pillow;v2;numpy;scipy,4,False
+1,783810,OtherPass,212.61,gevent;pyzmq,2,True
+1,749857,OtherPass,125.22,twisted,1,True
+1,3309494,OtherPass,62.01,rpi-gpio;image,2,True
+1,4981937,Build failure,174.17,treenet;numpy,2,False
+1,9bde6d0985bd71b103d3,OtherPass,58.81,jedi;docopt,2,True
+1,7f73238f55b7158b6852,OtherPass,64.65,django,1,True
+1,a67517621c2a9d4c2f14,ModuleNotFound,134.24,py-app;geopy,2,False
+1,313761,OtherPass,53.57,django,1,True
+1,6838974,OtherPass,47.38,pdfminer;pypdf,2,True
+1,1808234,Build failure,93.84,win32core;winregrc;win32gui,3,False
+1,2f1b9a255993bf9b2629,OtherPass,108.75,numpy;pillow;ipython,3,True
+1,651afb13d45e4c587f63,Build failure,104.09,numpy;theano;oldmatplotlib;scipy;logistic-module,5,False
+1,4c2d4105ea2c7e407fb5,OtherPass,286.12,xnumpy;scikit-learn;scipy,3,True
+1,5881137,OtherPass,66.81,django;djangorestframework,2,True
+1,1041172,ImportError,110.68,pillow;gameduino;timage,3,False
+1,7f3ab982eb65900c5159,OtherPass,85.2,pyppium,1,True
+1,6623972,OtherPass,41.64,i3-py,1,True
+1,1433794,OtherPass,40.53,gitpython,1,True
+1,3e1cfdb76005c901b7d3f8b1e6ba1557,ModuleNotFound,81.28,xlutils,1,False
+1,781740,OtherPass,73.07,numpy;scipy,2,True
+1,1676440,ModuleNotFound,70.96,tornado;pymongorm,2,False
+1,9343730,OtherPass,48.4,picamerab,1,True
+1,1728255,OtherPass,62.4,gevent;gevent-websocket;pyramid,3,True
+1,5527142,ModuleNotFound,105.38,pyastro;numpy;streams-py,3,False
+1,4c223b8e2d72b0e35bde,ModuleNotFound,264.15,lasagne;pythea,2,False
+1,396e85fe4facca626782,OtherPass,36.05,pysocks,1,True
+1,1260ba896d448bad0eebdf26b80c00cc,TypeError,186.93,gym;numpy;tensorflow-gpu,3,True
+1,844aab52fcff6b1c652a,Build failure,212.17,xnumpy;mongolog;caffe2,3,False
+1,744413,OtherPass,43.58,supervisor,1,True
+1,880901,OtherPass,56.54,django,1,True
+1,3783153,ModuleNotFound,129.46,example;ipython,2,False
+1,0d5a709bbb4186d1f45f2af14c65b110,Build failure,108.53,pillow;zipnish;nc-utils,3,False
+1,3079065,ModuleNotFound,120.29,django;rainbarrel,2,False
+1,6530635,OtherPass,60.01,django,1,True
+1,6103019,ModuleNotFound,107.05,scene;pyrogen,2,False
+1,b5952c36b36b877adcb0495163678675,OtherPass,31.37,,0,True
+1,2395528ca82e1a9b1b5f34391f00e19c,OtherPass,72.2,scikit-learn,1,True
+1,e97d518fe02a79177b081c028a83ec1c,OtherPass,421.03,numpy;tensorflow-gpu,2,True
+1,3963225,ImportError,61.58,quartet,1,False
+1,2620735,ImportError,59.85,pipython,1,False
+1,3582544,ModuleNotFound,92.2,ivy-python,1,False
+1,530c20924768ce180923,ModuleNotFound,101.93,bitforge,1,False
+1,7103585,SyntaxError,40.07,dnspython3,1,False
+1,98a38b54f889fce2b237,Build failure,40.7,distribute;rpi-gpio,2,False
+1,1ad56b7720af8d706e7f22cbcb8c6d70,TypeError,173.23,keras;numpy;tensorflow-gpu,3,True
+1,69aae99be6f6acfadf2073817c2f61b0,TypeError,127.57,numpy;tensorflow-gpu,2,True
+1,8ff8e31ee1a2a9585a5a,OtherPass,68.02,pycrypto,1,True
+1,3912465,ModuleNotFound,67.5,verminator,1,False
+1,3898894,ModuleNotFound,98.22,dce-plugin;sublime-cli,2,False
+1,2870240,Build failure,67.03,doppkit;pyobjc,2,False
+1,045c887b6ccdf0edf4648da0c40bcc12,OtherPass,146.98,torch,1,True
+1,5383149,OtherPass,75.37,numpy;scipy,2,True
+1,3891365,ImportError,93.8,cartodb;secretm,2,False
+1,817977,Build failure,77.06,doppkit;foundation,2,False
+1,52bba57f724e38229da9d85fbc85b673,TypeError,184.71,numpy;tensorflow-gpu,2,True
+1,c01b65369b71c35431c8,ModuleNotFound,415.88,s4d,1,False
+1,5679049,ImportError,121.69,cvpy;tesseract,2,False
+1,542786,AttributeError,68.54,numpy;scipy,2,False
+1,4091897,ImportError,94.57,soldier;django,2,False
+1,5473058,ModuleNotFound,144.63,matplotlib;toolkits;numpy,3,False
+1,af466b8d32d7cd4954f1,Build failure,98.48,uis;python-editor;clipboard;pmagpy,4,False
+1,5297676,NameError,42.69,scene,1,True
+1,8abc96b010820970f304,Build failure,41.32,scrapy,1,False
+1,8663d3bbfd586bffecf6a0094cd116f2,TypeError,175.78,tensorflow-gpu,1,True
+1,2152643,Build failure,64.34,matplotlib;pnumpy;audio,3,False
+1,8460004,Build failure,81.84,celery;numpy;kombu;pyvine;redis,5,False
+1,1387470,ImportError,61.45,tornadose,1,False
+1,00135b0dfee0ae165ad2,ModuleNotFound,114.28,python-pyq;sip;maya,3,False
+1,9dcd642059214d81b3ef,OtherPass,49.59,pygithub,1,True
+1,5849024,ImportError,41.65,pypeg2,1,False
+1,cdf79835a0e30a9cbdeaaf2eb4151077,ImportError,58.25,pymay,1,False
+1,1082570,ModuleNotFound,68.35,selenium;z3c-webdriver,2,False
+1,b8462a8a1cb69f55d8356cbb0f3a4d63,ModuleNotFound,139.36,numpy;cv,2,False
+1,9747287,Build failure,83.82,theano;numpy;pylearning;scikit-learn,4,False
+1,5459536,OtherPass,55.66,django,1,True
+1,e41abdd59c5308eacf84,Build failure,211.04,traits;umodules;mayavi,3,False
+1,3829194,TypeError,72.39,pyjnius;cython,2,True
+1,5684769,OtherPass,76.53,matplotlib;numpy;scipy,3,True
+1,5289693,OtherPass,68.39,pyskein;requests,2,True
+1,1679110,OtherPass,43.08,pillow,1,True
+1,2e466ff4e6b3425aba3c,Build failure,184.76,webvirtmgr;gphotos;pyimageop;ximage,4,False
+1,5008118,NameError,48.22,pyyaml,1,True
+1,5894681,OtherPass,28.37,,0,True
+1,bce94f1c37215f644e0c,Build failure,66.23,gaapi,1,False
+1,5951030,OtherPass,28.07,,0,True
+1,6e56d947ceaacdebb7fd3a88ed89cb6c,NameError,61.15,factorio-draftsman,1,True
+1,1486762,Build failure,58.61,gpscript;mysql-python,2,False
+1,bd2d6c2271e42ed97b97,ModuleNotFound,203.06,numpy;matplotlib;cv-py,3,False
+1,5907109,ImportError,89.24,pygithub;pybitbucket37,2,False
+1,263113,Build failure,98.89,django-haystack;qtdjango;django-debug-toolbar,3,False
+1,65fbce1860ef204ee908,ModuleNotFound,107.14,graphene;graphqlpy;gevent;cython,4,False
+1,c6b3e4d47d933b057aab32c9c29c4221,Build failure,429.82,kerasy;tensorflow-gpu,2,False
+1,72e709ba8a3a7c6affa1,Build failure,40.9,python-silk,1,False
+1,5403877,Build failure,149.16,shiboken;pysi;maya,3,False
+1,2e11b48f431c53b101db6cb817b2fc7f,OtherPass,61.32,django,1,True
+1,1722663,Build failure,216.85,ximage;imagedb,2,False
+1,4bbe165b19a2b0d457c6,ImportError,65.67,paho-mqtt;ti-sensortag-wifi,2,False
+1,7524815,OtherPass,42.63,pytz;gps,2,True
+1,2577781,ModuleNotFound,103.72,tornado;klimits,2,False
+1,814599,NameError,41.32,mysqlclient,1,True
+1,4340606,OtherPass,75.51,theano,1,True
+1,2213915,Build failure,28.43,celery,1,False
+1,47e1d07b136c316bfb33c880ca910e8c,AttributeError,37.21,flake8,1,False
+1,0618f44dc5270f9a2be2826d0d933ed7,OtherPass,62.96,raven;django,2,True
+1,c7a2333c227e24226808,OtherPass,82.86,matplotlib;scipy,2,True
+1,7443646,ModuleNotFound,88.81,sgepy;numpy;cython,3,False
+1,1361643,Build failure,68.6,partpy;free,2,False
+1,1381489,ModuleNotFound,117.28,python-pyq;sip;maya,3,False
+1,4d834d429763e953a40c,OtherPass,77.66,numpy;opencv-contrib-python,2,True
+1,3918300,OtherPass,51.11,django,1,True
+1,792634,OtherPass,139.88,pycrypto,1,True
+1,6815711,Build failure,68.43,numpy;scipy;biopython;pandas,4,False
+1,9d0bf77bf070262ab3cddfc4b79d031b,OtherPass,50.37,,0,True
+1,143e65a425722dc2f3d0,OtherPass,69.31,mysqlclient;impyla,2,True
+1,56180516c91e8b934168ea29c52ee242,OtherPass,48.84,pillow,1,True
+1,4995164,OtherPass,68.77,south;django,2,True
+1,8149412,OtherPass,41.03,webapp2,1,True
+1,9f49f91bd7d0a527fdb5,ImportError,147.94,lxml;pymongo;elasticsearch;ppm-common,4,False
+1,54e6f7d63df3866a87a15aed17b51eaf,OtherPass,49.35,python-twitter,1,True
+1,f4cc99efc90c487b6fed,Build failure,229.19,numpy;vtke;matplotlib;pyvtk;mayavi,5,False
+1,3760008,OtherPass,59.83,mongoengine;django;nose,3,True
+1,aa3d19a12b74e9ab7941,ModuleNotFound,215.17,numpy;tcrnumba;scipy,3,False
+1,005ceac0483fc5a581cc,ImportError,609.71,numpy;kurt;image;input;tensorflow-gpu,5,False
+1,6f490f3a0e082ae6592a630bd7abe588,Build failure,48.3,distribute;rpi-gpio,2,False
+1,e99c114a5b33cd2da538,ModuleNotFound,134.4,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,9875468,OtherPass,39.54,mininet,1,True
+1,918751,OtherPass,76.64,pillow;scipy,2,True
+1,5703516,ModuleNotFound,103.69,pysi,1,False
+1,1526444,OtherPass,58.65,django,1,True
+1,7bd4e4bd0a00ac9076986148afc06507,NameError,481.23,numpy;gensim;tensorflow-gpu,3,True
+1,d29d079100f8d81b905e,OtherPass,81.67,keras;scikit-learn,2,True
+1,1cae669defce037511ada4e0ed01b3cd,Build failure,117.93,pillow;cython;numpy;pyapprox,4,False
+1,a48feaecfdb9e0609c6a02590fd1f91b,TypeError,147.47,keras;tensorflow-gpu,2,True
+1,373f0857211e860c7591,OtherPass,71.73,scrapy,1,True
+1,5445149,ModuleNotFound,99.42,sanic-rest-framework,1,False
+1,e82c16e0401a77dec92a,ImportError,83.69,pipi;django,2,False
+1,c591cab03c66780b18d5,OtherPass,106.94,ipython;requests;beautifulsoup4;jsonschema,4,True
+1,6027183,OtherPass,40.32,pyvisa,1,True
+1,b45983f227f1e4fbea65b6e06abfdecc,Build failure,422.49,kerasy;tensorflow-gpu,2,False
+1,cd19a20d2e712f61d2ea,OtherPass,45.95,portage,1,True
+1,5209228,ImportError,67.12,rbpy,1,False
+1,5237007,Build failure,65.2,urlgrabber;python-env;zapp,3,False
+1,3735779,ModuleNotFound,92.96,numpy;python-pyq;pyopencl,3,False
+1,9507070,AttributeError,64.51,google-api-python-client;httplib2,2,False
+1,8412843,OtherPass,49.66,pytz;python-dateutil,2,True
+1,5372873,OtherPass,271.59,xnumpy;scikit-learn;scipy,3,True
+1,6af3dd8894ec4255a63f,OtherPass,50.27,pyyaml;prettytable;requests,3,True
+1,1207636,OtherPass,55.77,django,1,True
+1,6b2944d74ec9dd229938,ModuleNotFound,113.15,rbpy,1,False
+1,a9de2ef498a09747bbf673ddf6ea4843,TypeError,207.7,numpy;tqdm;edward;tensorflow-gpu,4,True
+1,749788,Build failure,110.76,libre;kayvee,2,False
+1,896603,Build failure,100.9,yedb,1,False
+1,ac5f50d1409954c38681353fb6c6921b,ModuleNotFound,68.08,sdbus,1,False
+1,ab2e34dc58c8c2d0f2e15f25b528dc19,Build failure,69.94,pyrocopy,1,False
+1,1343455,ModuleNotFound,124.09,websocket-client;twisted;postgrest,3,False
+1,6085344,Build failure,39.76,pyserial;distribute;rpi-gpio,3,False
+1,9dad6c4ab0d8d7dbf3dc,OtherPass,74.88,numpy;opencv-contrib-python,2,True
+1,27737c5f2de213216360,OtherPass,40.97,pillow,1,True
+1,92e65a8919b11d9310b32b194b09741c,OtherPass,147.1,numpy;matplotlib;scikit-learn;pandas;seaborn;pandas-datareader,6,True
+1,c42d76db2ad2e87a5086,ImportError,90.93,sharepy,1,False
+1,1423116,Build failure,45.26,umemcache;python3-memcached,2,False
+1,0932b2b5293839cd7d79fa6b513c8128,OtherPass,74.76,numpy;scipy,2,True
+1,6003874,ImportError,77.24,idc;paapi,2,False
+1,3163938,Build failure,36.05,distribute;rpi-gpio,2,False
+1,5aec669ea8a8c920c0960fa05895687f,ModuleNotFound,103.55,web-foundation,1,False
+1,1229770,Build failure,56.29,werkzeug;jif;flask,3,False
+1,b0a882f844e188c78358,SyntaxError,126.08,wordnik;message;ltchinese;mysqlclient;pyrtf3,5,False
+1,1303651,OtherPass,52.22,django,1,True
+1,5baaf1d206cf5e81436d,OtherPass,280.92,scikit-image;tensorflow-gpu,2,True
+1,329142c1740500bd3797,Build failure,87.07,xj-location;foundation,2,False
+1,1951709,ModuleNotFound,69.16,python-pyq,1,False
+1,2068759,OtherPass,133.17,twisted,1,True
+1,4319265,OtherPass,104.26,,0,True
+1,fc1527d6d9492b59c610,ImportError,103.39,scrapy;twisted,2,False
+1,4431155,Build failure,57.73,wcom;pyjava,2,False
+1,ec9c9074373d2443594a,Build failure,64.7,numpy;soscipy;caffe2,3,False
+1,839f6a3534002a6a29d819666a28bf5e,OtherPass,26.51,,0,True
+1,6069808,OtherPass,37.55,pysocks,1,True
+1,c87cc706625b8a54e604fb1024106556,OtherPass,150.81,torch,1,True
+1,1551619,ImportError,128.18,numpy;hspy;opencv-contrib-python,3,False
+1,5478642,OtherPass,136.34,numpy;scipy,2,True
+1,7091940,Build failure,74.44,luigi;pandas;rnumpy,3,False
+1,c613bd0fad5de00bab2e,SyntaxError,53.05,dnspython3,1,False
+1,5409581,ModuleNotFound,142.79,pyfbp,1,False
+1,42472327b4be382b02eb,OtherPass,45.96,pygit2,1,True
+1,484009,OtherPass,52.54,scrapy,1,True
+1,4365814,ImportError,61.86,py-ava;burp,2,False
+1,36e652488563ab23ea04,OtherPass,26.89,,0,True
+1,4a76e42f058ef7b467d9,ModuleNotFound,67.73,new-python,1,False
+1,1068255,OtherPass,50.95,django,1,True
+1,aad88d51001ea83ecfc6,ImportError,83.59,s-core,1,False
+1,67044,Build failure,110.78,python-opencl,1,False
+1,94a400a7bce6f8cfc9e7eff87270c9e9,Build failure,73.82,web-foundation,1,False
+1,8447221,ModuleNotFound,252.85,kvkit,1,False
+1,3494560,ImportError,108.06,pyopengl;twpy,2,False
+1,10010307,Build failure,42.71,webcore;pyobj,2,False
+1,8336771,ModuleNotFound,110.84,dce-plugin;sublime-cli,2,False
+1,654157,OtherPass,53.84,django;tornado,2,True
+1,df0b30453338946e639449710862822d,OtherPass,161.46,numpy;pillow;matplotlib;scikit-learn;ipython;pandas,6,True
+1,6622819,AttributeError,57.24,ipython;jsonschema,2,False
+1,8169809,AttributeError,86.01,webvirtmgr;scene;requests;beautifulsoup4,4,False
+1,256155,ModuleNotFound,106.06,googleapis-common-protos;django-storages;pyamdecoder,3,False
+1,4abfb80b336a8a56c0a5,OtherPass,85.61,zodb3,1,True
+1,719fc5e3a21dd2779d9fe69bf41e6ba6,OtherPass,45.02,requests;bibtexparser,2,True
+1,2511464,ModuleNotFound,184.48,tornadox;numpy,2,False
+1,1284577,OtherPass,42.06,pyyaml,1,True
+1,11129975,ModuleNotFound,68.41,python-pyq,1,False
+1,4093759,ImportError,58.78,py-fs,1,False
+1,098f399d69f230521ef530baca832e76,Build failure,75.01,web-foundation,1,False
+1,2768310,ModuleNotFound,100.03,djangotoolbox;djangok,2,False
+1,1c9b352ba19b5e33f9c4,ModuleNotFound,143.13,kbmc;numpy,2,False
+1,6c78e65f4b78adfa3766,OtherPass,26.92,,0,True
+1,caeb0a6dc89d9e7ec48d,Build failure,54.38,s4d,1,False
+1,04f3047ca8770f4a3a58,ModuleNotFound,201.36,pythonproject;twisted;scrapy,3,False
+1,790687,Build failure,54.83,numpy;audio,2,False
+1,5329310,OtherPass,68.39,numpy;scipy,2,True
+1,ec88cbdce3cdbac7b8d5,OtherPass,104.03,,0,True
+1,1074227,Build failure,44.41,dnslib;pyevent;redis,3,False
+1,744700,Build failure,77.78,pymongogo;beautifulsoup;flask,3,False
+1,76877c8f262de24becc081ad96759730,OtherPass,126.27,websocket-client;requests,2,True
+1,c4806c504e46e8cdb00a,OtherPass,104.8,phpserialize;pycrypto,2,True
+1,f97205b73610dd30254652e7817f99cb,OtherPass,90.96,ipykernel,1,True
+1,8185b3dcf08ec728fb22b99016dd533f,OtherPass,311.03,numpy;tensorflow-gpu,2,True
+1,8621775,ImportError,102.75,pygoogle;pycrypto,2,False
+1,3778347,OtherPass,72.04,ipdb;pygithub;bitbucket,3,True
+1,3d7e2b077ba5af48ab1ba96678733e6f,Build failure,49.35,pybinaryen,1,False
+1,1714d2952c09b96ba2d8777f1cbf9de1,SyntaxError,57.69,tabulate;dnspython3;requests;beautifulsoup4,4,False
+1,2901479,Build failure,93.04,raven;flask-heroku;flask-sslify;itsdangerous;jinja2;werkzeug;jflask,7,False
+1,562f25bbcf20691217b8,OtherPass,76.0,numpy;scipy,2,True
+1,809993,Build failure,257.66,khmer;django-tastypie;django;ibase,4,False
+1,6808772,ModuleNotFound,97.21,dce-plugin;sublime-cli,2,False
+1,4741790,ModuleNotFound,270.11,ooxcb;image,2,False
+1,1118585,ImportError,81.45,progress-sa;pyqtx,2,False
+1,9679647,OtherPass,149.72,numpy;scipy;matplotlib,3,True
+1,1561144,OtherPass,62.7,scipy,1,True
+1,e6d0864738da10cb9685,OtherPass,71.58,twisted;autobahn,2,True
+1,1871929,OtherPass,49.82,pillow,1,True
+1,7003083,OtherPass,65.02,numpy;scipy,2,True
+1,d883c3fe1402c7ced6fc,ImportError,96.98,numpy;scipy;mne,3,False
+1,2b83b1c47a18448d3cbf,Build failure,52.79,aya,1,False
+1,2420407,OtherPass,579.29,numpy;matplotlib;cython;scikit-learn,4,True
+1,5301ff823bef4b5eae52,ModuleNotFound,173.22,gensound,1,False
+1,7eb39b44eb9e16e59632d25fb3119975,SyntaxError,328.49,keras;tensorflow-gpu,2,False
+1,37d73786afab7da6037f,OtherPass,61.57,djangorestframework,1,True
+1,6095e3cce3877881393a19659430ddf0,OtherPass,31.1,,0,True
+1,5f9f2c05c5e3dc6b31d8,ModuleNotFound,222.43,yikit;foundation;requests,3,False
+1,3de0abd7d18e6edc87dd,Build failure,114.23,products-openxml;zope-component;plone-app-event,3,False
+1,4173945,OtherPass,68.16,google-api-python-client;gdata,2,True
+1,71eda2aab0ee32d19b01,OtherPass,42.29,pygithub,1,True
+1,3298867,ModuleNotFound,130.81,django;rainbarrel,2,False
+1,4964727,OtherPass,65.55,numpy;matplotlib,2,True
+1,5604018,ImportError,85.09,couchbasekit;requests,2,False
+1,3b71a120ae7789956ef8,OtherPass,88.14,python-pptx;pypdf2;xlrd,3,True
+1,3d99498d4236248f9bfbc8ed2fd424fa,OtherPass,147.22,h2o;scikit-learn,2,True
+1,51934724e0896184a2340217b383af73,TypeError,42.99,pyyaml,1,True
+1,790721,OtherPass,80.28,beautifulsoup;scrapy,2,True
+1,6000407,OtherPass,62.43,django,1,True
+1,4776b4b2075bf9b7e512,ModuleNotFound,98.53,web-foundation,1,False
+1,c4329fa17f1b3f287341,AttributeError,68.89,thrift;pyhive,2,False
+1,47610e6462faba8781242cdb6218d83e,OtherPass,81.32,opencv-contrib-python;beautifulsoup4,2,True
+1,809693,Build failure,50.01,django-cms,1,False
+1,228998,OtherPass,124.74,twisted,1,True
+1,c71f241125ed879d4af7,ModuleNotFound,138.78,timage,1,False
+1,220d56ea6fe9a85a4d762128b11adfba,ImportError,145.51,matplotlib;matplotlibqml,2,False
+1,99b7fb8ff89104d30eab,OtherPass,40.35,python-iptables,1,True
+1,69dfe7943b076f0d79db,OtherPass,82.12,ansible,1,True
+1,2e90566e9497725065388859762a7185,TypeError,209.71,numpy;tensorflow-gpu,2,True
+1,7247d72f97e6bfbf97809da5922f0e14,Build failure,77.3,cdis-oauth2client;google-api-python-client;numpy;beautifulsoup4;httplib2,5,False
+1,dde829f94a8f83bfa922090102449fde,ImportError,76.25,mpy;crypto,2,False
+1,33150bde6bd296310e41ea5d018fce51,SyntaxError,70.28,requests;beautifulsoup4;twisted;requests-threads,4,False
+1,8477219,NameError,51.43,django,1,True
+1,883b3b4a51b0db7d0e0d,SyntaxError,53.83,apscheduler;python-daemon,2,False
+1,c8e62ef8cb9515d64df4,Build failure,181.36,matplotlib;librosa;numpy;progressbar;sklearn2,5,False
+1,794424,OtherPass,64.51,django-tastypie;django,2,True
+1,ac5987161bc27048e1da48e40299468b,OtherPass,75.4,colormath;numpy;opencv-contrib-python,3,True
+1,1c48360bde201b3d54ab,ModuleNotFound,427.51,s4d,1,False
+1,034e799c19eb763fa859,OtherPass,77.7,django,1,True
+1,347596,OtherPass,57.08,django,1,True
+1,98b7edca1b29c949fcf1,ModuleNotFound,129.75,v2;numpy,2,False
+1,1288160dad16cc473a53,OtherPass,28.44,,0,True
+1,41d15424e7989b936c1609b53edd1390,ImportError,353.51,scippy;tensorflow-gpu;xnumpy;six,4,False
+1,3083085,ImportError,67.19,simplejson;ngtk,2,False
+1,1e2600ed62d5e76b21ee,OtherPass,175.48,ggplot;scikit-learn;pandas,3,True
+1,acbd669af86ecb8f988325084ba7a749,OtherPass,128.8,torch,1,True
+1,8736338,ImportError,38.45,,0,False
+1,931b0194242fca0e234e,Build failure,42.73,distribute;rpi-gpio,2,False
+1,1638695,OtherPass,59.89,django-storages;mdx-staticfiles,2,True
+1,1522bcdb5b05365c0222,Build failure,46.15,aya,1,False
+1,2894514,Build failure,168.83,yahi;dbus-python,2,False
+1,bfc2099235ac96937f34,ImportError,64.83,pythonapp,1,False
+1,764262,OtherPass,127.59,moods-python,1,True
+1,7275456,Build failure,84.79,linkchecker;pyyaml;layer-cake;numpy,4,False
+1,1495011,OtherPass,98.64,pyamf;rdio,2,True
+1,de3ab9cb8bb4b7719571,ModuleNotFound,370.44,foundation;pfc-util,2,False
+1,4020619,Build failure,193.42,web-foundation;appkit;pyobjc,3,False
+1,e53a70f9e5c3f55852b0,TypeError,232.55,numpy;scikit-learn;tensorflow-gpu,3,True
+1,859473,OtherPass,57.35,django,1,True
+1,305322,ImportError,100.64,pygoogle;django,2,False
+1,26a33ce1e82092b4d2dbdf18c3610fde,OtherPass,50.02,smbus,1,True
+1,14a8d6bf4783f4704c8a,Build failure,155.45,buildbot;twisted;tractus;zope-interface,4,False
+1,780379,Build failure,102.79,okpy;igoogle,2,False
+1,77a4640bb5fcd1e7f038,ImportError,271.49,sqlalchemy;psycopg2;sclogger;pandas,4,False
+1,5898352,OtherPass,59.4,scipy,1,True
+1,5059989,NameError,71.4,scene;sound,2,True
+1,c063bddb9b8d17a037695d748db4f592,TypeError,212.34,botchallenge;tensorflow-gpu,2,True
+1,5807746,ModuleNotFound,90.96,yc,1,False
+1,2471505,Build failure,80.58,win32core;webclipboard,2,False
+1,5710254,OtherPass,50.87,django,1,True
+1,79b418a25b374804701069f31b39606c,OtherPass,138.88,numpy;scikit-learn;pandas;pandas-datareader,4,True
+1,3001099,OtherPass,56.03,numpy;distance,2,True
+1,6333547,OtherPass,52.22,lxml,1,True
+1,7ad3a91b1b49fe2682d7,ModuleNotFound,109.98,vrcpy,1,False
+1,2b3003f44b3ddf5931c9a5e61d8ba417,Build failure,69.03,unicorn;pwntools;keystone,3,False
+1,4deac45790fa339b537a,OtherPass,77.43,buku;geonode-notification,2,True
+1,fbca5503c391c265f958f49b60af6bae,OtherPass,107.78,pypng,1,True
+1,3227267,OtherPass,135.4,web-py,1,True
+1,cb0833a03a7d30c6d6e0,ModuleNotFound,242.31,lasagne;pythea,2,False
+1,8818209,Build failure,114.48,sublime;sublime-cli,2,False
+1,ac9be1abd2bebe9ad8da5c645a1d0b5e,OtherPass,168.5,numpy;scipy;scikit-learn,3,True
+1,2522574,ImportError,96.15,wxmpy;attrdict,2,False
+1,9218791,OtherPass,66.88,colormath;pillow,2,True
+1,0b677b13fca6cd0905ca,ImportError,115.34,numpy;matplotlib;scipy;scikit-learn,4,False
+1,367ff95d4d3d3770fa7b,OtherPass,53.32,django,1,True
+1,6604662,Build failure,74.3,wtforms-json;sqlalchemy;wtforms;itsdangerous;rflask;jinja2;werkzeug,7,False
+1,8eabf18a6a79f5dbe3f4,ModuleNotFound,117.16,dce-plugin;sublime-cli,2,False
+1,9502024,OtherPass,52.35,pillow;selenium,2,True
+1,7019296a9a9ad74e44f0,ModuleNotFound,70.18,robit,1,False
+1,1436671,Build failure,143.34,numpy;scikits-ann,2,False
+1,5712436,OtherPass,120.05,tornado,1,True
+1,1202516,Build failure,72.39,web-foundation,1,False
+1,fa0647722365f5a4b2ad,ImportError,79.55,verminator,1,False
+1,4017989,OtherPass,84.18,matplotlib;scipy,2,True
+1,5292f95000e409e239b9dc973295327a,OtherPass,795.15,numpy;tensorflow;pytest;keras,4,True
+1,4176623,OtherPass,51.77,django,1,True
+1,ede5b6b793f02bd966a6a7502c0a7fbf,OtherPass,50.36,mastodon-py,1,True
+1,5a534f9deb80775f0f497a4133a79d7b,OtherPass,96.09,numpy;scikit-learn,2,True
+1,3839812,ModuleNotFound,233.81,pymesh;ubpy,2,False
+1,626356,Build failure,59.49,soscipy;numpy,2,False
+1,4076735,ModuleNotFound,85.42,python-editor;webvirtmgr;pyjpgclipboard,3,False
+1,735379e9c853171713ca,OtherPass,40.96,beautifulsoup4,1,True
+1,4174069,ImportError,100.09,flask-wtf;pymodel;pylint-werkzeug;wtforms;flask,5,False
+1,1650115,Build failure,80.06,pygtk;gobject;pygtp,3,False
+1,2019037,OtherPass,127.73,trytond-ups,1,True
+1,cf2b4e56fe28835c3ceb,OtherPass,48.02,futures;requests,2,True
+1,3205bf5aab78623c5ee5,OtherPass,53.13,python-pptx,1,True
+1,2692960,OtherPass,28.87,,0,True
+1,8e4bea946ab9c05347fe,OtherPass,72.67,numpy;opencv-contrib-python,2,True
+1,eeea2093888e8d4004ec06b5a1dede1e,ModuleNotFound,350.07,pyid;naapi;dautils,3,False
+1,7820246,Build failure,48.4,vbio,1,False
+1,b5e7a80691ed5e44e7fea1964bae18dc,ModuleNotFound,357.99,pyid;naapi;dautils,3,False
+1,2397ca6bea914adedb30b8bad4d14686,NameError,43.65,microbit-3,1,True
+1,6957826,ModuleNotFound,138.92,doppkit;foundation,2,False
+1,2477361,ImportError,48.15,yqt,1,False
+1,ad575cee6bb503d4d193da355d70d3e9,ModuleNotFound,136.05,vobj;foundation;web-py,3,False
+1,1036883,ImportError,57.97,pyriad,1,False
+1,5781308,ImportError,44.07,pydal,1,False
+1,850437,OtherPass,97.32,numpy;matplotlib;scipy,3,True
+1,8067e173121625e79498,ImportError,92.21,eulxml;beautifulsoup;requests,3,False
+1,5b769cd2a86bb1270188ffa423941d5f,ModuleNotFound,139.79,wix-airflow,1,False
+1,18531dba2bec928424c0,OtherPass,102.07,pyspark,1,True
+1,eebc4d569100c8e3039bf3eae56bee4c,Build failure,99.24,web-foundation;pyobjc,2,False
+1,05aadb969e43788593d3,ImportError,75.65,cliutils;naapi,2,False
+1,e3a91e46df24e0c24eb656c89373c20d,ModuleNotFound,118.01,lxml;yalpt;requests,3,False
+1,9f6118ff84867e89f3348707c7a1271f,NameError,187.69,torch;torchvision,2,True
+1,777789,Build failure,64.87,path-py;wish,2,False
+1,1d878d0401b28b281eb75016ed29f2ee,TypeError,240.78,keras;numpy;tensorflow-gpu,3,True
+1,5241369,ModuleNotFound,98.69,pyqt5;pyside2,2,False
+1,3018527,ImportError,141.39,aiowerkzeug;itsdangerous;jinja2;celery;jflask,5,False
+1,51686,Build failure,82.32,kgtk;pygobject,2,False
+1,2433411,OtherPass,58.74,django;factory-boy,2,True
+1,3a2a081e4f3089920fd8aecefecbe280,TypeError,182.19,numpy;keras;tensorflow-gpu,3,True
+1,910392,Build failure,65.56,django;redispy,2,False
+1,61a82e7c920468325ea8,TypeError,420.37,numpy;scikit-learn,2,True
+1,4345582,ModuleNotFound,87.15,sublime-cli,1,False
+1,af5bc4fae39b16f8d505,ModuleNotFound,121.63,rbpy;mypy-extras,2,False
+1,3721106,ModuleNotFound,71.97,processy;pywinauto,2,False
+1,7a9e046470dcf05420d4cdc2b2defd79,OtherPass,68.15,python-amazon-simple-product-api,1,True
+1,4078034,ImportError,64.69,quartet,1,False
+1,9301467,OtherPass,28.93,,0,True
+1,574fc95caee4c22f21ed,ImportError,49.47,flasky,1,False
+1,6557760,OtherPass,63.34,django-tastypie;django-guardian,2,True
+1,5900563,Build failure,52.65,robotspy,1,False
+1,d692487c9ed35938da376f3b58d91206,NameError,229.3,keras;tqdm;numpy;opencv-python;h5py;pandas;tensorflow-gpu,7,True
+1,4c4323f90f74f079b50d9a689fa8a448,OtherPass,30.01,,0,True
+1,3706203,ModuleNotFound,150.13,observer;pyobserve,2,False
+1,422bb33419df91b253d8728fe794f8b4,ImportError,472.68,input;tensorflow-gpu,2,False
+1,2725286,OtherPass,52.5,django,1,True
+1,bd57b54a5c6903e4a6a2,OtherPass,85.03,numpy;dask;cytoolz;rasterio,4,True
+1,5690111,OtherPass,31.87,,0,True
+1,3832818,Build failure,93.47,django-cms;django,2,False
+1,4948282,ModuleNotFound,101.81,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,736778,OtherPass,40.94,,0,True
+1,4108a54877406dc231d95514e538bde9,OtherPass,66.63,paho-mqtt;bluepy,2,True
+1,2632394,ImportError,96.47,beautifulsoup;django-review;productmd,3,False
+1,9e1f7cf4945a608ae48a,ImportError,59.83,jupydbg;import-relative,2,False
+1,5420652,ImportError,87.32,pytz;pythoncrypto,2,False
+1,9300560,ModuleNotFound,79.34,js-foundation,1,False
+1,1411980,OtherPass,53.68,image,1,True
+1,2973355,Build failure,546.9,products-openxml;pypdf;ho;datetime;plone-api,5,False
+1,1091026,ModuleNotFound,77.75,sublime-cli,1,False
+1,5544803,OtherPass,71.09,numpy;scikit-learn,2,True
+1,5782780,Build failure,65.13,orangery,1,False
+1,c0fdb29ddf0d338bcbd021b68f5bea51,ModuleNotFound,156.06,rbpy,1,False
+1,350281,OtherPass,76.75,django,1,True
+1,4732233,OtherPass,52.85,django,1,True
+1,c648d753e7d0176ff172,OtherPass,41.05,,0,True
+1,9952389,Build failure,57.4,web-py;ae-python,2,False
+1,930276,Build failure,93.23,numpy;mpi4py-fft,2,False
+1,4988673,Build failure,61.32,rpi-gpio;adafruit-tmp,2,False
+1,809420,OtherPass,58.83,django,1,True
+1,6776391,OtherPass,79.58,pymel;maya,2,True
+1,09648344984565f9477a,Build failure,132.02,numpy;cython;vsmmath;scipy;scikit-learn;numba,6,False
+1,b2af7d980eb217a0af07,Build failure,209.7,numpy;lmdb;pyvtk;caffe2,4,False
+1,3822f77eb07e8e8efb2e,Build failure,99.16,pygtk;pygtp;pywebkit,3,False
+1,cfc9f059459cfefd1f61134b48291436,OtherPass,63.41,pillow;pyssim,2,True
+1,cfaad5763fb7471aed85,ImportError,65.14,pycrypto,1,False
+1,4707775,OtherPass,28.21,,0,True
+1,b3f8ab944a85b33e694de21c6ded029e,TypeError,209.11,numpy;tensorflow-gpu,2,True
+1,6055795,Build failure,43.46,pymycity,1,False
+1,2888158,ModuleNotFound,76.65,graphiti;requests,2,False
+1,d44fde5d323473ce8be7,OtherPass,67.34,django,1,True
+1,7088662,Build failure,56.27,mysqlclient;mysql,2,False
+1,1362a8908be01e23041d,ModuleNotFound,91.95,foundation;objs;web-py,3,False
+1,5998853,OtherPass,44.02,pillow,1,True
+1,539a9ec008b1e5b3b7fd,Build failure,492.19,scipy;dautils;aaapi,3,False
+1,f27efd1ddcbf57be0d14031a5e692015,Build failure,87.87,doppkit;pyobjc,2,False
+1,a68d6f32f4985ed547ce,OtherPass,99.43,pyspark,1,True
+1,1307521,ModuleNotFound,79.28,webassets;python-app,2,False
+1,5614326,ModuleNotFound,108.0,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,037e4134d8271c0de71b838a461e7ac1,OtherPass,61.0,pillow;requests,2,True
+1,f2bb0cc876828b54f2ed,Build failure,67.72,pyqtx;sipm;pandas,3,False
+1,5356796,Build failure,52.9,smarkov;markov,2,False
+1,0b942dd86f01efe996b8977b158c37a6,OtherPass,61.34,requests,1,True
+1,1589531,Build failure,66.6,numpy;matplotlib;audio,3,False
+1,bcc376fb336b73f24b29,AttributeError,469.57,sklearn;numpy;tensorflow-gpu,3,False
+1,5663cc76aa329b2ddfb5,Build failure,34.84,python-git,1,False
+1,890640,OtherPass,53.49,pygi,1,True
+1,1451300,NameError,614.15,matplotlib;numpy;cython;scikit-learn,4,True
+1,111c8ee32505a11ad7a6c629f277c2a4,ModuleNotFound,113.71,rbpy,1,False
+1,2584789,ModuleNotFound,64.07,requestsh;oauthlib,2,False
+1,a0d42148fa11cbdaa00168e321f598f5,OtherPass,71.97,pyyaml;requests,2,True
+1,614fea74e9c67df0aae0,ModuleNotFound,202.78,pyspare,1,False
+1,2638485,OtherPass,66.45,numpy;scipy,2,True
+1,2787060,ImportError,30.85,,0,False
+1,10295174,Build failure,77.24,theano;numpy;pylearning,3,False
+1,2888380,AttributeError,54.14,bottle;wsgiproxy,2,False
+1,3013470,OtherPass,28.94,,0,True
+1,7434f7431d1cc0350dbe,ModuleNotFound,103.8,matplotlib;numpy;pysge;cython,4,False
+1,593c950ba1a3b9dd08d5,OtherPass,326.45,numpy;tensorflow-gpu,2,True
+1,1134410,Build failure,185.28,rbpy;mathutils,2,False
+1,4034426,Build failure,168.26,imagefy;clipboard;ximage;imagedb,4,False
+1,1e7c18c6f6eda87f1cb4995b0e6a22a5,OtherPass,144.45,torch,1,True
+1,946582,ImportError,77.92,pyspeak,1,False
+1,867589,Build failure,82.26,tornado;yourdfpy,2,False
+1,7226559,Build failure,54.69,pysi;beautifulsoup4,2,False
+1,5cf3163e0d77275870bf,ModuleNotFound,154.98,pythonproject;scrapy,2,False
+1,ab136dbfb97f8ee1d309,ModuleNotFound,102.22,xdjango,1,False
+1,87e9a3e0539ce268222d1d597864c098,OtherPass,654.75,numpy;keras;tensorflow-gpu,3,True
+1,69da10ec6f22c6d7b92deefdb4a4f475,Build failure,71.59,aya;qt-py;shiboken2,3,False
+1,4463756,OtherPass,51.46,django,1,True
+1,3231186,OtherPass,68.58,numpy;scipy,2,True
+1,25d48938c07b73541361,Build failure,50.01,pypaper;gspread;requests;beautifulsoup4;feedparser,5,False
+1,1da13f548200d9fb2b06,ImportError,196.58,rawpy;imagedt;image;imagefy,4,False
+1,2691939,OtherPass,66.63,pysnmp;python-snmpclient,2,True
+1,3af51fd2d11ddcad7f16,Build failure,77.99,libpy;numpy;psutil,3,False
+1,83ff717d87c2559cc6e3,Build failure,75.57,dpkt;pyfpcap,2,False
+1,8219574,ImportError,107.44,timage,1,False
+1,5a1aaa2effe3825368db4c1925924bba,ModuleNotFound,104.43,web-foundation,1,False
+1,12da69b95d010c8a810fd384cca8d02a,OtherPass,103.06,,0,True
+1,6714b632c92d8967fd3c,OtherPass,93.85,six;numpy;tensorflow-gpu,3,True
+1,06336eb10a1628850d6f,OtherPass,126.48,twisted,1,True
+1,7977492,ModuleNotFound,125.35,webvirtmgr;python-editor;keychain;private-attrs;requests,5,False
+1,f8b86d001a367aa7dde1ab6b587246b5,SyntaxError,257.04,keras;tensorflow-gpu,2,False
+1,8249328,Build failure,98.28,scrapy;decimal-monkeypatch,2,False
+1,7304099,OtherPass,59.96,numpy;scipy,2,True
+1,52ec27e3010a3fd852e1d0d6e2ab5180,ImportError,169.12,scippy;xnumpy,2,False
+1,b82d70b0d581dc4609e4,ImportError,200.45,pynsim;scipy;flask,3,False
+1,3425960,Build failure,57.72,doppkit,1,False
+1,4524299,ModuleNotFound,71.11,dtfilter;dpkt,2,False
+1,43e20eda5eb5834b61bc06a4c1855b29,TypeError,195.35,keras;tqdm;numpy;tensorflow-gpu,4,True
+1,1e7c794842755683162b,OtherPass,137.62,pygame;numpy;opencv-contrib-python,3,True
+1,ad16c57cf48eb95a4b63,OtherPass,97.97,scikit-learn;pandas,2,True
+1,4134185,ModuleNotFound,335.72,boto;yauth,2,False
+1,a5b640e4368204426310,OtherPass,98.89,python-wordpress-xmlrpc;python-dateutil,2,True
+1,a1178bf10729a27184b1,Build failure,73.65,murmur;collectd;icepy,3,False
+1,5476453,OtherPass,61.6,django-tastypie;django-guardian,2,True
+1,1950267,ModuleNotFound,81.03,pyyaml;paho-mqtt;psutil;tantamount;jsonschema;pleisthenes,6,False
+1,835062,Build failure,180.09,imagefy;feedparser;timage;pyimagedl,4,False
+1,cd045c3663f0fe2cd0e92d88a8ae2274,ModuleNotFound,114.1,rbpy,1,False
+1,1029870,Build failure,88.37,addressbook;py2web;pyobj,3,False
+1,f8ab99789fd347a13591bc7eeff97149,NameError,36.73,paho-mqtt,1,True
+1,73c9565719d124af64ff,OtherPass,42.84,python-chess,1,True
+1,82d3bb091d45b59c1d7674727b1292a7,OtherPass,45.29,python-gflags,1,True
+1,5478382,Build failure,35.94,clipboard;dropbox,2,False
+1,5097274,OtherPass,76.46,jinja2;pelican,2,True
+1,4760272,OtherPass,78.4,boto;tornado;ipython,3,True
+1,cc63e6aa9a88ea6e901f,Build failure,62.14,aya;pyside,2,False
+1,1094832,OtherPass,48.63,django,1,True
+1,8659759,OtherPass,54.4,django,1,True
+1,5859643,OtherPass,77.32,numpy;scipy,2,True
+1,5888967,OtherPass,70.68,numpy;scipy,2,True
+1,94d747fe5180851196eb,TypeError,43.18,pyyaml,1,True
+1,a06477775f18c11b4517,OtherPass,82.06,six;nose,2,True
+1,1269949,OtherPass,57.65,django,1,True
+1,00a17b1d374dfc267a9a,Build failure,266.98,theano;pymcx;pandas;numpy;scipy,5,False
+1,781411170d36adb3197cba86b8653136,ModuleNotFound,76.3,isbinary,1,False
+1,5048588,AttributeError,40.06,python-editor,1,False
+1,950bbb9d9d4014d893e5,ModuleNotFound,149.96,audio-py;numpy;matplotlib,3,False
+1,8851078,OtherPass,70.46,mock;kivy,2,True
+1,4243336,Build failure,79.58,numpy;pygame-cffi;pyopengl,3,False
+1,1104507,OtherPass,67.62,biopython,1,True
+1,8a16c8e30c954aec014d,Build failure,81.28,idc;gaapi,2,False
+1,0191e14717af68bbba81,OtherPass,125.14,pyspark,1,True
+1,0115e0ce312f26ff59f4fbf4f5821ca2,Build failure,40.8,distribute;rpi-gpio,2,False
+1,9c411d2b88eab4232cc66a9c7f6988fc,AttributeError,111.32,numpy;ibapi;pandas,3,False
+1,5330231,ModuleNotFound,108.49,pysi,1,False
+1,7183354,ImportError,62.78,pefile2;jupydbg;import-relative,3,False
+1,77d02d8f2f09e27de08b,ModuleNotFound,304.93,xtrack,1,False
+1,5b17c9f37f351780744aefc74f93d3ae,SyntaxError,78.46,keras;numpy;scikit-learn,3,False
+1,5eda4214788429e9d09c060cca10971f,Build failure,54.63,paho-mqtt;distribute;rpi-gpio,3,False
+1,8951985,Build failure,83.33,flasky;pylibmc;aiowerkzeug;itsdangerous;jinja2,5,False
+1,8232376,OtherPass,28.03,,0,True
+1,4217925,Build failure,104.18,ghost-py;pyside;dtpyside,3,False
+1,6b2273d7e332f29193d0,ImportError,62.16,dwebsocket,1,False
+1,3d2454905d8f01886d651f207e2419f0,ImportError,307.02,python-dash;dash-html-components;dash-core-components;pandas-datareader,4,False
+1,8263132,ModuleNotFound,65.47,pyevtk,1,False
+1,2aa18ba3b821b2f580a2,Build failure,85.73,interactive-python;txrospy;tf-wrapper;python-geometry;visualization,5,False
+1,e4907ccc9f6c1bb49b17,OtherPass,105.76,,0,True
+1,04c2b5ce5978c0d66e6e,SyntaxError,94.0,python-editor;webvirtmgr;clipboard,3,False
+1,dfca335e370a2bc3bc79876e6270099e,ImportError,168.06,numpy;torch,2,False
+1,821473a1596f1429024cb1eadb471927,Build failure,55.97,cython;pygeo,2,False
+1,2729506,Build failure,100.06,requests-oauth;requests;ximage,3,False
+1,3040846,Build failure,109.66,foundation;quartz;doppkit;ctools,4,False
+1,8832970,NameError,66.9,pillow;scene,2,True
+1,65538,OtherPass,225.64,twisted;lxml;pyopenssl,3,True
+1,1239373,OtherPass,40.29,pyyaml;beautifulsoup,2,True
+1,451a6685fddcf8ccdfc5,Build failure,308.31,zipnish;nc-utils;location,3,False
+1,1f66e4d58074d64c8268,OtherPass,53.93,img2pdf;beautifulsoup4,2,True
+1,1390853,OtherPass,47.99,django,1,True
+1,9e990f56dabe27b42bfb,OtherPass,78.55,pillow;numpy;picamerab,3,True
+1,8803860,Build failure,746.27,numpy;scipy;matplotlibqml,3,False
+1,8916745,ImportError,123.46,timage;flask,2,False
+1,1186126,ImportError,112.0,blimey;sublime-plugin-tests,2,False
+1,977777,OtherPass,54.76,twisted,1,True
+1,4882342eba2b57376ed1,ModuleNotFound,183.95,lasagne;nolearn;theano;utils-s;rnumpy,5,False
+1,4282679,OtherPass,108.45,matplotlib;numpy,2,True
+1,3806329,ImportError,108.56,timage,1,False
+1,8b100c205b8c35b3c8ce,SyntaxError,60.5,pychromecast,1,False
+1,9497761,ModuleNotFound,100.3,pyvolution;werkzeug,2,False
+1,3485205,OtherPass,53.87,django,1,True
+1,45cb32dd5c1485e273ab81468e531f09,ModuleNotFound,191.54,v2;numpy;matplotlib,3,False
+1,999228,NameError,71.81,pycrypto,1,True
+1,8691435,ModuleNotFound,286.06,numpy;nltk;gensim;cldr,4,False
+1,9fd4304148b398983b3c,Build failure,130.12,pygtp;pygtk,2,False
+1,bf576ee091e75071bc66,OtherPass,41.43,pillow,1,True
+1,10cd35b2872628246140,ModuleNotFound,120.16,pillow;xgi,2,False
+1,1309895,Build failure,129.92,indicator;gobject;kgtk,3,False
+1,67bdd4bd8c26e2178579,ModuleNotFound,100.07,kbmc;numpy,2,False
+1,83a39d9328788372677a,ImportError,132.22,vtk;numpy;scipy;pysimpleig,4,False
+1,7703144,OtherPass,56.52,django,1,True
+1,0acf77b2c022e2467cfb0d5493d454d6,OtherPass,62.93,django,1,True
+1,1715202,OtherPass,48.76,django,1,True
+1,ff122e8563793bb28f79,Build failure,58.36,winregal;pypiwin32,2,False
+1,7a56a1253355c0f4442d,OtherPass,57.12,imdbpy,1,True
+1,539928493c4e74b3ec112f4cf4a6df91,AttributeError,157.58,twisted;zope-interface;pyopenssl;ltk;paver,5,False
+1,b55de7edbcbc1ad46a28a0975c01a5cf,OtherPass,53.32,openpyxl,1,True
+1,4604508,Build failure,137.63,ximage;imagedb,2,False
+1,b8a7b7be344e447e7ee6625fe2fdd765,TypeError,312.13,keras;numpy;tensorflow-gpu,3,True
+1,3691418,OtherPass,30.8,,0,True
+1,4423605,OtherPass,67.58,pycrypto,1,True
+1,4950253,Build failure,64.69,clang-helpers;pyfarm-core,2,False
+1,da673e7cd79d0b6899b9bd6a68c860d0,ModuleNotFound,102.92,dce-plugin;sublime-cli,2,False
+1,559e56401dee3eccfa23,OtherPass,43.49,pillow,1,True
+1,f390aabf53cf1406fc71166a47236ebf,OtherPass,30.46,,0,True
+1,5534008,OtherPass,59.1,south;django,2,True
+1,709890,OtherPass,58.07,django-tastypie;django,2,True
+1,8a0f820261926e2f41cc,Build failure,133.06,theano;numpy;sklearnsk,3,False
+1,4598017,Build failure,60.65,citelementtree;blimp;basecash,3,False
+1,fe855653e9757e1ce8c4,Build failure,228.23,lasagne;nolearn;theano;pnumpy;scikit-learn;tcutils,6,False
+1,4089133,ImportError,72.13,proxy,1,False
+1,561d5eec7fed9ebf48751d124a77b087,AttributeError,318.84,tensorflow-gpu,1,False
+1,9b1e305543f6fcc9318a,Build failure,476.6,matplotlib;theano;numpy;scipy,4,False
+1,b8240ea53d22e1bb4d32,OtherPass,99.83,numpy;jieba;scikit-learn,3,True
+1,5690971,OtherPass,51.68,django,1,True
+1,1025525,OtherPass,46.82,django,1,True
+1,60e006b7642707c2e898,Build failure,59.4,mpf,1,False
+1,db709c8c1279348e0638,OtherPass,30.51,,0,True
+1,2692786,ImportError,108.03,timage,1,False
+1,3113810,Build failure,82.88,pyscripting;web-foundation,2,False
+1,86b60a7723b97da19f7bfa3cb7d2690e,ModuleNotFound,133.92,v2;numpy,2,False
+1,3947385,OtherPass,48.1,django,1,True
+1,45ce9f33615a3b24c51f,Build failure,92.58,whitenoise;qtdjango,2,False
+1,2899595,OtherPass,65.09,boto;ajaxuploader;eventlet;django,4,True
+1,6327611,ImportError,112.12,timage,1,False
+1,4128591,OtherPass,27.17,,0,True
+1,bfb45408d43986eefdf83b59bc9e8629,OtherPass,64.45,pillow;boto3,2,True
+1,5dcd725d464858e9082f,OtherPass,189.56,numpy;pyspark;scikit-learn;pandas,4,True
+1,a7733a15cbf6c0cd9fba,ModuleNotFound,109.85,doppkit,1,False
+1,6622928,ModuleNotFound,391.32,s4d,1,False
+1,11280233,OtherPass,42.79,mininet,1,True
+1,1124bb02a9fd4abce3d86caf2f950cb2,TypeError,168.62,tensorflow-gpu,1,True
+1,aa64ddf6109414291030,OtherPass,61.36,biopython,1,True
+1,4992092,ModuleNotFound,91.06,python-git,1,False
+1,ac9170132e5abfc5381353428e70f1d9,Build failure,71.88,bluepyefe,1,False
+1,3334a3cc57b31ae3a5c4,ModuleNotFound,122.56,molo-core;testrepository,2,False
+1,827988,OtherPass,54.51,django,1,True
+1,1350641,OtherPass,49.1,django,1,True
+1,3116927,OtherPass,69.64,numpy;scipy,2,True
+1,91334d590b6592c0c960,OtherPass,84.59,django-haystack;six;django,3,True
+1,4289538,ImportError,129.77,blimey;sublime-plugin-tests,2,False
+1,1820829,OtherPass,127.36,web-py;jinja2,2,True
+1,6bb9ddb5d904b7275c62,OtherPass,43.51,python-magic;requests;python-dateutil,3,True
+1,1688557,OtherPass,51.8,django,1,True
+1,247d1f1e86fa3749429791cf457052e2,TypeError,40.0,pyyaml,1,True
+1,3685134,OtherPass,52.58,django,1,True
+1,db030013e981c46acb2886060dde607e,ModuleNotFound,368.58,shapeletpy;numpy;affine;pyproj;rasterio;xarray;fiona;datashader,8,False
+1,df47cd6aea9eeac153ff,OtherPass,79.87,pyyaml;boto3,2,True
+1,6507cb95562f1db6df84,Build failure,67.15,python-qt5;numpy;pyopengl,3,False
+1,876324,OtherPass,47.61,django,1,True
+1,8372494,ModuleNotFound,89.9,python-git,1,False
+1,641dc6b15155e600135d,ImportError,93.46,impacket;pyyaml;capy,3,False
+1,00a4835bf36513ca58a3,ModuleNotFound,412.14,s4d,1,False
+1,7026954,ModuleNotFound,62.12,burp;pyjava;py-ava,3,False
+1,1873692,ImportError,79.94,py3s3;requests,2,False
+1,755524,NoMatchingDistribution,47.22,pip,1,False
+1,1919511,Build failure,45.25,pynosql;biopython,2,False
+1,1653394,Build failure,72.99,funddata;tgwebservices;pyramid,3,False
+1,2705927,OtherPass,39.62,pillow,1,True
+1,5773979,OtherPass,27.58,,0,True
+1,540f615dd9d54de47dc52b0ca60522c1,Build failure,543.65,pyid;dautils;aaapi,3,False
+1,4711568,AttributeError,46.27,pygithub,1,False
+1,f3ce814ee66c965638fe,ImportError,97.58,idc;paapi,2,False
+1,0bc7d313e7a84b708374,OtherPass,64.64,hug,1,True
+1,86b74ae47719a27bbb25,ImportError,77.43,werkzeug;py-app,2,False
+1,d44132ae3bdcc0ca96a9f9f84d6d3463,Build failure,48.72,s4d,1,False
+1,1289286,ImportError,71.65,torrent,1,False
+1,98bb452dc14e8c40e403,ImportError,63.99,scrypt,1,False
+1,5752919,OtherPass,58.35,pystache;django,2,True
+1,660a9d578b5f0225e5f0,Build failure,239.53,numpy;pillow;botchallenge;soscipy;docutils;caffe2,6,False
+1,4034526,AttributeError,77.77,webvirtmgr;keychain;dropbox,3,False
+1,015e2ce27cecdea63564,OtherPass,106.08,pymongo,1,True
+1,f7fdb8284643b1c175a9,ModuleNotFound,65.55,requests;python-git,2,False
+1,672229,Build failure,78.61,sinopy;httplib2,2,False
+1,824628,ImportError,68.83,django;simplejson;botspot,3,False
+1,932345,OtherPass,42.11,pillow,1,True
+1,27dd0d768ccede849051,Build failure,48.82,pypiwin32,1,False
+1,1911238,ModuleNotFound,212.38,yedb,1,False
+1,8c9644f9666d60cad37b,ImportError,59.09,pyrqlite,1,False
+1,10491632,OtherPass,54.19,numpy;pillow,2,True
+1,7f79c85c8883268660bd,Build failure,92.08,aya;pymel,2,False
+1,837538,Build failure,69.93,haystac,1,False
+1,9f1793c4d1f466d3b58966da36b54fad,TypeError,90.01,gym;numpy,2,True
+1,5722696,OtherPass,46.85,requests;python-dateutil,2,True
+1,e11b546d6ba9ebc2b604,ModuleNotFound,146.52,vobj;foundation;web-py,3,False
+1,80b4b93baa5b33ed25e1823d3494f0a8,OtherPass,48.27,dnspython3;requests,2,True
+1,630df68eb42d881755a3e30343252f74,SyntaxError,62.36,keras;numpy,2,False
+1,1083908,Build failure,96.58,foundation;appkit;webcore;pyobj,4,False
+1,82f7b21509a69a0d70e18f2e4ddf5ed9,ImportError,30.51,,0,False
+1,92a2d05dd772778f86f2,ModuleNotFound,61.81,pyfarm-core,1,False
+1,380c24afec20963617c82c43590b78f2,ImportError,133.06,numpy;torch,2,False
+1,20a147e657ee5e8d8666,OtherPass,120.38,numpy;scipy;matplotlib;scikit-learn;pandas;seaborn,6,True
+1,cb2b90523c592abe7ae4,Build failure,125.96,sqlalchemy;db-util,2,False
+1,4587049,OtherPass,328.76,pandas,1,True
+1,592040,OtherPass,55.69,django,1,True
+1,732873,OtherPass,41.47,gitpython,1,True
+1,7365980,ModuleNotFound,140.24,timage,1,False
+1,1402045,OtherPass,48.74,django,1,True
+1,9763549,Build failure,48.14,aya,1,False
+1,ffb1b5f12d7ad787f6e4,Build failure,85.7,flasky;wtforms;flask-mail;aiowerkzeug;itsdangerous;jinja2,6,False
+1,0d9f91f789f0c523b0e7,Build failure,62.18,autils,1,False
+1,7230348,OtherPass,77.14,pycrypto,1,True
+1,299905,OtherPass,87.74,django,1,True
+1,8406352,ImportError,70.38,pydbus;vobject,2,False
+1,8cb3aa12e73a6df8d6b6,OtherPass,129.7,zope-component;plone-api,2,True
+1,2866253,OtherPass,65.68,django,1,True
+1,bb640cebefcc550f357c,ModuleNotFound,278.67,numpy;tensorflow-gpu;cv-py,3,False
+1,e3556f0089e89970bf9b,SyntaxError,109.78,numpy;chainer;convert;brica1,4,False
+1,2f0a1118edb70de95f6859cfa979fad5,OtherPass,95.36,pillow,1,True
+1,4427984,OtherPass,28.98,,0,True
+1,1943426,OtherPass,58.08,django,1,True
+1,5809279,NameError,44.68,scene,1,True
+1,1473120,OtherPass,57.99,django,1,True
+1,8601bfad4ad512ff9d6d46d1ba0fbcca,OtherPass,74.9,pybrain;numpy;scipy,3,True
+1,5610068,OtherPass,66.33,pycrypto,1,True
+1,0d1baad4e3a871587ab1,OtherPass,38.3,,0,True
+1,1184264,Build failure,63.58,gevent;pymongogo,2,False
+1,c5ead2b72b2be03eb0ca,OtherPass,65.9,djangorestframework,1,True
+1,20a36f89546854cc434ecee70522cb8d,ModuleNotFound,622.56,pmagpy;webvirtmgr;pillow;pythonapp,4,False
+1,3599025,OtherPass,29.12,,0,True
+1,9012444,ImportError,188.87,ghost-py;pygwidgets;pyside2;bonobo,4,False
+1,93e0ba46f0fa6faf660d,ModuleNotFound,104.72,avmesos,1,False
+1,b3e6f9b5d95af8ba2cc46f2ba6eae5e2,OtherPass,91.45,django;pytest,2,True
+1,5886984,ModuleNotFound,205.78,numpy;zipline-ai;pandas,3,False
+1,c8d1caabaf7b43317bc8825c226045d2,TypeError,243.51,keras;gym;numpy;tensorflow-gpu,4,True
+1,ca851e39229551208c0d,OtherPass,414.1,numpy;scipy;theano;matplotlib,4,True
+1,3688944,OtherPass,53.16,django,1,True
+1,6206626,Build failure,195.84,numpy;scipy;opencv-python;simplepy;pygame,5,False
+1,1791644,OtherPass,58.29,django-compressor,1,True
+1,934a8308a4ec09e2e0756a313a915622,OtherPass,51.78,html2text;beautifulsoup4;requests,3,True
+1,1098968,OtherPass,40.01,pillow,1,True
+1,14f34c2b8153d9b4f336df8535b3416a,TypeError,171.82,tensorflow-gpu,1,True
+1,3023497,Build failure,76.31,m2crypto;pycrypto;libplist,3,False
+1,81635e6cbc933b7e8862,Build failure,68.95,atomap,1,False
+1,101323115e70bb6671d3,ImportError,143.4,pypic;xnumpy;cython,3,False
+1,9542707,OtherPass,28.92,,0,True
+1,f45de3bbabbcacd3ca29,ModuleNotFound,136.08,pysi,1,False
+1,70e5fefe128214b7d2a1,OtherPass,105.85,pyspark,1,True
+1,3018bf3643f80798bde75c17571a38a9,OtherPass,66.22,impacket;termcolor,2,True
+1,4243633,OtherPass,83.27,pycrypto,1,True
+1,8917867,OtherPass,70.56,scrapy,1,True
+1,3aa1d94bb83e5124eae6,ModuleNotFound,156.26,vobj;foundation;web-py,3,False
+1,342989,OtherPass,152.75,numpy;scipy;pymc,3,True
+1,72c7938230537b4f8a4c,Build failure,97.71,pocketsphinx;pyaudio;ytsphinx,3,False
+1,ee8edb61a4aba40ce2fc653e12cd5e69,OtherPass,73.31,python-docx,1,True
+1,1229681,OtherPass,47.71,django,1,True
+1,0b92b9ca837a0f5474c732876220db78,OtherPass,90.41,google-api-python-client;werkzeug;flask,3,True
+1,4463278,ModuleNotFound,86.65,python-git,1,False
+1,261818,ImportError,61.8,google-py,1,False
+1,5612981,OtherPass,131.97,tornado;tornado-redis;redis,3,True
+1,72e72417af260ac17bb0d878e9ea1f52,OtherPass,124.41,tqdm;requests,2,True
+1,795cc1fd6d0c9069b20204cbd133e36b,OtherPass,326.1,numpy;tensorflow-gpu,2,True
+1,7a3fc9739b7778f6673a458605e18963,OtherPass,71.01,numpy;scipy,2,True
+1,5696520,Build failure,99.72,pysimpleguiwx,1,False
+1,55b804cf62b8ee0fa23efdb3ea5a4701,ImportError,484.59,tensorflow-gpu;qkeras,2,False
+1,177e37756c833768a21d446cc4921c6e,TypeError,185.92,six;numpy;tensorflow-gpu;flask,4,True
+1,2974887f3fab071c11a0,SyntaxError,58.46,selenium;boto;pillow;pyvirtualdisplay,4,False
+1,c84643e4d13818fc5a35a8de888126bb,ImportError,118.34,smachine;pycom,2,False
+1,5858518,Build failure,62.35,simplejson;vine;requests;celery;django,5,False
+1,900514,OtherPass,20.03,,0,True
+1,3990769,OtherPass,180.98,zope-interface;plone-api,2,True
+1,4050951,Build failure,157.81,scene;soundy,2,False
+1,518b0c9564e500b4b50f,TypeError,168.06,tensorflow-gpu,1,True
+1,9947556,OtherPass,47.82,python-pptx,1,True
+1,3211f1660291f871739379082f204c83,TypeError,99.45,ansible,1,True
+1,2e0cbef7d50e8e7ef2d2,ModuleNotFound,159.62,youtube-dl;xgi,2,False
+1,3943d55ca7eedf716ed6,OtherPass,44.68,tornado,1,True
+1,4461572,TypeError,57.75,oauthlib;django,2,True
+1,8bbcc202a915e965c6a6d4f561d0e482,Build failure,162.58,geopy;pyproj;geographiclib;pygeode;cython;numpy,6,False
+1,1440567,OtherPass,50.82,django,1,True
+1,5807648,OtherPass,62.68,schematics;pycrypto,2,True
+1,a5fb23f096d7b0c3880e1622938d0901,OtherPass,176.89,torch,1,True
+1,fe8e267149862eb67127f4fff7e017be,ModuleNotFound,298.74,wc-utils,1,False
+1,83b56c3e76c28f88e9ea,ModuleNotFound,1363.42,numpy;chainer;cython;scikit-learn;libdw,5,False
+1,6309113,OtherPass,76.87,numpy;scipy,2,True
+1,2310005,ImportError,53.13,upylib,1,False
+1,3039696,OtherPass,59.52,django;jsonfield,2,True
+1,13f02f45a41ad90f454f,Build failure,111.82,pillow;webvirtmgr;keychain;requests;appel;myphotos,6,False
+1,8982669,Build failure,64.14,webvirtmgr;django-contacts;feedparser,3,False
+1,5793291,ModuleNotFound,77.68,python-pyq,1,False
+1,4558903,Build failure,36.67,distribute;rpi-gpio,2,False
+1,1140136,OtherPass,47.57,django,1,True
+1,450d7da20daaba6d39d0,OtherPass,142.33,bokeh;numpy;jinja2;pandas;ipython;pandas-datareader,6,True
+1,2869341f38f5b1eeb86d,OtherPass,49.21,django,1,True
+1,f112560fd04ce43c53d4,OtherPass,48.82,python-dateutil,1,True
+1,8ff161505721b6c4ab25ccfe7996fd1a,Build failure,3010.99,numpy;pymation;tqdm;facenet;tensorflow-gpu,5,False
+1,85c2ea78ba8de11cdaa14c75e740d633,OtherPass,68.21,pycrypto,1,True
+1,85098ded28a6e472fa7d4c5b0afd5d3e,ImportError,503.82,numpy;tensorflow-gpu;qkeras,3,False
+1,a5407ce6b5061525e7f2,ModuleNotFound,113.11,dce-plugin;sublime-cli,2,False
+1,4555911,Build failure,197.1,webvirtmgr;clipboard;keychain;imagefilters;pyimageop;timage,6,False
+1,2d971a5a087881a966c3,OtherPass,48.4,pillow,1,True
+1,09b1f5403c63ceab5ae34710cbe2809e,ModuleNotFound,117.82,numpy;cv,2,False
+1,6074452,Build failure,72.85,web-foundation,1,False
+1,931406,OtherPass,40.51,python3-memcached,1,True
+1,76fa64ee8380763871ab,ModuleNotFound,265.42,scrapy;pythontutorial;pypatches,3,False
+1,6260dd97a3e39eba9cd6,Build failure,110.39,xpol;pkgconfig;numpy,3,False
+1,4959534,ModuleNotFound,94.53,ivy-python,1,False
+1,dd1538665994b48972a62966b4369354,Build failure,315.31,webvirtmgr;nc-utils;photos,3,False
+1,df919538bcef391bc89f,Build failure,71.54,numpy;audio,2,False
+1,b71ed0e977e6d345bcb8,ModuleNotFound,110.6,ivy-python,1,False
+1,57417446d9c2e986692b3c60069ebc45,Build failure,95.58,cosmos;distribute;nuradiomc;rpi-gpio,4,False
+1,8807124,OtherPass,45.13,pillow,1,True
+1,1877577,ImportError,63.36,mysqlclient;py-dbutils,2,False
+1,5263533,OtherPass,38.26,pyyaml,1,True
+1,1701845,Build failure,121.49,django-storages;django-haystack;clips;turbogears;tasty,5,False
+1,1401195,ImportError,126.46,impostor,1,False
+1,9750796,ImportError,230.7,numpy;scipy;cython;marisa-trie;sklearn2,5,False
+1,6374514,Build failure,174.86,event,1,False
+1,3012306,ModuleNotFound,117.34,rbpy;mypy-extras,2,False
+1,de546cb143ebae4a489a482a05ab4beb,ModuleNotFound,78.8,notme,1,False
+1,6087798,Build failure,82.04,theano;numpy;pylearning,3,False
+1,885932,Build failure,65.66,django,1,False
+1,470c2ffcf1cde9b2a740f48015915e30,ImportError,146.34,capstone;pefile2;keystoneauth,3,False
+1,945093,OtherPass,62.92,django,1,True
+1,c28329f12711a914c7a8cbe6eeb947c0,Build failure,88.94,webvirtmgr;ez-dropbox,2,False
+1,6625609,ModuleNotFound,132.54,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,4176564,OtherPass,42.61,pillow,1,True
+1,984892,OtherPass,53.93,django,1,True
+1,5015483,Build failure,69.84,numpy;constants;reaccess,3,False
+1,4718429,Build failure,106.78,tulip;rosey,2,False
+1,a4533e0adebe57e3ed06d4b50c8419ae,OtherPass,94.78,numpy;matplotlib;scikit-image,3,True
+1,7521277,OtherPass,43.36,pyyaml,1,True
+1,8321212,OtherPass,56.7,pillow;django,2,True
+1,1453629,OtherPass,53.77,django,1,True
+1,5264046,OtherPass,83.17,pycrypto,1,True
+1,2783865,Build failure,37.68,igoogle,1,False
+1,1395810,ImportError,61.2,google-py,1,False
+1,3833430,OtherPass,55.88,django,1,True
+1,6049584,OtherPass,45.7,smbus,1,True
+1,1342942,OtherPass,65.48,numpy;matplotlib,2,True
+1,5849790,OtherPass,41.35,mysqlclient,1,True
+1,6770178,OtherPass,72.34,scikit-learn;numpy;scipy,3,True
+1,7344542,OtherPass,51.41,django,1,True
+1,2786290,ImportError,85.73,sapy;django,2,False
+1,4893d1a05df86afbc2cf,OtherPass,52.94,pyyaml;mysql-connector-python,2,True
+1,e37a85fb0258b045c005ca3db9cbc7f6,TypeError,202.19,tensorflow-gpu,1,True
+1,4088322,ModuleNotFound,105.87,openpy,1,False
+1,8b1b456ec95d95c77d42,ModuleNotFound,105.56,pysi,1,False
+1,3a96a407e16dae155744,ModuleNotFound,250.75,pillow;ooxcb,2,False
+1,70df4922fec74ea87405b83840b45d57,ModuleNotFound,110.45,numpy;cv,2,False
+1,5182379,OtherPass,37.34,python-editor,1,True
+1,096f3b651b268b7af4c8c32475fa23d1,OtherPass,90.13,beautifulsoup4;ipython;pandas;mechanize,4,True
+1,bdb31b04fb1e69fa5346,ModuleNotFound,107.9,proxy,1,False
+1,7c2ec1cd01ada79b45fc9a6323934181,OtherPass,629.41,matplotlib;numpy;cython;scikit-learn;pandas,5,True
+1,3340802,OtherPass,28.57,,0,True
+1,780003,ModuleNotFound,195.16,writema;pypcreate,2,False
+1,59cf3e5b6d96bf67bca34530e522be08,Build failure,45.92,pyserial;pillow;crossfiledialog;constants,4,False
+1,7671688,Build failure,74.54,idc;gaapi,2,False
+1,7872ef0d472a1a2c037736af21b30cfe,Build failure,499.09,keras;numpy;matplotlib;soscipy;tensorflow-gpu,5,False
+1,1038987,OtherPass,49.42,django,1,True
+1,026a4d6400b1efac9a13a3296f16e655,OtherPass,446.91,gensim;tensorflow-gpu,2,True
+1,8969259,Build failure,52.75,igoogle;python-dateutil,2,False
+1,15b3c2a2e9bc7a3c345138a32e029969,Build failure,318.98,numpy;scipy;gensim;kerasy;tensorflow-gpu,5,False
+1,2778605,OtherPass,41.17,pyusb,1,True
+1,826218,ModuleNotFound,65.35,pphp;paste,2,False
+1,504232,ImportError,49.38,jinja2,1,False
+1,1147973,OtherPass,49.76,twisted,1,True
+1,7956216,ModuleNotFound,143.43,timage,1,False
+1,1246268,OtherPass,39.73,pillow,1,True
+1,7805193,OtherPass,90.48,django;django-polymorphic,2,True
+1,f6effc4468cca6f4e8f0,OtherPass,42.65,pyusb,1,True
+1,1556251,ModuleNotFound,71.2,pymongorm,1,False
+1,8450931,ModuleNotFound,113.37,v2,1,False
+1,2836237,OtherPass,51.93,django,1,True
+1,3167162,ModuleNotFound,54.76,ou,1,False
+1,5981683,Build failure,65.3,docopt;dpkt;pcappy;pyyaml,4,False
+1,7946961,TypeError,62.39,capstone,1,True
+1,528d816d035f2deaaca1,OtherPass,80.73,numpy;scikit-learn,2,True
+1,4173534,SyntaxError,50.01,scene;feedparser,2,False
+1,4961824,OtherPass,27.97,,0,True
+1,4d859423b9dae1cf7471,Build failure,70.63,inltk;yamli,2,False
+1,4461862,OtherPass,49.88,gitdb2;gitpython,2,True
+1,1433392,OtherPass,51.9,proj;disutils,2,True
+1,619473,Build failure,132.38,ipython;roots,2,False
+1,fcb9409ef1c1835fa5fb25a860991751,ModuleNotFound,148.81,qmachine;rure,2,False
+1,5167728,ModuleNotFound,104.21,pysi,1,False
+1,5855372,OtherPass,49.85,django-storages;requests,2,True
+1,4119191,OtherPass,69.25,numpy;theano,2,True
+1,748cda36befe17fd1cb0,OtherPass,70.45,python-pptx;scipy,2,True
+1,aad8a37114825b0ce1a5bc48bf5f3cac,NameError,72.36,pyuserinput,1,True
+1,054023c4fca5369ffdb2,Build failure,396.48,clipboard;dautils;aaapi,3,False
+1,5780124,Build failure,115.11,pyaudio;lac;requests,3,False
+1,700554,OtherPass,30.71,,0,True
+1,53aad9bb83b233b523270c30d36e4c81,TypeError,197.88,tensorflow-gpu,1,True
+1,9667052,OtherPass,80.24,pycrypto,1,True
+1,375397bc942d134a3c82d0dd514f3fea,OtherPass,280.37,keras;numpy;scikit-learn;tensorflow-gpu,4,True
+1,1e1d383fb21841e8f144,ModuleNotFound,499.19,numpy;matplotlib;sensorflow,3,False
+1,8179471,OtherPass,63.32,mysqlclient;twisted,2,True
+1,aecb82d8b51e991dbd01,OtherPass,77.41,pillow;numpy;picamerab,3,True
+1,8866ff9fd30930c85779c821f277cf58,ModuleNotFound,67.87,isbinary,1,False
+1,c503014bbb03088bec37a61231036461,OtherPass,29.47,,0,True
+1,acaaf10e9649bfd1863b,OtherPass,59.31,django,1,True
+1,9372073,Build failure,50.4,pypiwin32,1,False
+1,3834957,Build failure,107.12,pyffi;qtile,2,False
+1,be6123c7ee3b366e333a,Build failure,404.17,tltsne;xnumpy;scikit-image;matplotlib;cython,5,False
+1,7c3d01ad13b0e7e5985a,ModuleNotFound,128.92,numpy;cv,2,False
+1,221685a8e03a01baaf1e,NameError,62.77,nbconvert,1,True
+1,5338905,ModuleNotFound,108.87,pysi,1,False
+1,ec0dbce5688e6fcd2cb91ac1fb7d03ca,Build failure,64.87,pyvlx,1,False
+1,b0c075cfde406280cbf7,ImportError,56.77,qc-utils,1,False
+1,3878ce0f3e232e3daf5c,Build failure,54.68,pymarietje,1,False
+1,fe4fd5f27a4811cb0187,OtherPass,38.26,pyexecjs,1,True
+1,846545,NameError,49.09,twisted,1,True
+1,ca92b42f1f796763e5d1f8cd73247a30,Build failure,58.3,wcom;pyjava,2,False
+1,4058325,ImportError,112.81,pymay;pymel,2,False
+1,5969656,ModuleNotFound,95.42,service,1,False
+1,7065820,OtherPass,39.6,pillow,1,True
+1,c7dd1262bd81a32663f0,ModuleNotFound,126.07,foundation;vobj;web-py,3,False
+1,000eccf3d66540d75def,OtherPass,51.27,,0,True
+1,1519543,ModuleNotFound,97.48,dce-plugin;sublime-cli,2,False
+1,5669126,ModuleNotFound,195.77,ndic;maka,2,False
+1,6680676,ModuleNotFound,134.68,discorpy,1,False
+1,4490410,OtherPass,57.96,django-tastypie;django,2,True
+1,1161423,OtherPass,52.48,django,1,True
+1,66f1569ebb0d878748fe,OtherPass,75.37,ansible,1,True
+1,64cf037c55c0d42196762c0ccacc7380,Build failure,180.64,bluetooth-locker;pydroid;pwntools;qconnectbase,4,False
+1,5574345,OtherPass,62.17,numpy;scikit-learn,2,True
+1,b4a0aed67fc0da6b02434a5c2cef45c4,ModuleNotFound,116.47,dnspython;eventlet;tswift,3,False
+1,6038468,ImportError,114.47,timage,1,False
+1,dc61c42aa4e89e139cd8248f59af6b3e,OtherPass,27.75,,0,True
+1,3750774,Build failure,99.32,djangox;django-haystack,2,False
+1,10206392,ModuleNotFound,89.54,ychat,1,False
+1,5691375,ImportError,102.02,webvirtmgr;pyeditor,2,False
+1,3c98ac23d4e1c97da065ad7c4562c16c,OtherPass,31.06,,0,True
+1,4727690,TypeError,41.8,python-clouddns,1,True
+1,10a742de43246210f3ba,OtherPass,84.32,scipy;gensim,2,True
+1,5502087,TypeError,65.83,python-mega,1,True
+1,1379479,ImportError,110.04,blimey;sublime-plugin-tests,2,False
+1,1cb65c4b5be2575ea3ab,Build failure,101.87,winregal;pypiwin32,2,False
+1,7964172,OtherPass,56.59,django,1,True
+1,5e9a7c0d46cfdfe00104,ModuleNotFound,155.83,webvirtmgr;python-editor;keychain;private-attrs;requests,5,False
+1,990d3653c5803927cbb6,OtherPass,45.11,requests,1,True
+1,1055161,ModuleNotFound,75.77,python-pyq;cv,2,False
+1,dffb8de093502b153e85,ModuleNotFound,313.88,treelib;lxml,2,False
+1,d1899f011ae41b26fb6e,OtherPass,178.87,numpy;six;keras;tables;tensorflow-gpu,5,True
+1,ea1b1bae0a75c4aae593df7eca72d9ca,TypeError,211.31,tensorflow-gpu,1,True
+1,614fc39a78d028c9dce9,Build failure,68.84,runcmd;temp;setuptools;python-applescript,4,False
+1,130583,OtherPass,52.88,django,1,True
+1,160c990c61c5f527445c,NameError,53.71,pocket;beautifulsoup4,2,True
+1,2020955,OtherPass,86.59,numpy;scipy;scikit-learn;matplotlib,4,True
+1,3004168,ImportError,84.76,svc;django,2,False
+1,0ba0270279a0f38280423754cea2ee1e,OtherPass,187.2,keras;tensorflow-gpu,2,True
+1,18e6b6ed5d69b057e773,ModuleNotFound,70.78,pyworkflows,1,False
+1,1251716,ImportError,81.66,blimey;sublime,2,False
+1,9768713,ModuleNotFound,89.57,python-git,1,False
+1,5846464,OtherPass,64.99,sqlalchemy;psycopg2,2,True
+1,5882966,ImportError,71.37,netaddr;netifaces;pyyaml;capy,4,False
+1,3fb443494f111eeb96e39cce1873070d,Build failure,370.98,webvirtmgr;happe;pfc-util,3,False
+1,874808,OtherPass,448.01,,0,True
+1,6c168b0c36ca3b23cacc,Build failure,328.05,pmagpy;zipnish;nc-utils,3,False
+1,fd65891daf183d99d91cb83b89e2a4c7,ModuleNotFound,114.62,rbpy,1,False
+1,8949577,Build failure,55.18,pillow;scene;soundy,3,False
+1,10567484,OtherPass,55.57,numpy;pillow,2,True
+1,667c5554e5d9d9a25ae6,OtherPass,49.14,pillow,1,True
+1,706573,ImportError,104.75,timage,1,False
+1,c92066d9d38b236a21d5a7b729a10f12,TypeError,258.1,numpy;tensorflow-gpu,2,True
+1,6044677,OtherPass,41.34,tox,1,True
+1,9d4ea9b04b223de02c7a,Build failure,297.85,sark;aaapi,2,False
+1,bce98c5c1688fc833475,ModuleNotFound,80.59,wires;influxdb,2,False
+1,f150b59dd68500099a56184dc25f1300,ModuleNotFound,102.03,foundation;vobj;web-py,3,False
+1,d68467b87bc50e04c41e,OtherPass,83.17,numpy;h5py;pillow,3,True
+1,5720029,ImportError,58.98,sh;pyyaml;parcp,3,False
+1,8383050,ModuleNotFound,119.74,dce-plugin;sublime-cli,2,False
+1,4973958,OtherPass,51.51,django,1,True
+1,6958459,OtherPass,59.29,numpy;scipy,2,True
+1,7946246,OtherPass,102.51,matplotlib;theano;numpy;scikit-learn,4,True
+1,835979,ImportError,82.97,beautifulsoup;demjson;htmlgrab,3,False
+1,03d9c46c86691c9bb680,OtherPass,90.0,psycopg2;django,2,True
+1,5753650,ModuleNotFound,89.42,vrcpy,1,False
+1,f940f98fbbac84d35e8d,ModuleNotFound,163.95,numpy;scipy;matplotlib;sochainer,4,False
+1,6467595,ModuleNotFound,78.34,django;anuproject,2,False
+1,07cdfc2826a565b50a68,OtherPass,62.95,pycrypto,1,True
+1,4524784,OtherPass,52.21,django,1,True
+1,4036200,ModuleNotFound,92.77,python-editor;webvirtmgr;pyjpgclipboard,3,False
+1,2184906,Build failure,111.38,pygtk;gst;pygsr;snumpy,4,False
+1,3b1159baecb809b5fcb3a6154bc3cb0b,Build failure,155.38,numpy;wai-pycocotools,2,False
+1,ec8f1689bfde3ce9a920,OtherPass,46.94,pysocks;stem;flask,3,True
+1,5587680,ModuleNotFound,113.64,v2,1,False
+1,01886b6f79ba0c4dce66,OtherPass,89.42,django,1,True
+1,1203640,Build failure,37.71,django,1,False
+1,4145581,ModuleNotFound,99.67,sharpython,1,False
+1,30839ae0280a5077b8669757e5efa75d,Build failure,48.26,ui;pyscene;soundy,3,False
+1,67c14af0d5afaae5b18c,OtherPass,62.41,numpy;opencv-python,2,True
+1,8555297,ModuleNotFound,123.46,dce-plugin;sublime-cli,2,False
+1,e294562759ff2755486e,ImportError,90.23,pycrypto,1,False
+1,6038174,OtherPass,51.31,pillow,1,True
+1,9f2d7da68779a17a0890,ImportError,112.6,rethinkdb;flask;csvkit,3,False
+1,083777cb1f8c9efe6418c75d18bdd32b,NameError,50.62,evdev;python-ev3dev,2,True
+1,1567224,Build failure,318.04,scrapy;decimal-monkeypatch;micone,3,False
+1,8bb867dc631433c01fd0,OtherPass,50.51,django,1,True
+1,3078465,ModuleNotFound,119.75,werkzeug;flask;flconverters,3,False
+1,c5afa16b07747b113808,OtherPass,74.12,django,1,True
+1,6771295,OtherPass,124.51,oauth2client,1,True
+1,6094977,OtherPass,44.7,smbus,1,True
+1,4051357,AttributeError,73.14,pygithub;webvirtmgr;keychain,3,False
+1,1262332,SyntaxError,55.04,pyserial;python-messaging,2,False
+1,5415296,OtherPass,68.08,django,1,True
+1,1337131,ModuleNotFound,110.58,may;pyqt6;sip;requests,4,False
+1,99f7f921b512496a9563691e15d846b2,SyntaxError,722.48,numpy;keras;tensorflow-gpu,3,False
+1,4118456,Build failure,45.73,sphinx;pycopy-posixpath,2,False
+1,efabc30c4b2c9afd8a83,OtherPass,111.99,numpy;scipy,2,True
+1,3948701,ImportError,73.4,py-protocols,1,False
+1,771426542eb36afeb56ce8b163560a4c,NameError,366.87,keras;numpy;opencv-contrib-python;pandas;tensorflow-gpu,5,True
+1,9bb9eaea2523cd2144cf959f48a14194,OtherPass,80.18,djangorestframework-jwt;django;djangorestframework,3,True
+1,c5af642cf217971d93f499e8f70fcb72,Build failure,272.0,theano;scikit-learn;numpy;agnes,4,False
+1,bcd8b4002b6cbf77dd89,OtherPass,40.97,,0,True
+1,1882562,OtherPass,94.61,numpy;scipy;matplotlib,3,True
+1,3015852,SyntaxError,56.23,pillow;simplejson;selenium;pyvirtualdisplay,4,False
+1,7310160,ImportError,104.69,timage,1,False
+1,f3190ebba6c53887d598d03119ca2066,ImportError,221.36,lasagne;rnumpy;theano-hf,3,False
+1,9670681,OtherPass,41.44,python-dateutil,1,True
+1,844388,OtherPass,35.84,pyyaml,1,True
+1,4636851,ModuleNotFound,121.9,mypy-extras;rbpy,2,False
+1,899524,OtherPass,95.4,simplejson;python-cjson;jsonlib;ujson,4,True
+1,7234995,OtherPass,51.22,south;django,2,True
+1,9218f99ba35da225ca11,OtherPass,29.93,,0,True
+1,4732790,ModuleNotFound,105.14,pysi,1,False
+1,50abbd0ad3c16c5dee55,Build failure,81.71,idc;naapi;dautils,3,False
+1,8831412,Build failure,68.17,webcore;pyobj,2,False
+1,7002396,OtherPass,64.36,django,1,True
+1,e38e0588bf6d8f32e99d,OtherPass,97.24,mysql-connector-python;tweepy,2,True
+1,3fe84c05013fa87d74a8,NameError,61.08,easygui,1,True
+1,5660624,Build failure,99.87,sqlalchemy;dogpile-cache;txcaching;pyramid,4,False
+1,3078764,Build failure,91.03,pygobject;python-tdbus;cython,3,False
+1,848913,OtherPass,44.29,pillow,1,True
+1,1e8ab5bcf1a3af2c20de,Build failure,48.21,dropbox,1,False
+1,b492a548aa342ce0badfe1eed86ea5a4,TypeError,227.96,numpy;pandas;tensorflow-gpu,3,True
+1,5642247,OtherPass,137.76,transaction;plone-api,2,True
+1,1218932,ImportError,62.11,pyserial;djangomosquito,2,False
+1,a48b50e46f01dc7ac96d,ImportError,83.43,webvirtmgr;clipboard;pythonapp,3,False
+1,6874944,Build failure,45.43,s4d,1,False
+1,8638475,ImportError,66.86,pyserial;crt,2,False
+1,c80e24454ee353d3c123,OtherPass,81.47,scrapy,1,True
+1,3310561,OtherPass,44.52,i3-py,1,True
+1,cad6d3d223fc8d769227,OtherPass,97.4,scikit-learn;pandas,2,True
+1,5796677,OtherPass,71.85,django;django-classy-tags;django-cms,3,True
+1,1321585,OtherPass,56.96,matplotlib;numpy,2,True
+1,966387,SyntaxError,85.23,pygeneric;python-cjson;django;python-twitter,4,False
+1,764746,OtherPass,43.98,pymongo,1,True
+1,8427853,ModuleNotFound,54.83,gdscene,1,False
+1,10938795,ModuleNotFound,97.25,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,8877450,ModuleNotFound,97.11,bitforge,1,False
+1,7681066,OtherPass,49.82,south;django,2,True
+1,8fa6b37265d5394dd7a4,OtherPass,68.33,pycrypto,1,True
+1,7c395aa3634b2f2a0cb4,OtherPass,80.68,django,1,True
+1,8f9980999ed43246b9b2,OtherPass,82.9,pycrypto,1,True
+1,850ab7372d51005fdfd7,OtherPass,100.81,numpy;scikit-learn;rasterio,3,True
+1,0cdd8d6adb8463961f50bd1845faddf8,OtherPass,147.01,torch,1,True
+1,905380,SyntaxError,84.75,image;plugpy;skype4py;pyquery;feedparser,5,False
+1,3978565,ModuleNotFound,73.71,python-pyq,1,False
+1,931984,Build failure,29.41,mysql-python,1,False
+1,b95cb69fd1c82ca4c2ff,OtherPass,103.69,numpy;xgboost,2,True
+1,5036719,ModuleNotFound,85.45,sublime-cli,1,False
+1,1748a6676120a0aacea2,OtherPass,44.13,dnspython3,1,True
+1,97a1b2b7f954246886de,OtherPass,42.68,pillow,1,True
+1,3c76bc174844948c5f98,OtherPass,76.82,django-pipeline;django,2,True
+1,3fb234c37b5c2c934b79,OtherPass,73.37,pyyaml;six,2,True
+1,6092292,ImportError,55.45,pycarbon,1,False
+1,0db840f27f1f0fd0747f13ab80d0ca37,ModuleNotFound,141.88,v2;numpy;requests,3,False
+1,d2c38170d4beceeb32dc,ModuleNotFound,128.35,aiowerkzeug;itsdangerous;jinja2;flaskz,4,False
+1,723a39071659bb763cff,SyntaxError,326.72,keras;tensorflow-gpu,2,False
+1,2988354,OtherPass,92.08,numpy;scipy;matplotlib,3,True
+1,97d0fb82c3894f56809a,OtherPass,48.13,beautifulsoup4;requests,2,True
+1,66ed98cf3fc2b161df47c0c08954dc62,OtherPass,108.17,requests;bokeh;pandas,3,True
+1,3308963,Build failure,72.04,cython;adbus,2,False
+1,e625e7ba482efdb670501cf401a2b6e9,OtherPass,113.21,numpy;matplotlib;pandas;seaborn,4,True
+1,3141140,ImportError,104.78,timage,1,False
+1,97cffbea574a5890f0d7,OtherPass,74.19,numpy;scikit-learn,2,True
+1,3356622,OtherPass,39.15,pillow,1,True
+1,8bc573bb3a970b1c214d,ModuleNotFound,79.37,sublime-cli,1,False
+1,f5e40e52de480e53a243fa15af536a8e,OtherPass,71.95,psycopg2;django,2,True
+1,386098fb7348606b295a,OtherPass,41.39,burp,1,True
+1,0f5f65ddbfa278713f58,AttributeError,52.54,biopython,1,False
+1,982ce339d5f8c9a769a0,NameError,79.74,numpy;scikit-learn;pandas,3,True
+1,4222418,ImportError,50.31,vcv,1,False
+1,1a43c785226a06a72872,ModuleNotFound,94.46,ychat,1,False
+1,05ff99985269200cdc4854ddc04fa6e9,OtherPass,76.02,numpy;lightgbm,2,True
+1,876425,OtherPass,45.03,pillow,1,True
+1,5352608,OtherPass,53.32,apscheduler,1,True
+1,745868fb26102298e837,OtherPass,47.18,pyopenssl,1,True
+1,cc3c187172ac848bd896ecb2b812dc51,OtherPass,53.97,pillow;internetarchive,2,True
+1,b26db61d8bde30b8a88451615105da7a,NameError,191.83,matplotlib;numpy;opencv-contrib-python;ipython;ipywidgets,5,True
+1,c18130768ac0ef0345947c5aa0827b65,ModuleNotFound,103.57,pixel-py;microbit-3,2,False
+1,035dc3b722b7f89cce66520dde285c9a,ImportError,101.76,swiftly,1,False
+1,1685580,Build failure,138.14,flasked;sqlalchemy;pyodbc;werkzeug;flask,5,False
