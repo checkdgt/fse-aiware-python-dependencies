@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  pllm:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        UNAME: ${USER:-appuser}
+        UID: ${UID:-1000}
+        GID: ${GID:-1000}
+        DOCKER_GID: ${DOCKER_GID:-999}
+      platforms:
+        - linux/amd64
+    
+    image: pllm:latest
+    container_name: pllm-test
+    platform: linux/amd64
+    
+    volumes:
+      # Mount Docker socket for Docker-in-Docker
+      - /var/run/docker.sock:/var/run/docker.sock:rw
+      # Mount hard-gists folder (two directories up)
+      - ../../hard-gists:/gists:rw
+    
+    working_dir: /app
+    
+    # Keep container running
+    stdin_open: true
+    tty: true
+    
+    # Override the default entrypoint to run the command
+    entrypoint: /bin/bash
+    #entrypoint: []
+    #command: >
+    #  bash -c "python test_executor.py -f '/gists/0a2ac74d800a2eff9540/snippet.py' -m 'gemma2' -b 'http://host.docker.internal:11434' -l 1 -r 0 && tail -f /dev/null"
+    
+    # Optional: Add environment variables
+    environment:
+      - DOCKER_HOST=unix:///var/run/docker.sock

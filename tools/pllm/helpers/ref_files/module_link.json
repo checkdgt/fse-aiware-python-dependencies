@@ -1,0 +1,269 @@
+{
+    "apiclient": {
+        "ref": "google-api-python-client"
+    },
+    "arcpy": {
+        "ref": "arcgispro-py3"
+    },
+    "attr": {
+        "ref": "attrs"
+    },
+    "avahi-python": {
+        "ref": "python-avahi"
+    },
+    "azure-mgmt-azure": {
+        "ref": "azure-mgmt"
+    },
+    "bcc": {
+        "ref": "bcc-python"
+    },
+    "bio": {
+        "ref": "biopython"
+    },
+    "bs4": {
+        "ref": "beautifulsoup4"
+    },
+    "c4d": {
+        "ref": "c4ddev"
+    },
+    "chess": {
+        "ref": "python-chess"
+    },
+    "cjson": {
+        "ref": "python-cjson"
+    },
+    "cms": {
+        "ref": "django-cms"
+    },
+    "cocoa": {
+        "ref": "pycocoa"
+    },
+    "console": {
+        "ref": "webvirtmgr"
+    },
+    "compressor": {
+        "ref": "django-compressor"
+    },
+    "crypto": {
+        "ref": "pycryptodome"
+    },
+    "cryptodome": {
+        "ref": "pycryptodomex"
+    },
+    "cv2": {
+        "ref": "opencv-python"
+    },
+    "daemon": {
+        "ref": "python-daemon"
+    },
+    "dateutil": {
+        "ref": "python-dateutil"
+    },
+    "debug_toolbar": {
+        "ref": "django-debug-toolbar"
+    },
+    "dns": {
+        "ref": "dnspython3"
+    },
+    "docx": {
+        "ref": "python-docx"
+    },
+    "editor": {
+        "ref": "python-editor"
+    },
+    "elementtree": {
+        "ref": "citelementtree"
+    },
+    "ffmpeg": {
+        "ref": "python-ffmpeg"
+    },
+    "freetype": {
+        "ref": "freetype-py"
+    },
+    "generic": {
+        "ref": "pygeneric"
+    },
+    "gi": {
+        "ref": "pygobject"
+    },
+    "git": {
+        "ref": "gitpython"
+    },
+    "github": {
+        "ref": "pygithub"
+    },
+    "googleapiclient": {
+        "ref": "google-api-python-client"
+    },
+    "guardian": {
+        "ref": "django-guardian"
+    },
+    "haystack": {
+        "ref": "django-haystack"
+    },
+    "i3": {
+        "ref": "i3-py"
+    },
+    "ib": {
+        "ref": "ibpy2"
+    },
+    "imagekit": {
+        "ref": "django-imagekit"
+    },
+    "impala": {
+        "ref": "impyla"
+    },
+    "jnius": {
+        "ref": "pyjnius"
+    },
+    "jose": {
+        "ref": "python-jose"
+    },
+    "llama_index": {
+        "ref": "llama-index"
+    },
+    "load_dotenv": {
+        "ref": "dotenv"
+    },
+    "magic": {
+        "ref": "python-magic"
+    },
+    "matlab": {
+        "ref": "matlabengine"
+    },
+    "mecab": {
+        "ref": "mecab-python"
+    },
+    "mega": {
+        "ref": "python-mega"
+    },
+    "memcache": {
+        "ref": "python-memcached"
+    },
+    "messaging": {
+        "ref": "python-messaging"
+    },
+    "microbit": {
+        "ref": "yotta"
+    },
+    "more_itertools": {
+        "ref": "more-itertools"
+    },
+    "mosquitto": {
+        "ref": "paho-mqtt"
+    },
+    "multipart": {
+        "ref": "python-multipart"
+    },
+    "multipart_reader": {
+        "ref": "multipart-reader"
+    },
+    "mysqldb": {
+        "ref": "mysqlclient"
+    },
+    "naturaltoken": {
+        "ref": "ntlk"
+    },
+    "nomad": {
+        "ref": "python-nomad"
+    },
+    "nova": {
+        "ref": "python-novaclient"
+    },
+    "obelisk": {
+        "ref": "obelisk-py"
+    },
+    "objc": {
+        "ref": "pyobjc"
+    },
+    "openerp": {
+        "ref": "openerp-web"
+    },
+    "openssl": {
+        "ref": "pyopenssl"
+    },
+    "osgeo": {
+        "ref": "gdal"
+    },
+    "paho": {
+        "ref": "paho-mqtt"
+    },
+    "path": {
+        "ref": "pathpy"
+    },
+    "PIL": {
+        "ref": "pillow"
+    },
+    "pil": {
+        "ref": "pillow"
+    },
+    "pipeline": {
+        "ref": "django-pipeline"
+    },
+    "pptx": {
+        "ref": "python-pptx"
+    },
+    "pygame": {
+        "ref": "pygame-ce"
+    },
+    "registration": {
+        "ref": "django-registration"
+    },
+    "rest_framework": {
+        "ref": "djangorestframework"
+    },
+    "restful_lib": {
+        "ref": "python-rest-client"
+    },
+    "securitycenter": {
+        "ref": "pysecuritycenter"
+    },
+    "serial": {
+        "ref": "pyserial"
+    },
+    "skimage": {
+        "ref": "scikit-image"
+    },
+    "sklearn": {
+        "ref": "scikit-learn"
+    },
+    "social_auth": {
+        "ref": "django-social-auth"
+    },
+    "social-auth": {
+        "ref": "django-social-auth"
+    },
+    "socks": {
+        "ref": "pysocks"
+    },
+    "storages": {
+        "ref": "django-storages"
+    },
+    "tastypie": {
+        "ref": "django-tastypie"
+    },
+    "twitter": {
+        "ref": "python-twitter"
+    },
+    "usb": {
+        "ref": "pyusb"
+    },
+    "visa": {
+        "ref": "pyvisa"
+    },
+    "watson": {
+        "ref": "td-watson"
+    },
+    "web": {
+        "ref": "web-py"
+    },
+    "wordpress_xmlrpc": {
+        "ref": "python-wordpress-xmlrpc"
+    },
+    "xmpp": {
+        "ref": "xmpppy"
+    },
+    "yaml": {
+        "ref": "pyyaml"
+    }
+}
