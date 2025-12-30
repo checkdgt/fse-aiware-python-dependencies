@@ -1,7 +1,7 @@
 # Agentic Based Python Dependency Resolution
 ![Static Badge](https://img.shields.io/badge/Python-3.11-blue)
 ![GitHub Discussions](https://img.shields.io/github/discussions/checkdgt/fse-aiware-python-dependencies)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/checkdgt/fse-aiware-python-dependencies)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/checkdgt/fse-aiware-python-dependencies/discussions)
 
 ## Abstract
 The first annual Agentic-based Python Dependency Resolution challenge, to be held at FSE 2026, invites researchers and practitioners to develop innovative agentic-based systems for automatically resolving complex Python dependency conflicts.
