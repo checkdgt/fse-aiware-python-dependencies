@@ -18,6 +18,10 @@ Dependency conflicts remain a daily challenge due to an ever increasing module l
 
 Therefore, we invite practitioners from both Academia and Industry to submit their tools and papers to help advance this field further.
 
+## Competition Workshop
+
+Selected papers will be presented during the conference, at least one author must be registered to present the work. We will also present the tool competition results after verifying each tool against a heldout dataset.
+
 ## Paper
 Paper submissions are short papers (max 4 pages including references), following the FSE paper format [guidelines](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#Call-for-Papers). **Details on how to submit will come soon**.
 
@@ -78,8 +82,9 @@ All deadlines are Anywhere on Earth (AoE):
 
 ### Dependencies
  - Install Ollama (https://ollama.com/)
- - Download Gemma2
+ - Download Gemma2 through Ollama (e.g. ollama pull gemma2)
  - Start the Ollama server
+ - Extract hard-gists.tar.gz
 
 To begin, we suggest building the PLLM docker container and running the sample gists to understand how existing works have tackled this problem.
 
@@ -87,7 +92,11 @@ We provide a build script which has been validated on OSX (ARM) and Debian 22.
 
 ```cd tools/pllm && build.sh```
 
+```echo "USER=$(whoami)" >> .env && echo "UID=$(id -u)" >> .env && echo "GID=$(id -g)" >> .env && echo "DOCKER_GID=$(stat -c '%g' /var/run/docker.sock)" >> .env```
+
 ```docker compose up -d```
+
+**NOTE**: If not using docker compose and Ollama is also dockerized, both containers must be on the same docker network and the -b parameter below should substitute 'host.docker.internal' for the Ollama container name (e.g. ollama), such that the string becomes ''http://ollama:11434'.
 
 The docker compose should bring up the 'pllm-test' docker container. To use the container, we provide the following parameters.
 

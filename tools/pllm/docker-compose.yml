@@ -17,6 +17,9 @@ services:
     container_name: pllm-test
     platform: linux/amd64
     
+    networks:
+      - pllm-network
+    
     volumes:
       # Mount Docker socket for Docker-in-Docker
       - /var/run/docker.sock:/var/run/docker.sock:rw
@@ -33,8 +36,27 @@ services:
     entrypoint: /bin/bash
     #entrypoint: []
     #command: >
-    #  bash -c "python test_executor.py -f '/gists/0a2ac74d800a2eff9540/snippet.py' -m 'gemma2' -b 'http://host.docker.internal:11434' -l 1 -r 0 && tail -f /dev/null"
+    #  bash -c "python test_executor.py -f '/gists/0a2ac74d800a2eff9540/snippet.py' -m 'gemma2' -b 'http://ollama:11434' -l 1 -r 0 && tail -f /dev/null"
     
     # Optional: Add environment variables
     environment:
       - DOCKER_HOST=unix:///var/run/docker.sock
+  
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    restart: unless-stopped
+    
+    networks:
+      - pllm-network
+    
+    ports:
+      - "11434:11434"
+    
+    # Optional: Add environment variables
+    environment:
+      - DOCKER_HOST=unix:///var/run/docker.sock
+
+networks:
+  pllm-network:
+    driver: bridge
