@@ -7,7 +7,11 @@
 The first annual Agentic-based Python Dependency Resolution challenge, to be held at FSE 2026, invites researchers and practitioners to develop innovative agentic-based systems for automatically resolving complex Python dependency conflicts.
 The competition emphasizes open-source innovative memory constrained techniques, such as LLM fine-tuning, retrieval-augmented generation, graph-based databases, error log analysis, and prompt engineering. With open attendance and paper submissions appearing in ACM Digital Library, this event addresses the timely challenge of dependency management in modern Python ecosystems, fostering community collaboration and establishing best practices for LLM-based package management tools.
 
-https://conf.researchr.org/committee/fse-2026/fse-2026-aiware-2026-competition-program-committee
+[FSE-AIWare](https://conf.researchr.org/committee/fse-2026/fse-2026-aiware-2026-competition-program-committee)
+
+![Alt text](fse-aiware.jpeg "FSE-AIWare")
+
+
 
 ## Overview
 Agentic engineering has advanced wildly over recent years. Since Chat GPT3.5 took the spotlight back in 2022, we've seen frontier models frequently push the boundaries of what we thought possible.
