@@ -27,7 +27,7 @@ Therefore, we invite practitioners from both Academia and Industry to submit the
 Selected papers will be presented during the conference, at least one author must be registered to present the work. We will also present the tool competition results after verifying each tool against a heldout dataset.
 
 ## Paper
-Paper submissions are short papers (max 4 pages including references), following the FSE paper format [guidelines](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#Call-for-Papers). **Details on how to submit will come soon**.
+Paper submissions are short single-blind papers (max 4 pages including references), following the FSE paper format [guidelines](https://conf.researchr.org/track/fse-2026/fse-2026-research-papers#Call-for-Papers). **Details on how to submit will come soon**.
 
 Papers should describe their approach and evaluate using PLLM as a baseline, using the HG2.9K dataset from Horton and Parnin [2018](https://arxiv.org/abs/1808.04919) (see Tools subsection).
 
