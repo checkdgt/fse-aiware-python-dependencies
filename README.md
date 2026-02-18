@@ -34,7 +34,7 @@ Papers should describe their approach and evaluate using PLLM as a baseline, usi
 ## Submissions
  - **Paper**: Please submit papers directly to *Antony Bartlett* <a.j.bartlett@tudelft.nl>
 
- - **Code**: We ask competitors to submit code via the process outlined in the [Code Submissions](#code-submissions) section.
+ - **Code**: We ask competitors to submit code via the process outlined in the [Code Submissions](#code-submissions) section. **Code submissions are public by default , if you prefer this to be private, zip/tar your tool and send directly with your paper**
 
 ## Tools
 
@@ -68,6 +68,7 @@ We ask competitors to adhere to the following guidelines.
 - 10GB VRAM operational constraint (Models should fit within this limit)
 - Tools must accept either a folder containing all 'snippets' or one snippet a time (see PLLM setup for more information)
 - Submit a [Fork Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) no later than the competition [deadline](#important-dates)
+- **Code submissions are public by default, if you prefer this to be private, zip/tar your tool and send directly with your [paper](#submissions)**
 
 Each tool is expected to generate a 'fix' for each snippet in the hard-gists dataset. Note, not every snippet has a possible fix, due to OS and system level dependency constraints.
 
