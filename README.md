@@ -31,6 +31,11 @@ Paper submissions are short single-blind papers (max 4 pages including reference
 
 Papers should describe their approach and evaluate using PLLM as a baseline, using the HG2.9K dataset from Horton and Parnin [2018](https://arxiv.org/abs/1808.04919) (see Tools subsection).
 
+## Submissions
+ - **Paper**: Please submit papers directly to *Antony Bartlett* <a.j.bartlett@tudelft.nl>
+
+ - **Code**: We ask competitors to submit code via the process outlined in the [Code Submissions](#code-submissions) section.
+
 ## Tools
 
 ### Baseline System Overview
@@ -55,13 +60,14 @@ These folders contain information on working Python versions that could be extra
 - **Computational Cost**: Time/resources (10GB VRAM limit)
 - **Generalization**: Performance on held-out conflicts
 
+#### Code Submissions
 We ask competitors to adhere to the following guidelines.
- - Fork this repo
- - Create a new folder for your tool in the tools folder
- - Tools must run within a Docker container (in the spirit of dependency management, please ensure Python and module versions are pinned)
- - 10GB VRAM operational constraint (Models should fit within this limit)
- - Tools must accept either a folder containing all 'snippets' or one snippet a time (see PLLM setup for more information)
- - Submit a pull request no later than the competition deadline
+- Fork this repo
+- Create a new folder for your tool in the tools folder
+- Tools must run within a Docker container (in the spirit of dependency management, please ensure Python and module versions are pinned)
+- 10GB VRAM operational constraint (Models should fit within this limit)
+- Tools must accept either a folder containing all 'snippets' or one snippet a time (see PLLM setup for more information)
+- Submit a [Fork Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) no later than the competition [deadline](#important-dates)
 
 Each tool is expected to generate a 'fix' for each snippet in the hard-gists dataset. Note, not every snippet has a possible fix, due to OS and system level dependency constraints.
 
@@ -70,9 +76,11 @@ Final tool results will be presented during the event, where tools will be furth
 ### Important Dates
 All deadlines are Anywhere on Earth (AoE):
  - **Competition Announcement**: January 1, 2026
- - **Paper Submission Deadline**: February 28, 2026
+ - **Paper Submission Deadline**: March 6, 2026
  - **Notification to Authors**: March 26, 2026
+ - **Participants Camera Ready**: March 31, 2026
  - **Camera-Ready Deadline**: April 2, 2026
+ - **Organizers Report Camera Ready**: April 9, 2026
  - **Competition Date**: July 6, 2026
 
 ### Program Committee
